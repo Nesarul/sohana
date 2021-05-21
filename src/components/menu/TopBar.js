@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import Logo from '../../images/main-logo.png';
 import BarMenu from "../../images/bar.png";
 import { SideBarData } from '../data/SideBarData';
+import BannerImage from '../../images/banner.jpg'
 function TopBar() {
     const [isSideBarVisible, setSideBarVisibility] = useState(1);
     const setSideBar = () => (
@@ -13,9 +14,10 @@ function TopBar() {
         <>
             <div className="row">
                 <div className="col-12 p-0">
+                    
                     <div className="wrapper">
                         <nav id="sidebar" className={ isSideBarVisible ? "active":"null"}>
-                            <ul class="lisst-unstyled components">
+                            <ul className="list-unstyled">
                                 { 
                                     SideBarData.map((items)=>{
                                         return(
@@ -30,7 +32,6 @@ function TopBar() {
                                 }
                             </ul>
                         </nav>
-                        
                         <div id="content">
                             <nav className="navbar navbar-expand-lg navbar-light bg-custom">
                                 <div className="container-fluid">
@@ -40,8 +41,6 @@ function TopBar() {
                                     </button>
                                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                                            {/* <li className="nav-item"><Link to="#" className="nav-link active">Home</Link></li>
-                                            <li className="nav-item"><Link to="#" className="nav-link">Link</Link></li> */}
                                             <li className="nav-item">
                                                 <Link to="#" className="nav-link" onClick={ setSideBar }><img src={ BarMenu } alt="Bar Menu" /></Link>
                                             </li>
@@ -49,19 +48,19 @@ function TopBar() {
                                     </div>
                                 </div>
                             </nav>                        
-                    
+                            <div className="container-fluid">
+                                <div className="row">
+                                    <div className="col-12 p-0">
+                                        <img src={BannerImage} alt="Banner" className="w-100" />
+                                    </div>
+                                </div>
+                            </div>
+
                             <br/><br/>
                             <div className="container">
                                 <div className="row">
                                     <div className="col-12">
-                                    <h1>Collapsible Bootstrap Sidebar Navigation Example</h1>
-                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero ipsum cumque nemo architecto laboriosam perspiciatis consequatur atque quidem vel excepturi distinctio recusandae reprehenderit vitae, libero unde ea temporibus quaerat animi ducimus ratione esse? Aspernatur magnam facere suscipit vitae itaque maxime quo amet officiis animi, harum et inventore delectus nihil cumque!</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni sit nostrum aliquid mollitia optio veniam at excepturi vitae sint laudantium fugit ratione molestias, doloremque cumque eaque eligendi nobis quia. Labore officiis quisquam officia dolore! Eos labore, alias, voluptatem maxime sunt culpa dolorum at quam architecto impedit cupiditate quis ipsum odit, necessitatibus accusantium quod quo molestias enim laboriosam! Maiores facere accusamus repellat saepe enim omnis perspiciatis dolor, cupiditate ex doloremque laudantium similique sunt quisquam! Quaerat, facere ipsum natus officia cupiditate repellendus.</p>
-                                    
-                                    <div class="line"></div>
-                                    <h3>Lorem Ipsum</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione voluptas consequuntur laboriosam quia vero corporis, officiis, dolore natus iste incidunt animi dolor porro accusamus similique aut, facilis architecto quas? Assumenda mollitia error vel blanditiis perferendis quis sequi deleniti repellat laboriosam!</p>
-
+                                        
                                     </div>
                                 </div>
                             </div>

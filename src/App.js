@@ -3,7 +3,6 @@ function App() {
 	return (
 		<div>
 			<TopBar />
-			<h1>Bismillahir Rahmanir Rahim</h1>
 		</div>
 	);
 }
