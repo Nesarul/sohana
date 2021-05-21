@@ -3,7 +3,7 @@ import gs from '../../images/icon_getting_started.svg'
 import pj from '../../images/icon_projects.svg'
 import fl from '../../images/icon_files.svg'
 import mt from '../../images/icon_meetings.svg'
-import og from '../../images/icon_org_settings.svg'
+import og from '../../images/icon_org_settingss.svg'
 import kb from '../../images/icon_kb.svg'
 export const SideBarData = 
 [

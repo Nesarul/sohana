@@ -8,7 +8,7 @@ import { SideBarData } from '../data/SideBarData';
 import BannerImage from '../../images/banner.jpg'
 import Dashboard from '../../pages/Dashboard';
 function TopBar() {
-    const [isSideBarVisible, setSideBarVisibility] = useState(1);
+    const [isSideBarVisible, setSideBarVisibility] = useState(0);
     const setSideBar = () => (
         setSideBarVisibility(!isSideBarVisible)
     );
