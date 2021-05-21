@@ -5,7 +5,7 @@ import Logo from '../../images/main-logo.png';
 import BarMenu from "../../images/bar.png";
 import { SideBarData } from '../data/SideBarData';
 function TopBar() {
-    const [isSideBarVisible, setSideBarVisibility] = useState(0);
+    const [isSideBarVisible, setSideBarVisibility] = useState(1);
     const setSideBar = () => (
         setSideBarVisibility(!isSideBarVisible)
     );
@@ -16,21 +16,18 @@ function TopBar() {
                     <div className="wrapper">
                         <nav id="sidebar" className={ isSideBarVisible ? "active":"null"}>
                             <ul class="lisst-unstyled components">
-                            { 
-                                SideBarData.map((items)=>{
-                                    return(
-                                        <li key={items.id}>
-                                            <Link to={ items.path }>
-                                                {items.icon}
-                                                <span>{items.title}</span>
-                                            </Link>
-                                        </li>
-                                    );
-                                })
-                            }
-                               
-                                {/* <li><Link to="#">Contact</Link></li>
-                                <li><Link to="#">About</Link></li> */}
+                                { 
+                                    SideBarData.map((items)=>{
+                                        return(
+                                            <li key={items.id}>
+                                                <Link to={ items.path }>
+                                                    {items.icon}
+                                                    <span>{items.title}</span>
+                                                </Link>
+                                            </li>
+                                        );
+                                    })
+                                }
                             </ul>
                         </nav>
                         
