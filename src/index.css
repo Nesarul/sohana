@@ -13,7 +13,7 @@ a:focus {
 
 #sidebar {
   width: 250px;
-  background: #02534D;
+  background: #fff;
   transition: all 0.4s;
   height: 100vh;
   padding:15px;
@@ -30,7 +30,7 @@ a:focus {
 }
 #sidebar a {
   text-decoration: none;
-  color:aliceblue;
+  color:#6c6c6c;
   padding: 10px;
   font-size: 1.1em;
   display: block;
@@ -62,7 +62,7 @@ a[aria-expanded="true"] {
 
 
 .main-logo{
-  width:70px;
+  width:90px;
 }
 .bg-custom{
   background-color: #02534D !important;
@@ -73,3 +73,9 @@ a[aria-expanded="true"] {
 }
 
 /* Icons */
+.bg-f6{
+  background-color: #f6f6f6;
+}
+.ico-img img{
+  max-width:100px;
+}

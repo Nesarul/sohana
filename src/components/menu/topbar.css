@@ -1,0 +1,14 @@
+.default{
+    margin:0;
+    padding:0;
+    background-color: #02534D;
+    box-sizing: border-box;
+}
+.left-bar{
+    width:200px;
+    float: left;
+}
+.right-bar{
+    width:100%;
+    float:left;
+}

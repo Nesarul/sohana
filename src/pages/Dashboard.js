@@ -9,8 +9,8 @@ function Dashboard() {
         <>
             <div className="container-fluid">
                 <div className="row">
-                    <div className="col-6">
-                        <div className="row">
+                    <div className="col-6 bg-f6">
+                        <div className="row ico-img">
                             <div className="col-4">
                                 <img src={ DrawerIcon } alt="icon" className="w-100" />
                             </div>
