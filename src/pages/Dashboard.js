@@ -9,7 +9,7 @@ function Dashboard() {
         <>
             <div className="container-fluid">
                 <div className="row bg-f6">
-                    <div className="col-6">
+                    <div className="col-9">
                         <div className="row ico-img">
                             <div className="col-4">
                                 <img src={ DrawerIcon } alt="icon" className="w-100" />
@@ -31,12 +31,12 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-6">
+                    <div className="col-3">
                         <div className="row">
-                            <div className="col">
+                            {/* <div className="col">
                                 <h3>Auto Description Here</h3>
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellendus quo vitae dolorum omnis aut eos repellat nostrum nihil, reprehenderit velit laborum pariatur commodi expedita nemo iste quae quisquam facilis.
-                            </div>
+                            </div> */}
                             <div className="col nf">
                                 <h3>News Feed Here</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique neque labore sit excepturi accusantium eos quidem optio at perspiciatis corporis nihil obcaecati cupiditate cum ducimus dolorum, ipsam velit nisi dolor?</p>

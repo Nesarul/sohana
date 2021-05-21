@@ -1,4 +1,10 @@
 import * as BsI from "react-icons/bs"
+import gs from '../../images/icon_getting_started.svg'
+import pj from '../../images/icon_projects.svg'
+import fl from '../../images/icon_files.svg'
+import mt from '../../images/icon_meetings.svg'
+import og from '../../images/icon_org_settings.svg'
+import kb from '../../images/icon_kb.svg'
 export const SideBarData = 
 [
     {
@@ -11,36 +17,36 @@ export const SideBarData =
         "id":"02",
         "title":"Getting Started",
         "path":"/gs",
-        "icon":<BsI.BsFileEarmarkCheck/>
+        "icon":<img src={gs} alt="l"/>
     },
     {
         "id":"03",
         "title":"Projects",
         "path":"/projects",
-        "icon":<BsI.BsFolderCheck/>
+        "icon":<img src={pj} alt="l"/>
     },
     {
         "id":"04",
         "title":"Files",
         "path":"/files",
-        "icon":<BsI.BsFiles/>
+        "icon":<img src={fl} alt="l"/>
     },
     {
         "id":"05",
         "title":"Meetings",
         "path":"/meeting",
-        "icon":<BsI.BsPeopleFill/>
+        "icon":<img src={mt} alt="l"/>
     },
     {
         "id":"06",
         "title":"Organization",
         "path":"/orgs",
-        "icon":<BsI.BsBuilding/>
+        "icon":<img src={og} alt="l"/>
     },
     {
         "id":"07",
         "title":"Knowledge Check",
         "path":"/ks",
-        "icon":<BsI.BsGeo/>
+        "icon":<img src={kb} alt="l"/>
     }
 ];

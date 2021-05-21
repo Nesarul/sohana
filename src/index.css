@@ -18,6 +18,8 @@ a:focus {
   height: 100vh;
   padding:15px;
   box-sizing: border-box;
+  -webkit-box-shadow: 1px 1px 8px 1px rgba(0,0,0,0.42); 
+  box-shadow: 1px 1px 8px 1px rgba(0,0,0,0.42);
 }
 
 #sidebar.active {

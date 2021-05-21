@@ -13,7 +13,7 @@ function TopBar() {
     );
     return (
         <>
-            <div className="row">
+            <div className="row bg-f6">
                 <div className="col-12 p-0">
                     
                     <div className="wrapper">
