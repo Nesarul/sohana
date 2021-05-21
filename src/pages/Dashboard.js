@@ -9,7 +9,7 @@ function Dashboard() {
         <>
             <div className="container-fluid">
                 <div className="row bg-f6">
-                    <div className="col-9">
+                    <div className="col-7">
                         <div className="row ico-img">
                             <div className="col-4">
                                 <img src={ DrawerIcon } alt="icon" className="w-100" />
@@ -31,7 +31,7 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-3">
+                    <div className="col-5">
                         <div className="row">
                             {/* <div className="col">
                                 <h3>Auto Description Here</h3>
@@ -39,6 +39,9 @@ function Dashboard() {
                             </div> */}
                             <div className="col nf">
                                 <h3>News Feed Here</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique neque labore sit excepturi accusantium eos quidem optio at perspiciatis corporis nihil obcaecati cupiditate cum ducimus dolorum, ipsam velit nisi dolor?</p>
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi molestiae illo odio, dolor sint corrupti maxime animi debitis voluptates incidunt blanditiis aliquam repellendus omnis at natus optio non culpa iusto?</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ducimus a velit, debitis id autem optio, voluptates minus beatae, delectus neque dolorem doloremque odit cumque. Sapiente iure libero obcaecati dolores?</p>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique neque labore sit excepturi accusantium eos quidem optio at perspiciatis corporis nihil obcaecati cupiditate cum ducimus dolorum, ipsam velit nisi dolor?</p>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi molestiae illo odio, dolor sint corrupti maxime animi debitis voluptates incidunt blanditiis aliquam repellendus omnis at natus optio non culpa iusto?</p>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ducimus a velit, debitis id autem optio, voluptates minus beatae, delectus neque dolorem doloremque odit cumque. Sapiente iure libero obcaecati dolores?</p>
