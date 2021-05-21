@@ -43,7 +43,7 @@ a:focus {
 }
 #sidebar a:hover{
   color: #262933;
-  background: #fff;
+  background: #f5f5f5;
 }
 
 #sidebar ul li.active>a,
@@ -77,5 +77,10 @@ a[aria-expanded="true"] {
   background-color: #f6f6f6;
 }
 .ico-img img{
-  max-width:100px;
+  max-width:135px;
+}
+.nf{
+  background-color: #fff;
+  max-height: 350px;
+  overflow-y: scroll;
 }
