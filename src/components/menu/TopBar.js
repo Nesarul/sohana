@@ -56,7 +56,7 @@ function TopBar() {
             <div className={ isSideBarVisible ? "right-bar-active":"right-bar"}>
                 <div className="container-fluid">
                     <div className="row">
-                        <div className="col-12 p-0">
+                        <div className="col-12 p-0 mb-5">
                             <img src={BannerImage} alt="Banner" className="w-100" />
                         </div>
                         <Dashboard />
