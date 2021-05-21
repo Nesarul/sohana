@@ -5,6 +5,7 @@ import Logo from '../../images/main-logo.png';
 import BarMenu from "../../images/bar.png";
 import { SideBarData } from '../data/SideBarData';
 import BannerImage from '../../images/banner.jpg'
+import Dashboard from '../../pages/Dashboard';
 function TopBar() {
     const [isSideBarVisible, setSideBarVisibility] = useState(1);
     const setSideBar = () => (
@@ -60,7 +61,7 @@ function TopBar() {
                             <div className="container">
                                 <div className="row">
                                     <div className="col-12">
-                                        
+                                        <Dashboard />
                                     </div>
                                 </div>
                             </div>
