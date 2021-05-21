@@ -1,9 +1,10 @@
-import React from 'react'
-import DrawerIcon from '../images/icon_files.svg'
-import GsIcon from '../images/icon_getting_started.svg'
-import KbIcon from '../images/icon_kb.svg'
-import OrgIcon from '../images/icon_org_settings.svg'
-import ProjIcon from '../images/icon_projects.svg'
+import React from 'react';
+import DrawerIcon from '../images/icon_files.png';
+import GsIcon from '../images/icon_getting_started.png';
+import KbIcon from '../images/icon_org_kb.png';
+import OrgIcon from '../images/icon_org_settings.png';
+import ProjIcon from '../images/icon_projects.png';
+import mt from '../images/icon_meetings.png';
 function Dashboard() {
     return (
         <>
@@ -24,7 +25,7 @@ function Dashboard() {
                                 <img src={ OrgIcon } alt="icon" className="w-100" />
                             </div>
                             <div className="col-4 text-center">
-                                <img src={ DrawerIcon } alt="icon" className="w-100" />
+                                <img src={ mt } alt="icon" className="w-100" />
                             </div>
                             <div className="col-4 text-center">
                                 <img src={ ProjIcon } alt="icon" className="w-100" />

@@ -106,3 +106,6 @@ a[aria-expanded="true"] {
   max-height: 400px;
   overflow-y: scroll;
 }
+.sb-icon{
+  width:52px;
+}
