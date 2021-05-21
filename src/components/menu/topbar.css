@@ -106,6 +106,21 @@ a[aria-expanded="true"] {
   max-height: 400px;
   overflow-y: scroll;
 }
+.nf>h3{
+  position: relative;
+  display: flex;
+  padding:10px 0px;
+  width:calc(100% - 25px);
+}
+.nf>h3::after{
+  position: absolute;
+  right:-25px;
+  content: '';
+  width:20px;
+  height:20px;
+  background-size: 100% 100%  ;
+  background-image: url('../../images/pencil.png'  );
+}
 .sb-icon{
   width:52px;
 }
