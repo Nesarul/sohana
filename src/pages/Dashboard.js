@@ -39,6 +39,7 @@ function Dashboard() {
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique neque labore sit excepturi accusantium eos quidem optio at perspiciatis corporis nihil obcaecati cupiditate cum ducimus dolorum, ipsam velit nisi dolor?</p>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi molestiae illo odio, dolor sint corrupti maxime animi debitis voluptates incidunt blanditiis aliquam repellendus omnis at natus optio non culpa iusto?</p>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam dolorum officia harum aperiam totam dicta rem aspernatur pariatur a quidem fuga tempore sint, assumenda eos corporis repellat temporibus unde? Laboriosam.</p>
+                                <p>We have joy we have fun</p>
                             </div>
                         </div>
                     </div>
