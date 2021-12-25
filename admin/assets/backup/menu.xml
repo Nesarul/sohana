@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Menu>
+	<item>
+		<caption>Home</caption>
+		<link>index.php</link>
+		<image></image>
+	</item>
+	<item>
+		<caption>Yacht Destinations</caption>
+		<link>#</link>
+		<image></image>
+	</item>
+	<item>
+		<caption>Articles</caption>
+		<link>#</link>
+		<image></image>
+	</item>
+	<item>
+		<caption>Contact Us</caption>
+		<link>contact-us.php</link>
+		<image></image>
+	</item>
+	<item>
+		<caption>Privacy Policy</caption>
+		<link>#</link>
+		<image></image>
+	</item>
+</Menu>
+
+

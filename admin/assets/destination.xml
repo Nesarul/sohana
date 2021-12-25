@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<Destination>
+    <dest>
+		<image>alaska.webp</image>
+		<title>Alaska</title>
+		<desc>Full of wildlife, nature, and breathtaking scenery, you can go on adventures in locations such as Glacier Bay National Park, Kenai Fjords National Park, and Prince William Sound.</desc>
+		<link>united-states/alaska</link>
+	</dest>
+
+	<dest>
+		<image>Antigua.webp</image>
+		<title>Antigua</title>
+		<desc>Sail the Caribbean and visit the pristine, private beaches.</desc>
+		<link>guatamala/antigua</link>
+	</dest>
+
+	<dest>
+		<image>Australia.webp</image>
+		<title>Australia</title>
+		<desc>Explore the Great Barrier Reef, or cruise the Outback, Gold Coast, Perth, and Sydney Harbour.</desc>
+		<link>australia</link>
+	</dest>
+
+	<dest>
+		<image>bahamas.webp</image>
+		<title>Bahamas</title>
+		<desc>Relax on the secluded, white-sand beaches or go SCUBA diving and snorkeling in the crystal clear tropical waters.</desc>
+		<link>bahamas</link>
+	</dest>
+
+	<dest>
+		<image>balearic-island.webp</image>
+		<title>Balearic Islands</title>
+		<desc>Located off the coast of Spain in the dazzling Mediterranean Sea, you can party at the nightclubs in Ibiza or travel the hidden coves and magnificent coastline of Mallorca.</desc>
+		<link>spain/balearic-islands</link>
+	</dest>
+
+	<dest>
+		<image>bar-harbor.webp</image>
+		<title>Bar Harbor (Maine)</title>
+		<desc>Visit Acadia National Park.</desc>
+		<link>united-states/bar-harbor</link>
+	</dest>
+
+	<dest>
+		<image>Belize.webp</image>
+		<title>Belize</title>
+		<desc>This small country in Central America, with its barrier reef, caves, and Mayan ruins, is known for it world-class snorkeling and scuba diving.</desc>
+		<link>belize</link>
+	</dest>
+
+	<dest>
+		<image>barts.webp</image>
+		<title>Bermuda</title>
+		<desc>One of the most beautiful islands in the world, with 181 islets you can explore. Relax on the pink sand beaches, or explore the underwater caves and shipwrecks.</desc>
+		<link>bermuda</link>
+	</dest>
+
+	<dest>
+		<image>bora-bora.webp</image>
+		<title>Bora Bora</title>
+		<desc>This remote, romantic island is great for honeymoons and wedding anniversaries.</desc>
+		<link>bora-bora</link>
+	</dest>
+
+	<dest>
+		<image>anantha-krishnan.webp</image>
+		<title>Boracay (Philippines)</title>
+		<desc>Go scuba diving to see the beautiful coral reefs and shipwrecks.</desc>
+		<link>boracay</link>
+	</dest>
+
+	<dest>
+		<image>Borneo.webp</image>
+		<title>Borneo (Malaysia)</title>
+		<desc>This former British colony is part of Malaysian and Indonesia, located near Manilla, Singapore, and Hong Kong. Cruise among the various islands and explore the tropical rainforest.</desc>
+		<link>malaysia/kota-kinabalu/borneo</link>
+	</dest>
+
+	<dest>
+		<image>Boston.webp</image>
+		<title>Boston</title>
+		<desc>Tour Boston Harbor, Martha's Vineyard, Nantucket, Newport, Maine, Cape Cod, and more.</desc>
+		<link>united-states/massachusetts/boston</link>
+	</dest>
+
+	<dest>
+		<image>British-Virgin-Islands-1.webp</image>
+		<title>British Virgin Islands</title>
+		<desc>Comprised of 60 islands perfect for sailing, fishing, diving, and relaxing.</desc>
+		<link>british-virgin-islands</link>
+	</dest>
+
+	<dest>
+		<image>Canary-Islands.webp</image>
+		<title>Canary Islands (Africa)</title>
+		<desc>This area west of Morocco, with lush forests and mountains, is popular with more experienced sailors.</desc>
+		<link>canary-islands</link>
+	</dest>
+
+	<dest>
+		<image>Cannes.webp</image>
+		<title>Cannes</title>
+		<desc>Vacation with celebrities and superyachts on the French Riviera.</desc>
+		<link>france/french-riviera/cannes</link>
+	</dest>
+
+	<dest>
+		<image>Catalina.webp</image>
+		<title>Catalina Island (California)</title>
+		<desc>Some call it the “Hawaii of Southern California”.</desc>
+		<link>united-states/california/catalina-island</link>
+	</dest>
+
+	<dest>
+		<image>Chesapeake-Bay.webp</image>
+		<title>Chesapeake Bay</title>
+		<desc>Go tubing, wakeboarding, or water skiing in the largest estuary in the United-States (around 200 miles long).</desc>
+		<link>united-states/chesapeake-bay</link>
+	</dest>
+
+	<dest>
+		<image>China.webp</image>
+		<title>China</title>
+		<desc>See the festivals and ancient religious sites in areas such as Shanghai and Shenzhen.</desc>
+		<link>china</link>
+	</dest>
+
+	<dest>
+		<image>Cooper-Island.webp</image>
+		<title>Cooper Island (British Virgin Islands)</title>
+		<desc>Visit the  Cooper Island Beach Club, which is a luxury eco-resort located on the beach, and snorkel or scuba dive to see the stunning coral reef filled with marine life.</desc>
+		<link>british-virgin-islands/cooper-island</link>
+	</dest>
+
+	<dest>
+		<image>copenhagen.webp</image>
+		<title>Copenhagen (Denmark)</title>
+		<desc>Sail down the canals of this old maritime city.</desc>
+		<link>denmark/copenhagen</link>
+	</dest>
+
+	<dest>
+		<image>Corfu.webp</image>
+		<title>Corfu (Greece)</title>
+		<desc>This Greek island, with its warm clear water, is great for sailing.</desc>
+		<link>greece/corfu</link>
+	</dest>
+
+	<dest>
+		<image>Corsica.webp</image>
+		<title>Corsica</title>
+		<desc>A Mediterranean island in Southern France, with coastal towns, beaches, and hiking trails.</desc>
+		<link>france/corsica</link>
+	</dest>
+
+	<dest>
+		<image>costarica.webp</image>
+		<title>Costa Rica</title>
+		<desc>Known for its jungles, wildlife, and natural beauty, the moderate climate and tranquil waters make Costa Rica perfect for yachting.</desc>
+		<link>costa-rica</link>
+	</dest>
+
+	<dest>
+		<image>Costa-Smeralda.webp</image>
+		<title>Costa Smeralda</title>
+		<desc>Explore the coast of Sardinia (Italy) on a luxury yacht. Enjoy diving, sailing, dolphins, and nightlife  </desc>
+		<link>sardinia/costa-smeralda</link>
+	</dest>
+
+	<dest>
+		<image>Crete.webp</image>
+		<title>Crete (Greece)</title>
+		<desc>Travel back in time and explore the ancient sites and traditions of this largest of the Greek islands.</desc>
+		<link>greece/crete</link>
+	</dest>
+
+	<dest>
+		<image>croatia.webp</image>
+		<title>Croatia</title>
+		<desc>A rugged, Mediterranean country on the Adriatic Sea, known for its nightlife, cuisine, and ancient villages.</desc>
+		<link>croatia</link>
+	</dest>
+
+	<dest>
+		<image>Cuba.webp</image>
+		<title>Cuba</title>
+		<desc>Great scenery, rum, cigars, and diving in the Caribbean.</desc>
+		<link>cuba</link>
+	</dest>
+
+	<dest>
+		<image>Dominica.webp</image>
+		<title>Dominica</title>
+		<desc>A Caribbean island in the Eastern Caribbean, near Martinique and Guadeloupe . Often confused with the Dominican Republic, this is a totally different vacation spot.</desc>
+		<link>dominica</link>
+	</dest>
+
+	<dest>
+		<image>Dubai.webp</image>
+		<title>Dubai</title>
+		<desc>Activities include fun watersports, four wheeling in the dunes, shopping at the luxury malls, and dining at five-star restaurants.</desc>
+		<link>united-arab-emirates/dubai</link>
+	</dest>
+
+	<dest>
+		<image>fiji-1.webp</image>
+		<title>Fiji</title>
+		<desc>Made up of over 300 islands in the South Pacific, it is famous for its tropical beaches and clear lagoons.</desc>
+		<link>fiji/fiji</link>
+	</dest>
+
+	<dest>
+		<image>Florida.webp</image>
+		<title>Florida</title>
+		<desc>With charter destinations such as Miami and the Florida Keys, there are endless vacation possibilities.</desc>
+		<link>united-states/florida</link>
+	</dest>
+
+	<dest>
+		<image>France.webp</image>
+		<title>France</title>
+		<desc>Vacation in luxury on the French Riviera. Shop at the chic boutiques or gamble at the elegant casinos.</desc>
+		<link>france</link>
+	</dest>
+
+	<dest>
+		<image>French-Riviera.webp</image>
+		<title>French Riviera</title>
+		<desc>The premier boating playground of the rich and famous, it hosts more superyachts than anywhere in the world. Destinations include Monaco, Cannes, Saint Tropez, Antibes, Nice, and Monte Carlo.</desc>
+		<link>france/french-riviera</link>
+	</dest>
+
+	<dest>
+		<image>French-West-Indies.webp</image>
+		<title>French West Indies</title>
+		<desc>From Guadeloupe to Martinique, take in the natural beauty of the rainforests, waterfalls, lagoons, and sandy beaches.</desc>
+		<link>french-west-indies</link>
+	</dest>
+
+	<dest>
+		<image>Galapagos-Islands.webp</image>
+		<title>Galapagos Islands</title>
+		<desc>This remote Pacific island is the premier destination for viewing unique wildlife, and was the inspiration for Charles Darwin's theory of evolution when he traveled there in 1835.</desc>
+		<link>galapagos-islands</link>
+	</dest>
+
+	<dest>
+		<image>Greece.webp</image>
+		<title>Greece</title>
+		<desc>One of the most popular yachting destinations in the world, with over 2,000 islands to explore.</desc>
+		<link>greece</link>
+	</dest>
+
+	<dest>
+		<image>Grenada.webp</image>
+		<title>Grenada</title>
+		<desc>Known as the  'Spice Isle', this Caribbean island grows more spices per square mile than anywhere else in the world.</desc>
+		<link>grenada</link>
+	</dest>
+
+	<dest>
+		<image>Ibiza.webp</image>
+		<title>Ibiza</title>
+		<desc>Party in the nightclubs on this Balearic Island off the coast of Spain, or cruise the warm waters of the Mediterranean.</desc>
+		<link>spain/ibiza</link>
+	</dest>
+
+	<dest>
+		<image>iceland.webp</image>
+		<title>Iceland</title>
+		<desc>Sail to the quaint fishing villages and snow capped glaciers, or visit remote areas full of beautiful scenery, fjords, and wildlife.</desc>
+		<link>trips/iceland</link>
+	</dest>
+
+	<dest>
+		<image>Indonesia.webp</image>
+		<title>Indonesia</title>
+		<desc>Home to over 17,000 islands with jungles, rainforests, beauty, and adventure.</desc>
+		<link>indonesia</link>
+	</dest>
+
+	<dest>
+		<image>Ionian-Islands.webp</image>
+		<title>Ionian Islands (Greece)</title>
+		<desc>With lush landscapes, and exciting nightlife, and Italian influence, the 7 main islands (Corfu is the most famous) are a popular tourist spot.</desc>
+		<link>greece/ionian-islands</link>
+	</dest>
+
+	<dest>
+		<image>Ireland.webp</image>
+		<title>Ireland</title>
+		<desc>Known as the “Emerald Isle” thanks to its luscious green landscapes and rolling hills.</desc>
+		<link>ireland</link>
+	</dest>
+
+	<dest>
+		<image>Italian-Coast.webp</image>
+		<title>Italian Coast</title>
+		<desc>Tour scenic locations such as Portofino, Cinque Terre, Ligurian Riviera, and Santa Margherita.</desc>
+		<link>italy/italian-coast</link>
+	</dest>
+
+	<dest>
+		<image>Japan.webp</image>
+		<title>Japan</title>
+		<desc>7,000 islands full of astounding scenery and delectable local cuisines. Scuba dive for black pearls, visit an active volcano, or find peace in a Japanese garden.</desc>
+		<link>japan</link>
+	</dest>
+
+	<dest>
+		<image>lelepa.webp</image>
+		<title>Lelepa</title>
+		<desc>A small island in the South Pacific nation of Vanuatu.</desc>
+		<link>vanuatu/lelepa</link>
+	</dest>
+
+	<dest>
+		<image>Italy.webp</image>
+		<title>Italy</title>
+		<desc>Enjoy the food and local culture of cities such as Sicily, Rome, Capri, Venice, and Sardinia.</desc>
+		<link>italy</link>
+	</dest>
+
+	<dest>
+		<image>Madagascar.webp</image>
+		<title>Madagascar (Africa)</title>
+		<desc>The protected waters are perfect for scuba diving and snorkeling.  Or visit the national parks and reserves.</desc>
+		<link>madagascar</link>
+	</dest>
+
+	<dest>
+		<image>Maine.webp</image>
+		<title>Maine</title>
+		<desc>Take in the views of the rocky coastline while dining on fresh lobsters, shrimp,  and clams.</desc>
+		<link>united-states/maine</link>
+	</dest>
+
+	<dest>
+		<image>Malaysia.webp</image>
+		<title>Malaysia</title>
+		<desc>Explore the lush rainforests and jungles as you sail in the Pacific Ocean.</desc>
+		<link>malaysia</link>
+	</dest>
+
+	<dest>
+		<image>maldives.webp</image>
+		<title>Maldives</title>
+		<desc>Located in the Indian Ocean, dive and see over than 2000 different fish species or navigate the 1100 islands and atolls.</desc>
+		<link>maldives</link>
+	</dest>
+
+	<dest>
+		<image>Malta.webp</image>
+		<title>Malta</title>
+		<desc>Sail the sparkling waters and visit the many historical sites on this Mediterranean island.</desc>
+		<link>malta</link>
+	</dest>
+
+	<dest>
+		<image>Martinique.webp</image>
+		<title>Martinique</title>
+		<desc>An island full of French culture, rainforests, mountains , and beaches.</desc>
+		<link>france/martinique</link>
+	</dest>
+
+	<dest>
+		<image>Maui.webp</image>
+		<title>Maui (Hawaii)</title>
+		<desc>Relax in paradise and enjoy the snorkeling, surfing, and windsurfing.</desc>
+		<link>united-states/hawaii/maui</link>
+	</dest>
+
+	<dest>
+		<image>mauritius.webp</image>
+		<title>Mauritius</title>
+		<desc>This East African island nation is known for its beaches, lagoons and reefs. You can also visiit the rainforests, waterfalls, hiking trails and wildlife of Black River Gorges National Park.</desc>
+		<link>mauritius</link>
+	</dest>
+
+	<dest>
+		<image>Miami.webp</image>
+		<title>Miami</title>
+		<desc>Enjoy a beautiful sunset cruise on Biscayne Bay, or venture to the Florida Keys, the Bahamas, or Bimini.</desc>
+		<link>united-states/florida/miami</link>
+	</dest>
+
+	<dest>
+		<image>Milos.webp</image>
+		<title>Milos (Greece)</title>
+		<desc>See the rock formations, caves, and villages of this Greek volcanic island.</desc>
+		<link>greece/milos</link>
+	</dest>
+
+	<dest>
+		<image>Monaco.webp</image>
+		<title>Monaco</title>
+		<desc>Glamorous, elite, and luxurious with a hedonistic nightlife of parties and casinos.</desc>
+		<link>france/french-riviera/monaco</link>
+	</dest>
+
+	<dest>
+		<image>mumbai.webp</image>
+		<title>Mumbai (India)</title>
+		<desc>View the beautiful skyline, or fish in the open waters.</desc>
+		<link>india/mumbai</link>
+	</dest>
+
+	<dest>
+		<image>Nantucket.webp</image>
+		<title>Nantucket</title>
+		<desc>30 miles south of Cape Code, this island has a whaling museum, historic homes, a lighthouse, bike tours, beaches, and more.</desc>
+		<link>united-states/massachusetts/nantucket</link>
+	</dest>
+
+	<dest>
+		<image>New-Caledonia.webp</image>
+		<title>New Caledonia</title>
+		<desc>The tropical islands of this French territory in the South Pacific are filled with flora, fauna and marine life.</desc>
+		<link>france/new-caledonia</link>
+	</dest>
+
+	<dest>
+		<image>new-england.webp</image>
+		<title>New England</title>
+		<desc>Go whale watching in Cape Cod, cruise the rocky coast of Maine, venture to Martha's Vineyard and Nantucket, and enjoy the wonderful food and wine of Newport.</desc>
+		<link>united-states/new-england</link>
+	</dest>
+
+	<dest>
+		<image>New-Zealand.webp</image>
+		<title>New Zealand</title>
+		<desc>Known for its beautiful forests and mountains, it is also home to seals, penguins, dolphins, whales and exotic birds.</desc>
+		<link>new-zealand</link>
+	</dest>
+
+	<dest>
+		<image>Newport.webp</image>
+		<title>Newport (Rhode Island)</title>
+		<desc>Home of the world's most famous sailing race (America's Cup). Enjoy the historic lighthouses in Narragansett Bay, or visit nearby Jamestown, Block Island, Martha's Vineyard, Nantucket, and Cape Cod.</desc>
+		<link>united-states/rhode-island/newport</link>
+	</dest>
+
+	<dest>
+		<image>Norway.webp</image>
+		<title>Norway</title>
+		<desc>View the Northern Lights from your private yacht or take in the dramatic fjords, glaciers, mountains, and waterfalls of this picturesque country.</desc>
+		<link>norway</link>
+	</dest>
+
+	<dest>
+		<image>panama.webp</image>
+		<title>Panama Canal</title>
+		<desc>A unique opportunity to cruise from one ocean to another.</desc>
+		<link>panama/panama-canal</link>
+	</dest>
+
+	<dest>
+		<image>qatar.webp</image>
+		<title>Qatar</title>
+		<desc>Enjoy the year-round sunshine and sandy beaches of this modern Middle Eastern country.</desc>
+		<link>qatar</link>
+	</dest>
+
+	<dest>
+		<image>Red-Sea.webp</image>
+		<title>Red Sea</title>
+		<desc>Visit North Africa, famous for its world-class diving, coral reefs, and Egyptian wonders.</desc>
+		<link>red-sea</link>
+	</dest>
+
+	<dest>
+		<image>Rhodes.webp</image>
+		<title>Rhodes</title>
+		<desc>Stroll through the historic town center of this island on the Aegean Sea and visit the medieval castle. Also known for its surfing and butterflies.</desc>
+		<link>greece/rhodes</link>
+	</dest>
+
+	<dest>
+		<image>Ross-Sea.webp</image>
+		<title>Ross Sea (Antartica)</title>
+		<desc>A voyage of exploration full of whales, penguins, climbing, and fishing.</desc>
+		<link>antartica/ross-sea</link>
+	</dest>
+
+	<dest>
+		<image>Saint-Martin.webp</image>
+		<title>Saint Martin</title>
+		<desc>Part of the Leeward Islands, near Puerto Rico, this is one of the most popular sailing destinations in the Caribbean.</desc>
+		<link>saint-martin</link>
+	</dest>
+
+	<dest>
+		<image>san-francisco.webp</image>
+		<title>San Francisco</title>
+		<desc>Go sailing in San Francisco Bay or visit the infamous Alcatraz prison.</desc>
+		<link>united-states/california/san-francisco</link>
+	</dest>
+
+	<dest>
+		<image>santorini.webp</image>
+		<title>Santorini</title>
+		<desc>A Greek island of romance on the Aegean Sea. The steep cliffs that surround the island provide beautiful views and picturesque sunsets.</desc>
+		<link>greece/santorini</link>
+	</dest>
+
+	<dest>
+		<image>Sardinia.webp</image>
+		<title>Sardinia (Italy)</title>
+		<desc>Located off the coast of Italy, you can explore miles of coastline filled with sandy beaches.</desc>
+		<link>italy/sardinia</link>
+	</dest>
+
+	<dest>
+		<image>scotland.webp</image>
+		<title>Scotland</title>
+		<desc>Rich is heritage and culture, it is a land filled with castles, seaside towns, fishing villages, distilleries, and local pubs.</desc>
+		<link>scotland</link>
+	</dest>
+
+	<dest>
+		<image>Seattle.webp</image>
+		<title>Seattle</title>
+		<desc>Cruise the islands of the Pacific Northwest.</desc>
+		<link>united-states/washington/seattle</link>
+	</dest>
+
+	<dest>
+		<image>Seychelles.webp</image>
+		<title>Seychelles</title>
+		<desc>Made up of 115 tropical islands in the Indian Ocean, on the Eastern side of Africa.</desc>
+		<link>seychelles</link>
+	</dest>
+
+	<dest>
+		<image>sicily.webp</image>
+		<title>Sicily</title>
+		<desc>A popular sailing area, this unique volcanic island is filled with natural beauty and Italian historical culture.</desc>
+		<link>italy/sicily</link>
+	</dest>
+
+	<dest>
+		<image>Singapore.webp</image>
+		<title>Singapore</title>
+		<desc>Potential destinations include the exclusive Lazarus Island, which can only be accessed by private yacht.</desc>
+		<link>singapore</link>
+	</dest>
+
+	<dest>
+		<image>Sri-Lanka.webp</image>
+		<title>Sri Lanka</title>
+		<desc>Go sport fishing on the Indian Ocean or explore the lush rainforests and ancient cities on the interior of the island.</desc>
+		<link>sri-lanka</link>
+	</dest>
+
+	<dest>
+		<image>barts.webp</image>
+		<title>St. Barts</title>
+		<desc>Home to sailing regattas and superyachts, and a favorite vacation spot of the Kardashians.</desc>
+		<link>st.-barts</link>
+	</dest>
+
+	<dest>
+		<image>Tahiti.webp</image>
+		<title>Tahiti</title>
+		<desc>Snorkel and scuba in this tropical paradise with barrier reefs full of dolphins, sea turtles, sharks, and colorful fish.</desc>
+		<link>tahiti</link>
+	</dest>
+
+	<dest>
+		<image>thailand.webp</image>
+		<title>Thailand</title>
+		<desc>Tropical islands full of vibrant colors, lagoons, and exotic adventures, with pristine water perfect for diving, snorkeling, sailing and kayaking.</desc>
+		<link>thailand</link>
+	</dest>
+
+	<dest>
+		<image>The-Cook-Islands.webp</image>
+		<title>The Cook Islands</title>
+		<desc>A South Pacific paradise with white sand beaches, located between Tahiti and Tonga.</desc>
+		<link>the-cook-islands</link>
+	</dest>
+
+	<dest>
+		<image>Tonga.webp</image>
+		<title>Tonga</title>
+		<desc>Hop among the uninhabited South Pacific islands or stop at the Tongan villages to experience the feasts and island culture.</desc>
+		<link>tonga</link>
+	</dest>
+
+	<dest>
+		<image>Turkey.webp</image>
+		<title>Turkey</title>
+		<desc>Enjoy the ancient history and culture.</desc>
+		<link>turkey</link>
+	</dest>
+
+	<dest>
+		<image>Turquoise-Coast.webp</image>
+		<title>Turquoise Coast (Turkey)</title>
+		<desc>Experience the culture of Turkey, ancient ruins, and delicious and local cuisines.</desc>
+		<link>turkey/turquoise-coast</link>
+	</dest>
+
+	<dest>
+		<image>US-Virgin-Islands.webp</image>
+		<title>US Virgin Islands</title>
+		<desc>Year-round warm temperatures make for spectacular sailing in St. Thomas, St. Croix, and St. John.</desc>
+		<link>us-virgin-islands</link>
+	</dest>
+
+	<dest>
+		<image>Vancouver.webp</image>
+		<title>Vancouver</title>
+		<desc>Venture into the Salish Sea to visit fjords, mountains, and wildlife. Or look for seals, whales and dolphins in Vancouver Harbour.</desc>
+		<link>canada/british-columbia/vancouver</link>
+	</dest>
+
+	<dest>
+		<image>Whitsunday-Islands.webp</image>
+		<title>Whitsunday Islands (Australia)</title>
+		<desc>Explore Queensland's secluded bays and pristine beaches, and snorkel in the coral reefs.</desc>
+		<link>australia/whitsunday-islands</link>
+	</dest>
+
+	<dest>
+		<image>Windward-Islands.webp</image>
+		<title>Windward Islands</title>
+		<desc>Tour Saint Lucia, Grenada, Barbados, Martinique, St. Vincent, and The Grenadines.</desc>
+		<link>windward-islands</link>
+	</dest>
+</Destination>
