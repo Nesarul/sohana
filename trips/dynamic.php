@@ -41,6 +41,7 @@
         die();    
         foreach($records as $key => $rec):
 ?>
+
     <div class="container">
         <div class="row py-1">
             <div class="col-12">
@@ -57,10 +58,10 @@
                             </div>
                         </div> 
                         <?php else: ?>
-                            <div class="caption-screen mb-4" style="position:initial;">
+                            <div class="caption-screen mb-1" style="position:initial;">
                                 <h2><?php echo $place; ?></h2>
                             </div>
-                        <?php endif; ?>
+                        <?php endif;?>
                         <?php 
                             if(count($rec->text) >0 ){
                                 foreach($rec->text as $p => $tx){
@@ -81,6 +82,12 @@
                 <div class="col-12">
                     <h2 class="text-center">We Offer The Following <span style="color:darkblue"><?php echo $place; ?></span> Trips:</h2>
                     <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $place.' '.$rec->search; ?>"></div>
+                </div>
+
+                <div class="col-12">
+                    <div class="areas mb-3">
+                        <?php if(!empty($rec->areas)) echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"")."</h5> ".$rec->areas."<hr>"; ?>
+                    </div>
                 </div>
             </div>
         </div>

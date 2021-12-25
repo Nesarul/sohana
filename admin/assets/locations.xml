@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <countries>
 	<location>
-		<city>Fiji</city>
+		<city></city>
 		<state></state>
 		<country>Fiji</country>
 		<image>Fiji</image>
@@ -77,7 +77,7 @@
 		</text>	
 		<link></link>
 		<link2>alaska</link2>
-		<areas></areas>
+		<areas>Anchorage, Seward, Homer, Whittier, Sterling, Halibut Cove, Wasilla, Skwentna, Cooper Landing, Willow, Kenai, Butte, Soldotna, Palmer, and Ninilchik.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -428,7 +428,7 @@
 		</text>	
 		<link></link>
 		<link2>florida</link2>
-		<areas></areas>
+		<areas>Miami, Fort Lauderdale, Clearwater, Hollywood, Tampa, Miami Beach, St. Petersburg, Sarasota, Destin, Key Largo, Jupiter, Naples, Daytona Beach, Plantation, Cape Coral, Panama City, Delray Beach, Boca Raton, Holiday, Jacksonville, Deerfield Beach, Sunny Isles Beach, Riviera Beach, Denia Beach, Aventura, Merritt Beach, Islamorada, Pompano Beach, Marco Island, Fernandina Beach, Sebastian, Leesburg, Madiera Beach, Palm Beach Gardens, Bradenton, Niceville,  Key Biscayne, Sebring, St. Augustine, Nokomis, Tarpon Springs, Cudjoe Key, Lighthouse Point, Brooksville, Palm Beach, The Florida Keys, Key Biscayne, Coral Gables, Clearwater Beach, West Palm Beach, Orlando, Pensacola, Gulf Breeze, Madeira Beach, Ruskin, Indian Rocks Beach, New Port Richey, Cocoa Beach, Palm Beach Shores, Palm Bay, Harbour Beach, Port St. Lucie, North Palm Beach, Boynton Beach, Crescent City, New Smyrna Beach, Hallandale Beach, Dania Beach, Miami Shores, Hialeah, Homestead, Hypoluxo, North Bay Village, Key West, Biscayne Bay, Tampa Bay, Fort Myers, Bal Harbour, Bushnell, Miami Bay, Fort Pierce, Hallandale, Saint Augustine, Fort Myers Beach, St Lucie River (Stuart), Lake Mary, Merritt Island, Umatilla, and Sanibel Island.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -1771,7 +1771,7 @@
 		</text>	
 		<link></link>
 		<link2>arizona</link2>
-		<areas></areas>
+		<areas>Lake Havasu City, Peoria, Phoenix, Morristown, Sun City, Mesa, Page, Gilbert, Surprise, Bullhead City, Mohave Valley, Chandler, Queen Creek, Kingman, Willow Beach, Tempe, Vail, Sierra Vista, Wickenburg, Marana, Lake Pleasant, Lake Havasu, Lake Saguaro, Lake Mead, Peoria, Bartlett Lake, Parker, Glendale, and Apache Lake.</areas>
 	</location>
 	<location>
 		<city>Phoenix</city>
@@ -1813,7 +1813,7 @@
 		</text>	
 		<link></link>
 		<link2>monterey-bay</link2>
-		<areas></areas>
+		<areas>San Francisco, Newport Beach, Santa Barbara, Marina del Rey, Oxnard, Los Angeles, Sacramento, Folsom, San Diego, Long Beach, Discovery Bay, Oakland, Santa Rosa, Huntington Beach, Hilmar, Tahoe City, Rancho Cucamonga, Angels Camp, La Grange, Castro Valley, Marin County, Irvine, Riverside, Richmond, Menifee, San Mateo, Glendale, Sausalito, Mission Viejo, Oceanside, Rio Linda, Oakley, Bakersfield, Wildomar, Torrance, Alameda, National City, Dollar Point, Ione, South Lake Tahoe, Redondo Beach, Stockton, Murrieta, Dana Point, Berkeley, Vacaville, Copperopolis, Monrovia, Concord, Modesto, Canyon Lake, San Joe, Truckee, Fresno, Antioch, Roseville, Bethel Island, Peteluma, Santa Cruz, Castaic, Spring Valley, El Dorado Hills, Bass Lake, Bradley, Cerritos, Emeryville, Placerville, Rocklin, Pamona, Big Bear Lake, Yuba City, Shasta Lake, Catalina, Lake Tahoe, Napa Valley, Wishon, Millerton Lake, Coronado, Lake Tulloch, Folsom Lake, Fontana, Donner Lake (Truckee), Benicia, Santa Catalina Island, Redding, Corona, Sanger, Carson, Castaic Lake, San Joaquin River, Novato, Lake Elsinore, Pine Flat Lake, Silverwood Lake, San Juan Capistrano, Don Pedro Reservoir, Lake Mead, Lake Pyramid (Castaic), Lake Piru, Lake Paris, Redwood National Park, Culver City, Lake Paris (Riverside), Seal Beach, Chula Vista, Camanche Lake, Hawthorne, Melones Lake, Vaellejo, Moreno Valley, Lewiston, Kernville, Janesville, Morro Bay, Palmdale, Douglas City, Lake Shasta, San Dimas, Lake Berryessa, Blue Lake, Laguna Hills, Winters, Simi Valley, Fairfield, Walnut Creek, Redwood City, Monterey, San Jose, San Bernardino, North Highlands, and Lake McClure (La Grange).</areas>
 	</location>
 	<location>
 		<city>South Lake Tahoe</city>
@@ -2051,7 +2051,7 @@
 		</text>	
 		<link></link>
 		<link2>georgia</link2>
-		<areas></areas>
+		<areas>Lavonia, Fitzgerald, Bishop, Statesboro, Covington, Bainbridge, Waleska, Sylvester, Gainesville, Morganton, Dawsonville, Cumming, Griffin, Acworth, Flowery Branch, Lagrange, Buford, Reed Creek, Milledgaville, Hoschton, St. Simons Island, Midway, Mableton, Dalton, Fair Play, Cartersville, Douglasville, St. Marys, Dallas, Eatonton, Oakwood, Atlanta, Lake Lanier (Gainesville), Lake Murray, Lake Hartwell, Lake Allatoona, Lake Wateree, Lake Sinclair, Lavonia, Anderson, Jonesboro, Rutledge, Savannah, Gainesville (Lake Lanier), and Dawsonville (Lake Lanier).</areas>
 	</location>
 	<location>
 		<city>Savannah</city>
@@ -2079,7 +2079,7 @@
 		</text>	
 		<link></link>
 		<link2>hawaii</link2>
-		<areas></areas>
+		<areas>Honolulu (Oahu), Lahaina (Maui), Kapolei, Waialua, Kaneohe, Waianae, Kailua-Kona, Kauai, Lahaina, Waikiki, Big Island, Kewalo Harbour, Maui, Molokai, Lanai, Halwiwa, North Kona, Ko’Olina, Glacier Bay (Kapaa), Kaanapali Beach, Puako, Waianae (Oahu), Kihei (Maui), Kealakekua, and Captain Cook.</areas>
 	</location>
 	<location>
 		<city>Honolulu</city>
@@ -2194,7 +2194,7 @@
 		<text><p>Movie director John Hughes based hit films, such as Ferris Bueller's Day Off, Home Alone, and The Breakfast Club, in the Chicago area.</p></text>	
 		<link></link>
 		<link2>illinois</link2>
-		<areas></areas>
+		<areas>Chicago, Antioch, Ingleside, Olympia Fields, Fox Lake, Wauconda, Loves Park, Taylorville, Bolingbrook, Oak Brook, Itasca, Normal, Johnsburg, Ottowa, Sullivan Township, Annawan, Algonquin, Burnham, Dahlgren, Morton, Lake Michigan, Chicago River, and Calumet River.</areas>
 	</location>
 	<location>
 		<city>Chicago</city>
@@ -2218,7 +2218,7 @@
 		<text><p>In 1803, President Thomas Jefferson purchased the Louisiana territory from Napoleon Bonaparte for $15 million as part of his Westward expansion plan.</p></text>	
 		<link></link>
 		<link2>louisiana</link2>
-		<areas></areas>
+		<areas>New Orleans, Madisonville, Slidell, Sulphur, Marrero, Kenner, Morgan City, Terrytown, Chalmette, Lafayette, Lake Pontchartrain, Breaux Bridge, Grand Isle, Dularge, Springfield, Venice, Myrtle Grove, Delacroix, Lafitte, and Hopedale.</areas>
 	</location>
 	<location>
 		<city>New Orleans</city>
@@ -2242,7 +2242,7 @@
 		<text><p>Maryland was named after England's Queen Mary (Henrietta Maria), the wife of England's King Charles.</p></text>	
 		<link></link>
 		<link2>maryland</link2>
-		<areas></areas>
+		<areas>Baltimore, Annapolis, Pasadena, Galesville, Chester, Edgewater, Solomons, Saint Michaels, and Pasadena (Chesapeake Bay).</areas>
 	</location>
 	<location>
 		<city>Washington DC</city>
@@ -2266,7 +2266,7 @@
 		<text></text>	
 		<link></link>
 		<link2>massachusetts</link2>
-		<areas></areas>
+		<areas>Boston, Nantucket, Hyannis, Chatham, Plymouth, Quincy, Beverly, Provincetown, Falmouth, Marlbehead, Scituate, Hull, Barnstable, Tisbury, Yarmouth, New Bedford, Dennis, Martha's Vineyard, Newburyport, Fairhaven, Winthrop, Andover, Haverhill, Weston, Essex, Salem, Groveland, Hingham, Manchester-By-The-Sea, Southwick, Wales, Marblehead, Gloucester, Lynn, Revere, Osterville, Wellfleet, Truro, Bourne, Boston Harbor, and Cape Cod.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -2278,7 +2278,7 @@
 		<text></text>	
 		<link></link>
 		<link2>new-jersey</link2>
-		<areas></areas>
+		<areas>Toms River, Lavallette, Ocean City, Berkeley Township, Princeton, Beach Haven, Point Pleasant, Ship Bottom, Brick Township, Somers Point, Lacey Township, Sea Bright, Union Beach, Brielle, Long Port, Highlands, Red Bank, Island Heights, Monmouth Beach, Galloway, Barnegat Township, Brigantine, Atlantic Highlands, Northfield, Jersey City, Alpine, Englewood Cliffs, Belmar, Keyport, Lanoka Harbor, Weehawken, Bordentown, Hoboken, Perth Amboy, Avalon, Atlantic City, Long Beach Island, Manasquan, Long Branch,  Rumson, Seaside Heights, Barnegat Bay, Point Pleasant Beach, Leonardo, and Englewood Cliffs (Hudson River).</areas>
 	</location>
 	<location>
 		<city>Cape May</city>
@@ -2302,7 +2302,7 @@
 		<text></text>	
 		<link></link>
 		<link2>new-york-city</link2>
-		<areas></areas>
+		<areas>New York Harbor, Brooklyn, Port Washington, East Rockaway, New Rochelle, Queens, The Bronx, Staten Island, Long Island, Buffalo, Grand Island, New York City, NY Harbor, Jamaica Bay, Howard Beach, Hudson River, Long Island Sound, East Hampton, Sag Harbor, Montauk, Manhattan, Glen Cove, Mattituck (North Fork), Shelter Island, Port Chester, Jamesport, Southampton, Greenport, Hampton Bays, Patchogue, Sayville, Bay Shore, Northport, Bellport, Moriches, Huntington, Kingston, Mahopac, Peekskill, Nyack, Piermont, Freeport, Saugerties, and Green Point (Long Island).</areas>
 	</location>
 	<location>
 		<city></city>
@@ -2314,7 +2314,7 @@
 		<text></text>	
 		<link></link>
 		<link2>north-carolina</link2>
-		<areas></areas>
+		<areas>Wilmington, Atlantic Beach, Charlotte, Raleigh, Fayetteville, Mooresville, Chapel Hill, Wrightsville Beach, Washington, Monroe, Greensboro, Morehead City, New London, Hubert, Swan Quarter, Merritt, Nebo, Cornelius, Littleton, Southport, Lake Lure, Rocky Point, Huntersville, Shallotte, Sherrills Ford, Leland, Statesville, Wilson, Beaufort, Denver, Topton, Greenville, Newport, Wake Forest, New Bern, Sneads Ferry, Lake Norman of Catawba, Robbinsville, Semora, Lincolnton, Bah, High Point, Iron Station, Belmont, Jacksonville, Apex, Hertford, Elkin, Roxboro, Wanchese, Carolina Beach, Mount Gilead,  Holden Beach, Richfield, Durham, Kill Devil Hills, Hampstead, Bath, Mount Holly, Brogden, Lake Lanier, Hatteras, Falls Lake, Emerald Isle, Lake Norman, Mountain Island Lake, Lake Murray, Lake Wylie, Lake Keowee, Lake Hartwell, Aberdeen, Ayden, Clarks Hill Lake, Lake Hickory, Nags Head (Outer Banks), Manteo, Salisbury, Morehead, North Topsail Beach, Moyock, Lake Rhodhiss, Davidson, and Charlotte (Mountain Island Lake).</areas>
 	</location>
 	<location>
 		<city>Outer Banks</city>
@@ -2338,7 +2338,7 @@
 		<text></text>	
 		<link></link>
 		<link2>ohio</link2>
-		<areas></areas>
+		<areas>Columbus, Akron, Cincinnati, Toledo, Lewis Center, Port Clinton, Streetsboro, Thornville, Vermilion, Tallmadge, Conneaut, Batavia, North Royalton, Columbus (Alum Creek Lake), Cleveland, Jamestown, Mentor, Sheffield Lake, Lake Erie, Warren, Oak Harbor, Kellys Island, Ashtabula, Napoleon, Lakeside Marblehead, Grand River, Westlake, Rocky River, and Belleview (Lake Erie/Sandusky Bay).</areas>
 	</location>
 	<location>
 		<city>Cincinnati</city>
@@ -2362,7 +2362,7 @@
 		<text></text>	
 		<link></link>
 		<link2>oregon</link2>
-		<areas></areas>
+		<areas>Portland, Beaverton, Treasure Valley, Bend, Newport, St. Helens, Oakridge, Astoria, Elkton, Springfield, Maupin, Ashland, Keizer, McMinnville, Sisters, Columbia River, Willamette River, Tillamook Bay, Pacific City, Eugene, Cascade Locks, Hermistan, and Adrian.</areas>
 	</location>
 	<location>
 		<city>Cascade Locks</city>
@@ -2410,7 +2410,7 @@
 		<text></text>	
 		<link></link>
 		<link2>philadelphia</link2>
-		<areas></areas>
+		<areas>Pittsburgh, Conneaut, Lakeville, McKeesport, Plum, Greentown, Blakeslee, Easton, Saylorsburg, Bird In Hand, Emmaus, Lake Erie, Paupack (Lake Wallenpaupack), Harveys Lake, Great Bend Township, Westfield, Hesston (Raystown Lake), Conneaut Lake, Philadelphia, and Erie.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -2422,7 +2422,7 @@
 		<text></text>	
 		<link></link>
 		<link2>rhode-island</link2>
-		<areas></areas>
+		<areas>Newport, Narragansett, Portsmouth, Providence, Barrington, North Kingstown, Coventry, South Kingstown, Westerly, East Greenwich, Wickford, Jamestown, Cranston, Warwick, and Bristol.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -2434,7 +2434,7 @@
 		<text></text>	
 		<link></link>
 		<link2>south-carolina</link2>
-		<areas></areas>
+		<areas>Myrtle Beach, Charleston, Hilton Head Island, Augusta, Lake Wylie, Anderson, Greensville, Tega Cay, Mount Pleasant, Ladson, Salem, Clover, Shallotte, Johns Island, Saint Helena Island, North, Goose Creek, McCormick, Rock Hill, Fair Play, Greer, Edgefield, Compobello, Monks Corner, Bluffton, Conway, Bishop, Camden, Townville, Somerville, Lavonia, Chapin, Lancaster, Columbia, Folly Beach, Lake Murray, North Myrtle Beach, Low Country, Lake Wando, Wylie, Mt. Pleasant, Lake Keowee, Lake Oconee, Lake Hartwell, Lake Wateree, Hooley Island, Lake Sinclair, Little River, Lake Jocassee, Six Mile, Lexington (Lake Murray), Appling, McIntyre, Edisto Island, Lake Russel, Anderson (Lake Hartwell), and Eutawville (Lake Marion).</areas>
 	</location>
 	<location>
 		<city>Charleston</city>
@@ -2470,7 +2470,7 @@
 		<text></text>	
 		<link></link>
 		<link2>tennessee</link2>
-		<areas></areas>
+		<areas>Nashville, Knoxville, Dandridge, Chattanooga, Hendersonville, Winchester, Harrison, New Tazewell, Mt. Juliet, Andersonville, Powell, Soddy-Daisy, Maynardville, Sharps Chapel, Robbinsville, Lebanon, Cleveland, Silver Point, Byrdstown, Hendersonville (Old Hickory Lake), Percy Priest Lake, Norris Lake, Dresden, Alpine, Guild, and Dandridge (Douglas Lake).</areas>
 	</location>
 	<location>
 		<city>Pigeon Forge</city>
@@ -2506,7 +2506,7 @@
 		<text></text>	
 		<link></link>
 		<link2>utah</link2>
-		<areas></areas>
+		<areas>Salt Lake City, Provo, Lehi, Sandy, Midway, Alpine, Spanish Fork, Orem, Herriman, St. George, South Jordan, Willard Bay, Yuba Lake, Harriman, Midvale, Dutch John (Green River), Eagle Mountain, Pleasant Grove,and Hurricane.</areas>
 	</location>
 	<location>
 		<city>Moab</city>
@@ -2530,7 +2530,7 @@
 		<text></text>	
 		<link></link>
 		<link2>virginia</link2>
-		<areas></areas>
+		<areas>Virginia Beach, Norfolk, Arlington, Alexandria, Chesapeake, Lynchburg, Woodbridge, Lorton, Fredericksville, Chantilly, Readville, Stafford, Bumpass, Mineral, White Post, Mechanicsville, Gloucester Point, Hampton, TappaHannock, Fort Belvior, Lake Gaston, Hartfield, and Yorktown.</areas>
 	</location>
 	<location>
 		<city>Norfolk</city>
@@ -2554,7 +2554,7 @@
 		<text></text>	
 		<link></link>
 		<link2>washington</link2>
-		<areas></areas>
+		<areas>Seattle, Olympia, Tacoma, Bellingham, Everett, Kirkland, Renton, Kent, Anacortes, Mead, Bellevue, Davenport, Menatchee, Auburn, Friday Harbor, Gig Harbor, Burien, Chelan, Kennewick, Bonney Lake, Vancouver, Ridgefield, Spokane County, Liberty Lake, Lynnwood, Quincy, Seatac, LA Conner, Bremerton, Des Moines, Ruston, Edmonds, Bainbridge Islands, Spanaway, Eastsound, Kenmore, Everette, San Juan Island, Lake Washington, Lake Union, Puget Sound, Lake Sammamish, St. Helens, Lake Tapps, Conner, Mercy Island, Leschi, Olga, Lake Chelan, Columbia River, Snohomish, Longview, Puyallup, Orcas Island, Clarkston, Metchosin, Astoria, Toledo, Sequim, Port Townsend Bay, and Belfair.</areas>
 	</location>
 	<location>
 		<city></city>
@@ -2566,7 +2566,7 @@
 		<text></text>	
 		<link></link>
 		<link2>wyoming</link2>
-		<areas></areas>
+		<areas>Jackson, Cheyenne, and Casper.</areas>
 	</location>
 	<location>
 		<city>Jackson</city>

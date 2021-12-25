@@ -60,11 +60,11 @@
 		<image>bora-bora.webp</image>
 		<title>Bora Bora</title>
 		<desc>This remote, romantic island is great for honeymoons and wedding anniversaries.</desc>
-		<link>bora-bora</link>
+		<link>leeward-islands</link>
 	</dest>
 
 	<dest>
-		<image>anantha-krishnan.webp</image>
+		<image>Boracay.webp</image>
 		<title>Boracay (Philippines)</title>
 		<desc>Go scuba diving to see the beautiful coral reefs and shipwrecks.</desc>
 		<link>boracay</link>
@@ -207,7 +207,7 @@
 		<image>fiji-1.webp</image>
 		<title>Fiji</title>
 		<desc>Made up of over 300 islands in the South Pacific, it is famous for its tropical beaches and clear lagoons.</desc>
-		<link>fiji/fiji</link>
+		<link>fiji</link>
 	</dest>
 
 	<dest>

@@ -7,22 +7,22 @@
 	</item>
 	<item>
 		<caption>Yacht Destinations</caption>
-		<link>../index.php#yacht-destinations</link>
+		<link>/index.php#yacht-destinations</link>
 		<image></image>
 	</item>
 	<item>
 		<caption>Articles</caption>
-		<link>../boating-articles.php</link>
+		<link>/boating-articles.php</link>
 		<image></image>
 	</item>
 	<item>
 		<caption>Contact Us</caption>
-		<link>../contact-us.php</link>
+		<link>/contact-us.php</link>
 		<image></image>
 	</item>
 	<item>
 		<caption>Privacy Policy</caption>
-		<link>../privacy-policy.php</link>
+		<link>/privacy-policy.php</link>
 		<image></image>
 	</item>
 </Menu>

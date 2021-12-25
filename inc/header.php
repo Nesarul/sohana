@@ -9,14 +9,18 @@
         $title = $rec[0]->title;
         $desc = $rec[0]->desc;
     }else{
-        if(count($rec[0])>3){
+        if($rec != null){
+            if(count($rec[0])>3){
             $title = $rec[0]->place;
             $desc = $rec[0]->place;
+            }else{
+                $title = "Yachts.com";
+                $desc = "Yachts.com";
+            }
         }else{
-            $title = "Yacht.com";
-            $desc = "Yacht.com";
-        }
-        
+                $title = "Yachts.com";
+                $desc = "Yachts.com";
+            }
     }
 ?>
 

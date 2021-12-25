@@ -266,7 +266,7 @@ hr{
     padding-top:30%;
     position: relative;
     overflow:hidden;
-    margin-bottom: 45px;
+    margin-bottom:15px;
 }
 .caption-image>img{
     position: absolute;
@@ -288,7 +288,16 @@ hr{
     bottom: 0;
 
 }
-
+.areas{
+    width:100%;
+    padding:15px;
+    background-color:rgb(236, 242, 250);
+    color:black;
+    font-size:18px;
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+}
 @media (max-width: 576px) {
     .caption-screen>h2{
         font-size: 95%;
