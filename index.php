@@ -53,10 +53,10 @@
         ?>
         <div class="col-md-4 col-sm-6 col-12" style="z-index: 10;">
             <div class="input-group"> 
-                <input id="search-box" type="search" class="form-control sb" placeholder="Search"> 
+                <input id="search-box" type="search" class="form-control sb" placeholder="Enter Destination Name"> 
                 <span class="input-group-addon"><input type="submit" value="Search" class="btn btn-primary"></span> 
                 
-            </div><div id="suggesstion-box" style="max-height: 250px; overflow-y:scroll"></div>
+            </div><div id="suggesstion-box" style="max-height: 250px; overflow:auto"></div>
         </div>
 
         <?php endif; ?>

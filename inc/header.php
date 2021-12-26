@@ -70,10 +70,10 @@
                     <div class="col-4 align-items-center d-flex"><a class="navbar-brand" href="https://yachts.com/"><img src="/images/logo.png" class="img-fluid" alt="Logo"></a></div>
                     <div class="col-8">
                         <div class="input-group"> 
-                            <input id="search-box" type="search" class="form-control sb" placeholder="Search"> 
+                            <input id="search-box" type="search" class="form-control sb" placeholder="Destination"> 
                             <span class="input-group-addon"><input type="submit" value="Search" class="btn btn-primary"></span> 
                             
-                        </div><div id="suggesstion-box" style="max-height: 250px; overflow-y:scroll"></div>
+                        </div><div id="suggesstion-box" style="max-height: 250px; overflow:auto"></div>
                     </div>
                 </div>
             </div>            

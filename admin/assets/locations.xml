@@ -19,6 +19,7 @@
 		<link></link>
 		<link2>fiji</link2>
 		<areas></areas>
+		<criteria>Fiji</criteria>
 	</location>
 	<location>
 		<city>Croatia</city>
@@ -39,6 +40,7 @@
 		<link></link>
 		<link2>croatia</link2>
 		<areas></areas>
+		<criteria>Croatia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -59,6 +61,7 @@
 		<link></link>
 		<link2>galapagos-islands</link2>
 		<areas></areas>
+		<criteria>Galapagos Islands</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -78,6 +81,7 @@
 		<link></link>
 		<link2>alaska</link2>
 		<areas>Anchorage, Seward, Homer, Whittier, Sterling, Halibut Cove, Wasilla, Skwentna, Cooper Landing, Willow, Kenai, Butte, Soldotna, Palmer, and Ninilchik.</areas>
+		<criteria>Alaska, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -99,6 +103,7 @@
 		<link></link>
 		<link2>bahamas</link2>
 		<areas></areas>
+		<criteria>Bahamas</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -119,6 +124,7 @@
 		<link></link>
 		<link2>thailand</link2>
 		<areas></areas>
+		<criteria>Thailand</criteria>
 	</location>
 	<location>
 		<city>Sicily</city>
@@ -138,6 +144,7 @@
 		<link></link>
 		<link2>sicily</link2>
 		<areas></areas>
+		<criteria>Sicily, Italy</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -157,6 +164,7 @@
 		<link></link>
 		<link2>costa-rica</link2>
 		<areas></areas>
+		<criteria>Costa Rica</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -178,6 +186,7 @@
 		<link></link>
 		<link2>new-england</link2>
 		<areas></areas>
+		<criteria>New England, United States</criteria>
 	</location>
 	<location>
 		<city>Balearic Islands</city>
@@ -199,6 +208,7 @@
 		<link></link>
 		<link2>balearic-islands</link2>
 		<areas></areas>
+		<criteria>Balearic Islands, Spain</criteria>
 	</location>
 	<location>
 		<city>Santorini</city>
@@ -218,6 +228,7 @@
 		<link></link>
 		<link2>santorini</link2>
 		<areas></areas>
+		<criteria>Santorini, Greece</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -237,6 +248,7 @@
 		<link></link>
 		<link2>french-riviera</link2>
 		<areas></areas>
+		<criteria>French Riviera, France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -256,6 +268,7 @@
 		<link></link>
 		<link2>british-virgin-islands</link2>
 		<areas></areas>
+		<criteria>British Virgin Islands</criteria>
 	</location>
 	
 	<location>
@@ -277,6 +290,7 @@
 		<link></link>
 		<link2>corsica</link2>
 		<areas></areas>
+		<criteria>Corsica, France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -296,6 +310,7 @@
 		<link></link>
 		<link2>turkey</link2>
 		<areas></areas>
+		<criteria>Turkey</criteria>
 	</location>
 	<location>
 		<city>Corfu</city>
@@ -315,6 +330,7 @@
 		<link></link>
 		<link2>corfu</link2>
 		<areas></areas>
+		<criteria>Corfu, Greece</criteria>
 	</location>
 	<location>
 		<city>Monaco</city>
@@ -336,6 +352,7 @@
 		<link></link>
 		<link2>monaco</link2>
 		<areas></areas>
+		<criteria>Monaco, French Riviera, France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -353,6 +370,7 @@
 		<link></link>
 		<link2>seychelles</link2>
 		<areas></areas>
+		<criteria>Seychelles</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -372,6 +390,7 @@
 		<link></link>
 		<link2>italy</link2>
 		<areas></areas>
+		<criteria>Italy</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -390,6 +409,7 @@
 		<link></link>
 		<link2>tahiti</link2>
 		<areas></areas>
+		<criteria>Tahiti</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -410,6 +430,7 @@
 		<link></link>
 		<link2>malaysia</link2>
 		<areas></areas>
+		<criteria>Malaysia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -429,6 +450,7 @@
 		<link></link>
 		<link2>florida</link2>
 		<areas>Miami, Fort Lauderdale, Clearwater, Hollywood, Tampa, Miami Beach, St. Petersburg, Sarasota, Destin, Key Largo, Jupiter, Naples, Daytona Beach, Plantation, Cape Coral, Panama City, Delray Beach, Boca Raton, Holiday, Jacksonville, Deerfield Beach, Sunny Isles Beach, Riviera Beach, Denia Beach, Aventura, Merritt Beach, Islamorada, Pompano Beach, Marco Island, Fernandina Beach, Sebastian, Leesburg, Madiera Beach, Palm Beach Gardens, Bradenton, Niceville,  Key Biscayne, Sebring, St. Augustine, Nokomis, Tarpon Springs, Cudjoe Key, Lighthouse Point, Brooksville, Palm Beach, The Florida Keys, Key Biscayne, Coral Gables, Clearwater Beach, West Palm Beach, Orlando, Pensacola, Gulf Breeze, Madeira Beach, Ruskin, Indian Rocks Beach, New Port Richey, Cocoa Beach, Palm Beach Shores, Palm Bay, Harbour Beach, Port St. Lucie, North Palm Beach, Boynton Beach, Crescent City, New Smyrna Beach, Hallandale Beach, Dania Beach, Miami Shores, Hialeah, Homestead, Hypoluxo, North Bay Village, Key West, Biscayne Bay, Tampa Bay, Fort Myers, Bal Harbour, Bushnell, Miami Bay, Fort Pierce, Hallandale, Saint Augustine, Fort Myers Beach, St Lucie River (Stuart), Lake Mary, Merritt Island, Umatilla, and Sanibel Island.</areas>
+		<criteria>Florida, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -448,6 +470,7 @@
 		<link></link>
 		<link2>us-virgin-islands</link2>
 		<areas></areas>
+		<criteria>US Virgin Islands</criteria>
 	</location>
 	<location>
 		<city>Milos</city>
@@ -468,6 +491,7 @@
 		<link></link>
 		<link2>milos</link2>
 		<areas></areas>
+		<criteria>Milos, Greece</criteria>
 	</location>
 	<location>
 		<city>Nantucket</city>
@@ -489,6 +513,7 @@
 		<link></link>
 		<link2>nantucket</link2>
 		<areas></areas>
+		<criteria>Nantucket, Massachusetts, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -509,6 +534,7 @@
 		<link></link>
 		<link2>cuba</link2>
 		<areas></areas>
+		<criteria>Cuba</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -529,6 +555,7 @@
 		<link></link>
 		<link2>indonesia</link2>
 		<areas></areas>
+		<criteria>Indonesia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -547,6 +574,7 @@
 		<link></link>
 		<link2>china</link2>
 		<areas></areas>
+		<criteria>China</criteria>
 	</location>
 	
 	<location>
@@ -566,6 +594,7 @@
 		<link></link>
 		<link2>belize</link2>
 		<areas></areas>
+		<criteria>Belize</criteria>
 	</location>
 	<location>
 		<city>Cannes</city>
@@ -584,6 +613,7 @@
 		<link></link>
 		<link2>cannes</link2>
 		<areas></areas>
+		<criteria>Cannes, French Riviera, France</criteria>
 	</location>
 	<location>
 		<city>Ibiza</city>
@@ -603,6 +633,7 @@
 		<link></link>
 		<link2>ibiza</link2>
 		<areas></areas>
+		<criteria>Ibiza, Spain</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -622,6 +653,7 @@
 		<link></link>
 		<link2>grenada</link2>
 		<areas></areas>
+		<criteria>Grenada</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -639,6 +671,7 @@
 		<link></link>
 		<link2>australia</link2>
 		<areas></areas>
+		<criteria>Australia</criteria>
 	</location>
 	<location>
 		<city>Crete</city>
@@ -659,6 +692,7 @@
 		<link></link>
 		<link2>crete</link2>
 		<areas></areas>
+		<criteria>Crete, Greece</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -679,6 +713,7 @@
 		<link></link>
 		<link2>french-west-indies</link2>
 		<areas></areas>
+		<criteria>French West Indies, France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -694,6 +729,7 @@
 		<link></link>
 		<link2>malta</link2>
 		<areas></areas>
+		<criteria>Malta</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -720,6 +756,7 @@
 		<link></link>
 		<link2>windward-islands</link2>
 		<areas></areas>
+		<criteria>Windward Islands, </criteria>
 	</location>
 	<location>
 		<city></city>
@@ -737,6 +774,7 @@
 		<link></link>
 		<link2>red-sea</link2>
 		<areas></areas>
+		<criteria>Red Sea, </criteria>
 	</location>
 	<location>
 		<city>Miami</city>
@@ -756,6 +794,7 @@
 		<link></link>
 		<link2>miami</link2>
 		<areas></areas>
+		<criteria>Miami, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Martinique</city>
@@ -776,6 +815,7 @@
 		<link></link>
 		<link2>martinique</link2>
 		<areas></areas>
+		<criteria>Martinique, France</criteria>
 	</location>
 	<location>
 		<city>Costa Smeralda</city>
@@ -796,6 +836,7 @@
 		<link></link>
 		<link2>costa-smeralda</link2>
 		<areas></areas>
+		<criteria>Costa Smeralda, Sardinia, Italy</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -817,6 +858,7 @@
 		<link></link>
 		<link2>dominica</link2>
 		<areas></areas>
+		<criteria>Dominica</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -834,6 +876,7 @@
 		<link></link>
 		<link2>greece</link2>
 		<areas></areas>
+		<criteria>Greece</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -854,6 +897,7 @@
 		<link></link>
 		<link2>norway</link2>
 		<areas></areas>
+		<criteria>Norway</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -873,6 +917,7 @@
 		<link></link>
 		<link2>singapore</link2>
 		<areas></areas>
+		<criteria>Singapore</criteria>
 	</location>
 	<location>
 		<city>San Francisco</city>
@@ -894,6 +939,7 @@
 		<link></link>
 		<link2>san-francisco</link2>
 		<areas></areas>
+		<criteria>San Francisco, California, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -914,6 +960,7 @@
 		<link></link>
 		<link2>new-zealand</link2>
 		<areas></areas>
+		<criteria>New Zealand</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -932,6 +979,7 @@
 		<link></link>
 		<link2>ionian-islands</link2>
 		<areas></areas>
+		<criteria>Ionian Islands, Greece</criteria>
 	</location>
 	<location>
 		<city>Sardinia</city>
@@ -952,6 +1000,7 @@
 		<link></link>
 		<link2>sardinia</link2>
 		<areas></areas>
+		<criteria>Sardinia, Italy</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -971,6 +1020,7 @@
 		<link></link>
 		<link2>canary-islands</link2>
 		<areas></areas>
+		<criteria>Canary Islands</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -990,6 +1040,7 @@
 		<link></link>
 		<link2>turquoise-coast</link2>
 		<areas></areas>
+		<criteria>Turquoise Coast, Turkey</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1008,6 +1059,7 @@
 		<link></link>
 		<link2>saint-martin</link2>
 		<areas></areas>
+		<criteria>Saint Martin</criteria>
 	</location>
 	<location>
 		<city>Boston</city>
@@ -1027,6 +1079,7 @@
 		<link></link>
 		<link2>boston</link2>
 		<areas></areas>
+		<criteria>Boston, Massachusetts, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1046,6 +1099,7 @@
 		<link></link>
 		<link2>france</link2>
 		<areas></areas>
+		<criteria>France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1067,6 +1121,7 @@
 		<link></link>
 		<link2>maine</link2>
 		<areas></areas>
+		<criteria>Maine, United States</criteria>
 	</location>
 	<location>
 		<city>New Caledonia</city>
@@ -1086,6 +1141,7 @@
 		<link></link>
 		<link2>new-caledonia</link2>
 		<areas></areas>
+		<criteria>New Caledonia, France</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1105,6 +1161,7 @@
 		<link></link>
 		<link2>tonga</link2>
 		<areas></areas>
+		<criteria>Tonga</criteria>
 	</location>
 	<location>
 		<city>Dubai</city>
@@ -1125,6 +1182,7 @@
 		<link></link>
 		<link2>dubai</link2>
 		<areas></areas>
+		<criteria>Dubai, United Arab Emirates</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1144,6 +1202,7 @@
 		<link></link>
 		<link2>maldives</link2>
 		<areas></areas>
+		<criteria>Maldives</criteria>
 	</location>
 	<location>
 		<city>Vancouver</city>
@@ -1164,6 +1223,7 @@
 		<link></link>
 		<link2>vancouver</link2>
 		<areas></areas>
+		<criteria>Vancouver, British Columbia, Canada</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1184,6 +1244,7 @@
 		<link></link>
 		<link2>sri-lanka</link2>
 		<areas></areas>
+		<criteria>Sri Lanka</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1204,6 +1265,7 @@
 		<link></link>
 		<link2>iceland</link2>
 		<areas></areas>
+		<criteria>Iceland</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1221,6 +1283,7 @@
 		<link></link>
 		<link2>japan</link2>
 		<areas></areas>
+		<criteria>Japan</criteria>
 	</location>
 	<location>
 		<city>Lelepa</city>
@@ -1237,6 +1300,7 @@
 		<link></link>
 		<link2>lelepa</link2>
 		<areas></areas>
+		<criteria>Lelepa, Vanuatu</criteria>
 	</location>
 	<location>
 		<city>Rhodes</city>
@@ -1256,6 +1320,7 @@
 		<link></link>
 		<link2>rhodes</link2>
 		<areas></areas>
+		<criteria>Rhodes, Greece</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1274,6 +1339,7 @@
 		<link></link>
 		<link2>panama-canal</link2>
 		<areas></areas>
+		<criteria>Panama Canal, Panama</criteria>
 	</location>
 	<location>
 		<city>Newport</city>
@@ -1293,6 +1359,7 @@
 		<link></link>
 		<link2>newport</link2>
 		<areas></areas>
+		<criteria>Newport, Rhode Island, Newport</criteria>
 	</location>
 	<location>
 		<city>Whitsunday Islands</city>
@@ -1313,6 +1380,7 @@
 		<link></link>
 		<link2>whitsunday-islands</link2>
 		<areas></areas>
+		<criteria>Whitsunday Islands, Australia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1332,6 +1400,7 @@
 		<link></link>
 		<link2>chesapeake-bay</link2>
 		<areas></areas>
+		<criteria>Chesapeake Bay, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1352,6 +1421,7 @@
 		<link></link>
 		<link2>scotland</link2>
 		<areas></areas>
+		<criteria>Scotland</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1372,6 +1442,7 @@
 		<link></link>
 		<link2>bermuda</link2>
 		<areas></areas>
+		<criteria>Bermuda</criteria>
 	</location>
 	<location>
 		<city>Boracay</city>
@@ -1391,6 +1462,7 @@
 		<link></link>
 		<link2>boracay</link2>
 		<areas></areas>
+		<criteria>Boracay, Philippines</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1409,6 +1481,7 @@
 		<link></link>
 		<link2>italian-coast</link2>
 		<areas></areas>
+		<criteria>Italian Coast, Italy</criteria>
 	</location>
 	<location>
 		<city>Cooper Island</city>
@@ -1428,6 +1501,7 @@
 		<link></link>
 		<link2>cooper-island</link2>
 		<areas></areas>
+		<criteria>Cooper Island, British Virgin Islands</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1446,13 +1520,14 @@
 		<link></link>
 		<link2>the-cook-islands</link2>
 		<areas></areas>
+		<criteria>The Cook Islands</criteria>
 	</location>
 	<location>
 		<city></city>
-		<state>Leeward Islands</state>
+		<state></state>
 		<country>Bora Bora</country>
 		<image>Leeward-Islands</image>	
-		<place>Leeward Islands</place>	
+		<place>Bora Bora</place>	
 		<search>boat</search>
 		<text>
 			<p>Often described as an ‘unspoiled paradise,’ Bora Bora is one of the most magical destinations in the world that you must explore on a luxury yacht charter. It’s a small South Pacific island located in French Polynesia northwest of Tahiti.</p>
@@ -1463,8 +1538,9 @@
 			<p>If you want to have a truly magical yachting experience, Bora Bora should definitely top your list!</p>
 		</text>	
 		<link></link>
-		<link2>leeward-islands</link2>
+		<link2>bora-bora</link2>
 		<areas></areas>
+		<criteria>Bora Bora</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1485,6 +1561,7 @@
 		<link></link>
 		<link2>ireland</link2>
 		<areas></areas>
+		<criteria>Ireland</criteria>
 	</location>
 	<location>
 		<city>Ross Sea</city>
@@ -1503,6 +1580,7 @@
 		<link></link>
 		<link2>ross-sea</link2>
 		<areas></areas>
+		<criteria>Ross Sea, Antarctica</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1523,6 +1601,7 @@
 		<link></link>
 		<link2>madagascar</link2>
 		<areas></areas>
+		<criteria>Madagascar</criteria>
 	</location>
 	<location>
 		<city>Borneo</city>
@@ -1542,6 +1621,7 @@
 		<link></link>
 		<link2>borneo</link2>
 		<areas></areas>
+		<criteria>Borneo, Kota Kinabalu, Malaysia</criteria>
 	</location>
 	<location>
 		<city>Seattle</city>
@@ -1561,6 +1641,7 @@
 		<link></link>
 		<link2>seattle</link2>
 		<areas></areas>
+		<criteria>Seattle, Washington, United States</criteria>
 	</location>
 	<location>
 		<city>Catalina Island</city>
@@ -1581,6 +1662,7 @@
 		<link></link>
 		<link2>catalina-island</link2>
 		<areas></areas>
+		<criteria>Catalina Island, California, United States</criteria>
 	</location>
 	<location>
 		<city>Maui</city>
@@ -1601,6 +1683,7 @@
 		<link></link>
 		<link2>maui</link2>
 		<areas></areas>
+		<criteria>Maui, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Bar Harbor</city>
@@ -1620,6 +1703,7 @@
 		<link></link>
 		<link2>bar-harbor</link2>
 		<areas></areas>
+		<criteria>Bar Harbor, Maine, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1639,6 +1723,7 @@
 		<link></link>
 		<link2>st.-barts</link2>
 		<areas></areas>
+		<criteria>St. Barts</criteria>
 	</location>
 	<location>
 		<city>Copenhagen</city>
@@ -1658,6 +1743,7 @@
 		<link></link>
 		<link2>copenhagen</link2>
 		<areas></areas>
+		<criteria>Copenhagen, Denmark</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1677,6 +1763,7 @@
 		<link></link>
 		<link2>qatar</link2>
 		<areas></areas>
+		<criteria>Qatar</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1696,6 +1783,7 @@
 		<link></link>
 		<link2>mauritius</link2>
 		<areas></areas>
+		<criteria>Mauritius</criteria>
 	</location>
 	<location>
 		<city>Mumbai</city>
@@ -1716,6 +1804,7 @@
 		<link></link>
 		<link2>mumbai</link2>
 		<areas></areas>
+		<criteria>Mumbai, India</criteria>
 	</location>
 	<location>
 		<city>Seward</city>
@@ -1730,6 +1819,7 @@
 		<link></link>
 		<link2>seward</link2>
 		<areas></areas>
+		<criteria>Seward, Alaska, United States</criteria>
 	</location>
 	<location>
 		<city>Juneau</city>
@@ -1744,6 +1834,7 @@
 		<link></link>
 		<link2>juneau</link2>
 		<areas></areas>
+		<criteria>Juneau, Alaska, United States</criteria>
 	</location>
 	<location>
 		<city>Anchorage</city>
@@ -1758,6 +1849,7 @@
 		<link></link>
 		<link2>anchorage</link2>
 		<areas></areas>
+		<criteria>Anchorage, Alaska, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1772,6 +1864,7 @@
 		<link></link>
 		<link2>arizona</link2>
 		<areas>Lake Havasu City, Peoria, Phoenix, Morristown, Sun City, Mesa, Page, Gilbert, Surprise, Bullhead City, Mohave Valley, Chandler, Queen Creek, Kingman, Willow Beach, Tempe, Vail, Sierra Vista, Wickenburg, Marana, Lake Pleasant, Lake Havasu, Lake Saguaro, Lake Mead, Peoria, Bartlett Lake, Parker, Glendale, and Apache Lake.</areas>
+		<criteria>Arizona, United States</criteria>
 	</location>
 	<location>
 		<city>Phoenix</city>
@@ -1786,6 +1879,7 @@
 		<link></link>
 		<link2>phoenix</link2>
 		<areas></areas>
+		<criteria>Phoenix, Arizona, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -1800,6 +1894,7 @@
 		<link></link>
 		<link2>california</link2>
 		<areas></areas>
+		<criteria>California, United States</criteria>
 	</location>
 	<location>
 		<city>Monterey Bay</city>
@@ -1814,6 +1909,7 @@
 		<link></link>
 		<link2>monterey-bay</link2>
 		<areas>San Francisco, Newport Beach, Santa Barbara, Marina del Rey, Oxnard, Los Angeles, Sacramento, Folsom, San Diego, Long Beach, Discovery Bay, Oakland, Santa Rosa, Huntington Beach, Hilmar, Tahoe City, Rancho Cucamonga, Angels Camp, La Grange, Castro Valley, Marin County, Irvine, Riverside, Richmond, Menifee, San Mateo, Glendale, Sausalito, Mission Viejo, Oceanside, Rio Linda, Oakley, Bakersfield, Wildomar, Torrance, Alameda, National City, Dollar Point, Ione, South Lake Tahoe, Redondo Beach, Stockton, Murrieta, Dana Point, Berkeley, Vacaville, Copperopolis, Monrovia, Concord, Modesto, Canyon Lake, San Joe, Truckee, Fresno, Antioch, Roseville, Bethel Island, Peteluma, Santa Cruz, Castaic, Spring Valley, El Dorado Hills, Bass Lake, Bradley, Cerritos, Emeryville, Placerville, Rocklin, Pamona, Big Bear Lake, Yuba City, Shasta Lake, Catalina, Lake Tahoe, Napa Valley, Wishon, Millerton Lake, Coronado, Lake Tulloch, Folsom Lake, Fontana, Donner Lake (Truckee), Benicia, Santa Catalina Island, Redding, Corona, Sanger, Carson, Castaic Lake, San Joaquin River, Novato, Lake Elsinore, Pine Flat Lake, Silverwood Lake, San Juan Capistrano, Don Pedro Reservoir, Lake Mead, Lake Pyramid (Castaic), Lake Piru, Lake Paris, Redwood National Park, Culver City, Lake Paris (Riverside), Seal Beach, Chula Vista, Camanche Lake, Hawthorne, Melones Lake, Vaellejo, Moreno Valley, Lewiston, Kernville, Janesville, Morro Bay, Palmdale, Douglas City, Lake Shasta, San Dimas, Lake Berryessa, Blue Lake, Laguna Hills, Winters, Simi Valley, Fairfield, Walnut Creek, Redwood City, Monterey, San Jose, San Bernardino, North Highlands, and Lake McClure (La Grange).</areas>
+		<criteria>Monterey Bay, California, United States</criteria>
 	</location>
 	<location>
 		<city>South Lake Tahoe</city>
@@ -1828,6 +1924,7 @@
 		<link></link>
 		<link2>south-lake-tahoe</link2>
 		<areas></areas>
+		<criteria>South Lake Tahoe, California, United States</criteria>
 	</location>
 	<location>
 		<city>San Diego</city>
@@ -1842,6 +1939,7 @@
 		<link></link>
 		<link2>san-diego</link2>
 		<areas></areas>
+		<criteria>San Diego, California, United States</criteria>
 	</location>
 	<location>
 		<city>Sacramento</city>
@@ -1856,6 +1954,7 @@
 		<link></link>
 		<link2>sacramento</link2>
 		<areas></areas>
+		<criteria>Sacramento, California, United States</criteria>
 	</location>
 	<location>
 		<city>Newport Beach</city>
@@ -1870,6 +1969,7 @@
 		<link></link>
 		<link2>newport-beach</link2>
 		<areas></areas>
+		<criteria>Newport Beach, California, United States</criteria>
 	</location>
 	<location>
 		<city>Los Angeles</city>
@@ -1884,6 +1984,7 @@
 		<link></link>
 		<link2>los-angeles</link2>
 		<areas></areas>
+		<criteria>Los Angeles, California, United States</criteria>
 	</location>
 	<location>
 		<city>Long Beach</city>
@@ -1898,6 +1999,7 @@
 		<link></link>
 		<link2>long-beach</link2>
 		<areas></areas>
+		<criteria>Long Beach, California, United States</criteria>
 	</location>
 	<location>
 		<city>Orlando</city>
@@ -1912,6 +2014,7 @@
 		<link></link>
 		<link2>orlando</link2>
 		<areas></areas>
+		<criteria>Orlando, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Marco Island</city>
@@ -1926,6 +2029,7 @@
 		<link></link>
 		<link2>marco-island</link2>
 		<areas></areas>
+		<criteria>Marco Island, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Fort Lauderdale</city>
@@ -1940,6 +2044,7 @@
 		<link></link>
 		<link2>fort-lauderdale</link2>
 		<areas></areas>
+		<criteria>Fort Lauderdale, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Clearwater Beach</city>
@@ -1954,6 +2059,7 @@
 		<link></link>
 		<link2>clearwater-beach</link2>
 		<areas></areas>
+		<criteria>Clearwater Beach, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Homosassa</city>
@@ -1968,6 +2074,7 @@
 		<link></link>
 		<link2>homosassa</link2>
 		<areas></areas>
+		<criteria>Homosassa, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Everglades</city>
@@ -1982,6 +2089,7 @@
 		<link></link>
 		<link2>everglades</link2>
 		<areas></areas>
+		<criteria>Everglades, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Madeira Beach</city>
@@ -1996,6 +2104,7 @@
 		<link></link>
 		<link2>madeira-beach</link2>
 		<areas></areas>
+		<criteria>Madeira Beach, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Tampa Bay</city>
@@ -2010,6 +2119,7 @@
 		<link></link>
 		<link2>tampa-bay</link2>
 		<areas></areas>
+		<criteria>Tampa Bay, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Fort Myers Beach</city>
@@ -2024,6 +2134,7 @@
 		<link></link>
 		<link2>fort-myers-beach</link2>
 		<areas></areas>
+		<criteria>Fort Myers Beach, Florida, United States</criteria>
 	</location>
 	<location>
 		<city>Key West</city>
@@ -2038,6 +2149,7 @@
 		<link></link>
 		<link2>key-west</link2>
 		<areas></areas>
+		<criteria>Key West, Florida, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2052,6 +2164,7 @@
 		<link></link>
 		<link2>georgia</link2>
 		<areas>Lavonia, Fitzgerald, Bishop, Statesboro, Covington, Bainbridge, Waleska, Sylvester, Gainesville, Morganton, Dawsonville, Cumming, Griffin, Acworth, Flowery Branch, Lagrange, Buford, Reed Creek, Milledgaville, Hoschton, St. Simons Island, Midway, Mableton, Dalton, Fair Play, Cartersville, Douglasville, St. Marys, Dallas, Eatonton, Oakwood, Atlanta, Lake Lanier (Gainesville), Lake Murray, Lake Hartwell, Lake Allatoona, Lake Wateree, Lake Sinclair, Lavonia, Anderson, Jonesboro, Rutledge, Savannah, Gainesville (Lake Lanier), and Dawsonville (Lake Lanier).</areas>
+		<criteria>Georgia, United States</criteria>
 	</location>
 	<location>
 		<city>Savannah</city>
@@ -2066,6 +2179,7 @@
 		<link></link>
 		<link2>savannah</link2>
 		<areas></areas>
+		<criteria>Savannah, Georgia, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2080,6 +2194,7 @@
 		<link></link>
 		<link2>hawaii</link2>
 		<areas>Honolulu (Oahu), Lahaina (Maui), Kapolei, Waialua, Kaneohe, Waianae, Kailua-Kona, Kauai, Lahaina, Waikiki, Big Island, Kewalo Harbour, Maui, Molokai, Lanai, Halwiwa, North Kona, Ko’Olina, Glacier Bay (Kapaa), Kaanapali Beach, Puako, Waianae (Oahu), Kihei (Maui), Kealakekua, and Captain Cook.</areas>
+		<criteria>Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Honolulu</city>
@@ -2094,6 +2209,7 @@
 		<link></link>
 		<link2>honolulu</link2>
 		<areas></areas>
+		<criteria>Honolulu, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Lahaina</city>
@@ -2108,6 +2224,7 @@
 		<link></link>
 		<link2>lahaina</link2>
 		<areas></areas>
+		<criteria>Lahaina, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Oahu</city>
@@ -2122,6 +2239,7 @@
 		<link></link>
 		<link2>oahu</link2>
 		<areas></areas>
+		<criteria>Oahu, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Big Island</city>
@@ -2134,6 +2252,7 @@
 		<link></link>
 		<link2>big-island</link2>
 		<areas></areas>
+		<criteria>Big Island, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Kona</city>
@@ -2142,10 +2261,11 @@
 		<image>Kona</image>	
 		<place>Kona</place>	
 		<search>boat</search>
-		<text></text>	
-		<link><p>World-famous Kona coffee comes from the Kona District on the Big Island.</p></link>
+		<text><p>World-famous Kona coffee comes from the Kona District on the Big Island.</p></text>	
+		<link></link>
 		<link2>kona</link2>
 		<areas></areas>
+		<criteria>Kona, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Kauai</city>
@@ -2158,6 +2278,7 @@
 		<link></link>
 		<link2>kauai</link2>
 		<areas></areas>
+		<criteria>Kauai, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Hilo</city>
@@ -2171,6 +2292,7 @@
 		<link></link>
 		<link2>hilo</link2>
 		<areas></areas>
+		<criteria>Hilo, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city>Waikiki</city>
@@ -2183,6 +2305,7 @@
 		<link></link>
 		<link2>waikiki</link2>
 		<areas></areas>
+		<criteria>Waikiki, Hawaii, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2195,6 +2318,7 @@
 		<link></link>
 		<link2>illinois</link2>
 		<areas>Chicago, Antioch, Ingleside, Olympia Fields, Fox Lake, Wauconda, Loves Park, Taylorville, Bolingbrook, Oak Brook, Itasca, Normal, Johnsburg, Ottowa, Sullivan Township, Annawan, Algonquin, Burnham, Dahlgren, Morton, Lake Michigan, Chicago River, and Calumet River.</areas>
+		<criteria>Illinois, United States</criteria>
 	</location>
 	<location>
 		<city>Chicago</city>
@@ -2207,6 +2331,7 @@
 		<link></link>
 		<link2>chicago</link2>
 		<areas></areas>
+		<criteria>Chicago, Illinois, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2219,6 +2344,7 @@
 		<link></link>
 		<link2>louisiana</link2>
 		<areas>New Orleans, Madisonville, Slidell, Sulphur, Marrero, Kenner, Morgan City, Terrytown, Chalmette, Lafayette, Lake Pontchartrain, Breaux Bridge, Grand Isle, Dularge, Springfield, Venice, Myrtle Grove, Delacroix, Lafitte, and Hopedale.</areas>
+		<criteria>Louisiana, United States</criteria>
 	</location>
 	<location>
 		<city>New Orleans</city>
@@ -2231,6 +2357,7 @@
 		<link></link>
 		<link2>new-orleans</link2>
 		<areas></areas>
+		<criteria>New Orleans, Louisiana, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2243,6 +2370,7 @@
 		<link></link>
 		<link2>maryland</link2>
 		<areas>Baltimore, Annapolis, Pasadena, Galesville, Chester, Edgewater, Solomons, Saint Michaels, and Pasadena (Chesapeake Bay).</areas>
+		<criteria>Maryland, United States</criteria>
 	</location>
 	<location>
 		<city>Washington DC</city>
@@ -2255,6 +2383,7 @@
 		<link></link>
 		<link2>washington-dc</link2>
 		<areas></areas>
+		<criteria>Washington DC, Maryland, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2267,6 +2396,7 @@
 		<link></link>
 		<link2>massachusetts</link2>
 		<areas>Boston, Nantucket, Hyannis, Chatham, Plymouth, Quincy, Beverly, Provincetown, Falmouth, Marlbehead, Scituate, Hull, Barnstable, Tisbury, Yarmouth, New Bedford, Dennis, Martha's Vineyard, Newburyport, Fairhaven, Winthrop, Andover, Haverhill, Weston, Essex, Salem, Groveland, Hingham, Manchester-By-The-Sea, Southwick, Wales, Marblehead, Gloucester, Lynn, Revere, Osterville, Wellfleet, Truro, Bourne, Boston Harbor, and Cape Cod.</areas>
+		<criteria>Massachusetts, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2279,6 +2409,7 @@
 		<link></link>
 		<link2>new-jersey</link2>
 		<areas>Toms River, Lavallette, Ocean City, Berkeley Township, Princeton, Beach Haven, Point Pleasant, Ship Bottom, Brick Township, Somers Point, Lacey Township, Sea Bright, Union Beach, Brielle, Long Port, Highlands, Red Bank, Island Heights, Monmouth Beach, Galloway, Barnegat Township, Brigantine, Atlantic Highlands, Northfield, Jersey City, Alpine, Englewood Cliffs, Belmar, Keyport, Lanoka Harbor, Weehawken, Bordentown, Hoboken, Perth Amboy, Avalon, Atlantic City, Long Beach Island, Manasquan, Long Branch,  Rumson, Seaside Heights, Barnegat Bay, Point Pleasant Beach, Leonardo, and Englewood Cliffs (Hudson River).</areas>
+		<criteria>New Jersey, United States</criteria>
 	</location>
 	<location>
 		<city>Cape May</city>
@@ -2291,6 +2422,7 @@
 		<link></link>
 		<link2>cape-may</link2>
 		<areas></areas>
+		<criteria>Cape May, New Jersey, United States</criteria>
 	</location>
 	<location>
 		<city>New York City</city>
@@ -2303,6 +2435,7 @@
 		<link></link>
 		<link2>new-york-city</link2>
 		<areas>New York Harbor, Brooklyn, Port Washington, East Rockaway, New Rochelle, Queens, The Bronx, Staten Island, Long Island, Buffalo, Grand Island, New York City, NY Harbor, Jamaica Bay, Howard Beach, Hudson River, Long Island Sound, East Hampton, Sag Harbor, Montauk, Manhattan, Glen Cove, Mattituck (North Fork), Shelter Island, Port Chester, Jamesport, Southampton, Greenport, Hampton Bays, Patchogue, Sayville, Bay Shore, Northport, Bellport, Moriches, Huntington, Kingston, Mahopac, Peekskill, Nyack, Piermont, Freeport, Saugerties, and Green Point (Long Island).</areas>
+		<criteria>New York City, New York, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2315,6 +2448,7 @@
 		<link></link>
 		<link2>north-carolina</link2>
 		<areas>Wilmington, Atlantic Beach, Charlotte, Raleigh, Fayetteville, Mooresville, Chapel Hill, Wrightsville Beach, Washington, Monroe, Greensboro, Morehead City, New London, Hubert, Swan Quarter, Merritt, Nebo, Cornelius, Littleton, Southport, Lake Lure, Rocky Point, Huntersville, Shallotte, Sherrills Ford, Leland, Statesville, Wilson, Beaufort, Denver, Topton, Greenville, Newport, Wake Forest, New Bern, Sneads Ferry, Lake Norman of Catawba, Robbinsville, Semora, Lincolnton, Bah, High Point, Iron Station, Belmont, Jacksonville, Apex, Hertford, Elkin, Roxboro, Wanchese, Carolina Beach, Mount Gilead,  Holden Beach, Richfield, Durham, Kill Devil Hills, Hampstead, Bath, Mount Holly, Brogden, Lake Lanier, Hatteras, Falls Lake, Emerald Isle, Lake Norman, Mountain Island Lake, Lake Murray, Lake Wylie, Lake Keowee, Lake Hartwell, Aberdeen, Ayden, Clarks Hill Lake, Lake Hickory, Nags Head (Outer Banks), Manteo, Salisbury, Morehead, North Topsail Beach, Moyock, Lake Rhodhiss, Davidson, and Charlotte (Mountain Island Lake).</areas>
+		<criteria>North Carolina, United States</criteria>
 	</location>
 	<location>
 		<city>Outer Banks</city>
@@ -2327,6 +2461,7 @@
 		<link></link>
 		<link2>outer-banks</link2>
 		<areas></areas>
+		<criteria>Outer Banks, North Carolina, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2339,6 +2474,7 @@
 		<link></link>
 		<link2>ohio</link2>
 		<areas>Columbus, Akron, Cincinnati, Toledo, Lewis Center, Port Clinton, Streetsboro, Thornville, Vermilion, Tallmadge, Conneaut, Batavia, North Royalton, Columbus (Alum Creek Lake), Cleveland, Jamestown, Mentor, Sheffield Lake, Lake Erie, Warren, Oak Harbor, Kellys Island, Ashtabula, Napoleon, Lakeside Marblehead, Grand River, Westlake, Rocky River, and Belleview (Lake Erie/Sandusky Bay).</areas>
+		<criteria>Ohio, United States</criteria>
 	</location>
 	<location>
 		<city>Cincinnati</city>
@@ -2351,6 +2487,7 @@
 		<link></link>
 		<link2>cincinnati</link2>
 		<areas></areas>
+		<criteria>Cincinnati, Ohio, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2363,6 +2500,7 @@
 		<link></link>
 		<link2>oregon</link2>
 		<areas>Portland, Beaverton, Treasure Valley, Bend, Newport, St. Helens, Oakridge, Astoria, Elkton, Springfield, Maupin, Ashland, Keizer, McMinnville, Sisters, Columbia River, Willamette River, Tillamook Bay, Pacific City, Eugene, Cascade Locks, Hermistan, and Adrian.</areas>
+		<criteria>Oregon, United States</criteria>
 	</location>
 	<location>
 		<city>Cascade Locks</city>
@@ -2375,6 +2513,7 @@
 		<link></link>
 		<link2>cascade-locks</link2>
 		<areas></areas>
+		<criteria>Cascade Locks, Oregon, United States</criteria>
 	</location>
 	<location>
 		<city>Portland</city>
@@ -2387,6 +2526,7 @@
 		<link></link>
 		<link2>portland</link2>
 		<areas></areas>
+		<criteria>Portland, Oregon, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2399,6 +2539,7 @@
 		<link></link>
 		<link2>pennsylvania</link2>
 		<areas></areas>
+		<criteria>Pennsylvania, United States</criteria>
 	</location>
 	<location>
 		<city>Philadelphia</city>
@@ -2411,6 +2552,7 @@
 		<link></link>
 		<link2>philadelphia</link2>
 		<areas>Pittsburgh, Conneaut, Lakeville, McKeesport, Plum, Greentown, Blakeslee, Easton, Saylorsburg, Bird In Hand, Emmaus, Lake Erie, Paupack (Lake Wallenpaupack), Harveys Lake, Great Bend Township, Westfield, Hesston (Raystown Lake), Conneaut Lake, Philadelphia, and Erie.</areas>
+		<criteria>Philadelphia, Pennsylvania, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2423,6 +2565,7 @@
 		<link></link>
 		<link2>rhode-island</link2>
 		<areas>Newport, Narragansett, Portsmouth, Providence, Barrington, North Kingstown, Coventry, South Kingstown, Westerly, East Greenwich, Wickford, Jamestown, Cranston, Warwick, and Bristol.</areas>
+		<criteria>Rhode Island, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2435,6 +2578,7 @@
 		<link></link>
 		<link2>south-carolina</link2>
 		<areas>Myrtle Beach, Charleston, Hilton Head Island, Augusta, Lake Wylie, Anderson, Greensville, Tega Cay, Mount Pleasant, Ladson, Salem, Clover, Shallotte, Johns Island, Saint Helena Island, North, Goose Creek, McCormick, Rock Hill, Fair Play, Greer, Edgefield, Compobello, Monks Corner, Bluffton, Conway, Bishop, Camden, Townville, Somerville, Lavonia, Chapin, Lancaster, Columbia, Folly Beach, Lake Murray, North Myrtle Beach, Low Country, Lake Wando, Wylie, Mt. Pleasant, Lake Keowee, Lake Oconee, Lake Hartwell, Lake Wateree, Hooley Island, Lake Sinclair, Little River, Lake Jocassee, Six Mile, Lexington (Lake Murray), Appling, McIntyre, Edisto Island, Lake Russel, Anderson (Lake Hartwell), and Eutawville (Lake Marion).</areas>
+		<criteria>South Carolina, United States</criteria>
 	</location>
 	<location>
 		<city>Charleston</city>
@@ -2447,6 +2591,7 @@
 		<link></link>
 		<link2>charleston</link2>
 		<areas></areas>
+		<criteria>Charleston, South Carolina, United States</criteria>
 	</location>
 	<location>
 		<city>Hilton Head Island</city>
@@ -2459,6 +2604,7 @@
 		<link></link>
 		<link2>hilton-head-island</link2>
 		<areas></areas>
+		<criteria>Hilton Head Island, South Carolina, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2471,6 +2617,7 @@
 		<link></link>
 		<link2>tennessee</link2>
 		<areas>Nashville, Knoxville, Dandridge, Chattanooga, Hendersonville, Winchester, Harrison, New Tazewell, Mt. Juliet, Andersonville, Powell, Soddy-Daisy, Maynardville, Sharps Chapel, Robbinsville, Lebanon, Cleveland, Silver Point, Byrdstown, Hendersonville (Old Hickory Lake), Percy Priest Lake, Norris Lake, Dresden, Alpine, Guild, and Dandridge (Douglas Lake).</areas>
+		<criteria>Tennessee, United States</criteria>
 	</location>
 	<location>
 		<city>Pigeon Forge</city>
@@ -2483,6 +2630,7 @@
 		<link></link>
 		<link2>pigeon-forge</link2>
 		<areas></areas>
+		<criteria>Pigeon Forge, Tennessee, United States</criteria>
 	</location>
 	<location>
 		<city>Nashville</city>
@@ -2495,6 +2643,7 @@
 		<link></link>
 		<link2>nashville</link2>
 		<areas></areas>
+		<criteria>Nashville, Tennessee, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2507,6 +2656,7 @@
 		<link></link>
 		<link2>utah</link2>
 		<areas>Salt Lake City, Provo, Lehi, Sandy, Midway, Alpine, Spanish Fork, Orem, Herriman, St. George, South Jordan, Willard Bay, Yuba Lake, Harriman, Midvale, Dutch John (Green River), Eagle Mountain, Pleasant Grove,and Hurricane.</areas>
+		<criteria>Utah, United States</criteria>
 	</location>
 	<location>
 		<city>Moab</city>
@@ -2519,6 +2669,7 @@
 		<link></link>
 		<link2>moab</link2>
 		<areas></areas>
+		<criteria>Moab, Utah, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2531,6 +2682,7 @@
 		<link></link>
 		<link2>virginia</link2>
 		<areas>Virginia Beach, Norfolk, Arlington, Alexandria, Chesapeake, Lynchburg, Woodbridge, Lorton, Fredericksville, Chantilly, Readville, Stafford, Bumpass, Mineral, White Post, Mechanicsville, Gloucester Point, Hampton, TappaHannock, Fort Belvior, Lake Gaston, Hartfield, and Yorktown.</areas>
+		<criteria>Virginia, United States</criteria>
 	</location>
 	<location>
 		<city>Norfolk</city>
@@ -2543,6 +2695,7 @@
 		<link></link>
 		<link2>norfolk</link2>
 		<areas></areas>
+		<criteria>Norfolk, Virginia, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2555,6 +2708,7 @@
 		<link></link>
 		<link2>washington</link2>
 		<areas>Seattle, Olympia, Tacoma, Bellingham, Everett, Kirkland, Renton, Kent, Anacortes, Mead, Bellevue, Davenport, Menatchee, Auburn, Friday Harbor, Gig Harbor, Burien, Chelan, Kennewick, Bonney Lake, Vancouver, Ridgefield, Spokane County, Liberty Lake, Lynnwood, Quincy, Seatac, LA Conner, Bremerton, Des Moines, Ruston, Edmonds, Bainbridge Islands, Spanaway, Eastsound, Kenmore, Everette, San Juan Island, Lake Washington, Lake Union, Puget Sound, Lake Sammamish, St. Helens, Lake Tapps, Conner, Mercy Island, Leschi, Olga, Lake Chelan, Columbia River, Snohomish, Longview, Puyallup, Orcas Island, Clarkston, Metchosin, Astoria, Toledo, Sequim, Port Townsend Bay, and Belfair.</areas>
+		<criteria>Washington, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2567,6 +2721,7 @@
 		<link></link>
 		<link2>wyoming</link2>
 		<areas>Jackson, Cheyenne, and Casper.</areas>
+		<criteria>Wyoming, United States</criteria>
 	</location>
 	<location>
 		<city>Jackson</city>
@@ -2579,6 +2734,7 @@
 		<link></link>
 		<link2>jackson</link2>
 		<areas></areas>
+		<criteria>Jackson, Wyoming, United States</criteria>
 	</location>
 	<location>
 		<city>Puerto Vallarta</city>
@@ -2591,6 +2747,7 @@
 		<link></link>
 		<link2>puerto-vallarta</link2>
 		<areas></areas>
+		<criteria>Puerto Vallarta, Mexico</criteria>
 	</location>
 	<location>
 		<city>Naples</city>
@@ -2603,6 +2760,7 @@
 		<link></link>
 		<link2>naples</link2>
 		<areas></areas>
+		<criteria>Naples, Italy</criteria>
 	</location>
 	<location>
 		<city>Capri</city>
@@ -2615,6 +2773,7 @@
 		<link></link>
 		<link2>capri</link2>
 		<areas></areas>
+		<criteria>Capri, Italy</criteria>
 	</location>
 	<location>
 		<city>Positano</city>
@@ -2627,6 +2786,7 @@
 		<link></link>
 		<link2>positano</link2>
 		<areas></areas>
+		<criteria>Positano, Italy</criteria>
 	</location>
 	<location>
 		<city>Durban</city>
@@ -2639,6 +2799,7 @@
 		<link></link>
 		<link2>durban</link2>
 		<areas></areas>
+		<criteria>Durban, South Africa</criteria>
 	</location>
 	<location>
 		<city>Amalfi Coast</city>
@@ -2651,6 +2812,7 @@
 		<link></link>
 		<link2>amalfi-coast</link2>
 		<areas></areas>
+		<criteria>Amalfi Coast, Italy</criteria>
 	</location>
 	<location>
 		<city>Sorrento</city>
@@ -2663,6 +2825,7 @@
 		<link></link>
 		<link2>sorrento</link2>
 		<areas></areas>
+		<criteria>Sorrento, Italy</criteria>
 	</location>
 	<location>
 		<city>Salerno</city>
@@ -2675,6 +2838,7 @@
 		<link></link>
 		<link2>salerno</link2>
 		<areas></areas>
+		<criteria>Salerno, Italy</criteria>
 	</location>
 	<location>
 		<city>Ischia</city>
@@ -2687,6 +2851,7 @@
 		<link></link>
 		<link2>ischia</link2>
 		<areas></areas>
+		<criteria>Ischia, Italy</criteria>
 	</location>
 	<location>
 		<city>Riga</city>
@@ -2699,6 +2864,7 @@
 		<link></link>
 		<link2>riga</link2>
 		<areas></areas>
+		<criteria>Riga, Latvia</criteria>
 	</location>
 	<location>
 		<city>Puerto Vallarta</city>
@@ -2711,6 +2877,7 @@
 		<link></link>
 		<link2>puerto-vallarta</link2>
 		<areas></areas>
+		<criteria>Puerto Vallarta, Mexico</criteria>
 	</location>
 	<location>
 		<city>Cabo San Lucas</city>
@@ -2723,6 +2890,7 @@
 		<link></link>
 		<link2>cabo-san-lucas</link2>
 		<areas></areas>
+		<criteria>Cabo San Lucas, Mexico</criteria>
 	</location>
 	<location>
 		<city>Los Cabos</city>
@@ -2735,6 +2903,7 @@
 		<link></link>
 		<link2>los-cabos</link2>
 		<areas></areas>
+		<criteria>Los Cabos, Mexico</criteria>
 	</location>
 	<location>
 		<city>Sao Paulo</city>
@@ -2747,6 +2916,7 @@
 		<link></link>
 		<link2>sao-paulo</link2>
 		<areas></areas>
+		<criteria>Sao Paulo, Brazil</criteria>
 	</location>
 	<location>
 		<city>Rhodes</city>
@@ -2759,6 +2929,7 @@
 		<link></link>
 		<link2>rhodes</link2>
 		<areas></areas>
+		<criteria>Rhodes, Greece</criteria>
 	</location>
 	<location>
 		<city>Santos and Guaruja</city>
@@ -2771,6 +2942,7 @@
 		<link></link>
 		<link2>santos-and-guaruja</link2>
 		<areas></areas>
+		<criteria>Santos and Guaruja, Brazil</criteria>
 	</location>
 	
 	<location>
@@ -2784,6 +2956,7 @@
 		<link></link>
 		<link2>crete</link2>
 		<areas></areas>
+		<criteria>Crete, Greece</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2796,6 +2969,7 @@
 		<link></link>
 		<link2>st.-thomas</link2>
 		<areas></areas>
+		<criteria>St. Thomas, US Virgin Islands</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2808,6 +2982,7 @@
 		<link></link>
 		<link2>saint-thomas</link2>
 		<areas></areas>
+		<criteria>Saint Thomas, US Virgin Islands</criteria>
 	</location>
 	<location>
 		<city>Cancun</city>
@@ -2820,6 +2995,7 @@
 		<link></link>
 		<link2>cancun</link2>
 		<areas></areas>
+		<criteria>Cancun, Mexico</criteria>
 	</location>
 	<location>
 		<city>Sydney</city>
@@ -2832,6 +3008,7 @@
 		<link></link>
 		<link2>sydney</link2>
 		<areas></areas>
+		<criteria>Sydney, Australia</criteria>
 	</location>
 	<location>
 		<city>Mu Ko Ang Thong</city>
@@ -2844,6 +3021,7 @@
 		<link></link>
 		<link2>mu-ko—ang-rhong</link2>
 		<areas></areas>
+		<criteria>Mu Ko Ang Thong, Thailand</criteria>
 	</location>
 	<location>
 		<city>Algarve</city>
@@ -2856,6 +3034,7 @@
 		<link></link>
 		<link2>algarve</link2>
 		<areas></areas>
+		<criteria>Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Split</city>
@@ -2868,6 +3047,7 @@
 		<link></link>
 		<link2>split</link2>
 		<areas></areas>
+		<criteria>Split, Croatia</criteria>
 	</location>
 	<location>
 		<city>Vodice</city>
@@ -2880,6 +3060,7 @@
 		<link></link>
 		<link2>vodice</link2>
 		<areas></areas>
+		<criteria>Vodice, Croatia</criteria>
 	</location>
 	<location>
 		<city>Kornati National Park</city>
@@ -2892,6 +3073,7 @@
 		<link></link>
 		<link2>kornati-national-park</link2>
 		<areas></areas>
+		<criteria>Kornati National Park, Croatia</criteria>
 	</location>
 	<location>
 		<city>Niagara Falls</city>
@@ -2904,6 +3086,7 @@
 		<link></link>
 		<link2>niagara-falls</link2>
 		<areas></areas>
+		<criteria>Niagara Falls, New York</criteria>
 	</location>
 	<location>
 		<city>Kyiv</city>
@@ -2916,6 +3099,7 @@
 		<link></link>
 		<link2>kyiv</link2>
 		<areas></areas>
+		<criteria>Kyiv, Ukraine</criteria>
 	</location>
 	<location>
 		<city>Kapisillit</city>
@@ -2928,6 +3112,7 @@
 		<link></link>
 		<link2>kapisillit</link2>
 		<areas></areas>
+		<criteria>Kapisillit, Greenland</criteria>
 	</location>
 	<location>
 		<city>Adeje</city>
@@ -2940,6 +3125,7 @@
 		<link></link>
 		<link2>adeje</link2>
 		<areas></areas>
+		<criteria>Adeje, Canary Islands</criteria>
 	</location>
 	<location>
 		<city>Tenerife</city>
@@ -2952,6 +3138,7 @@
 		<link></link>
 		<link2>tenerife</link2>
 		<areas></areas>
+		<criteria>Tenerife, Canary Islands</criteria>
 	</location>
 	<location>
 		<city>Antigua</city>
@@ -2971,6 +3158,7 @@
 		<link></link>
 		<link2>antigua</link2>
 		<areas></areas>
+		<criteria>Antigua, Guatemala</criteria>
 	</location>
 	<location>
 		<city>Playa del Carmen</city>
@@ -2984,6 +3172,7 @@
 		<link></link>
 		<link2>playa-del-carmen</link2>
 		<areas></areas>
+		<criteria>Playa del Carmen, Mexico</criteria>
 	</location>
 	<location>
 		<city>Barcelona</city>
@@ -2996,6 +3185,7 @@
 		<link></link>
 		<link2>barcelona</link2>
 		<areas></areas>
+		<criteria>Barcelona, Spain</criteria>
 	</location>
 	<location>
 		<city>Calgiari</city>
@@ -3008,6 +3198,7 @@
 		<link></link>
 		<link2>calgiari</link2>
 		<areas></areas>
+		<criteria>Calgiari, Italy</criteria>
 	</location>
 	<location>
 		<city>Fajardo</city>
@@ -3020,6 +3211,7 @@
 		<link></link>
 		<link2>fajardo</link2>
 		<areas></areas>
+		<criteria>Fajardo, Puerto Rico, United States</criteria>
 	</location>
 	<location>
 		<city>Willemstad</city>
@@ -3032,6 +3224,7 @@
 		<link></link>
 		<link2>willemstad</link2>
 		<areas></areas>
+		<criteria>Willemstad, Curacao</criteria>
 	</location>
 	<location>
 		<city>Marseille</city>
@@ -3044,6 +3237,7 @@
 		<link></link>
 		<link2>marseille</link2>
 		<areas></areas>
+		<criteria>Marseille, France</criteria>
 	</location>
 	<location>
 		<city>Kassandra</city>
@@ -3056,6 +3250,7 @@
 		<link></link>
 		<link2>kassandra</link2>
 		<areas></areas>
+		<criteria>Kassandra, Greece</criteria>
 	</location>
 	<location>
 		<city>Chios</city>
@@ -3068,6 +3263,7 @@
 		<link></link>
 		<link2>chios</link2>
 		<areas></areas>
+		<criteria>Chios, Greece</criteria>
 	</location>
 	<location>
 		<city>Brussels</city>
@@ -3080,6 +3276,7 @@
 		<link></link>
 		<link2>brussels</link2>
 		<areas></areas>
+		<criteria>Brussels, Belgium</criteria>
 	</location>
 	<location>
 		<city>Gent</city>
@@ -3092,6 +3289,7 @@
 		<link></link>
 		<link2>gent</link2>
 		<areas></areas>
+		<criteria>Gent, Belgium</criteria>
 	</location>
 	<location>
 		<city>Reykjavik</city>
@@ -3104,6 +3302,7 @@
 		<link></link>
 		<link2>reykjavik</link2>
 		<areas></areas>
+		<criteria>Reykjavik, Iceland</criteria>
 	</location>
 	<location>
 		<city>Nuuk</city>
@@ -3116,6 +3315,7 @@
 		<link></link>
 		<link2>nuuk</link2>
 		<areas></areas>
+		<criteria>Nuuk, Greenland</criteria>
 	</location>
 	<location>
 		<city>Astypalea</city>
@@ -3128,6 +3328,7 @@
 		<link></link>
 		<link2>astypalea</link2>
 		<areas></areas>
+		<criteria>Astypalea, Greece</criteria>
 	</location>
 	<location>
 		<city>Fuengirola</city>
@@ -3140,6 +3341,7 @@
 		<link></link>
 		<link2>fuengirola</link2>
 		<areas></areas>
+		<criteria>Fuengirola, Spain</criteria>
 	</location>
 	<location>
 		<city>Marsa Alam</city>
@@ -3152,6 +3354,7 @@
 		<link></link>
 		<link2>marsa-alam</link2>
 		<areas></areas>
+		<criteria>Marsa Alam, Red Sea, Egypt</criteria>
 	</location>
 	<location>
 		<city>Nikiti</city>
@@ -3164,6 +3367,7 @@
 		<link></link>
 		<link2>nikiti</link2>
 		<areas></areas>
+		<criteria>Nikiti, Greece</criteria>
 	</location>
 	<location>
 		<city>Manaus</city>
@@ -3176,6 +3380,7 @@
 		<link></link>
 		<link2>manaus</link2>
 		<areas></areas>
+		<criteria>Manaus, Rio Negro, Brazil</criteria>
 	</location>
 	
 	<location>
@@ -3189,6 +3394,7 @@
 		<link></link>
 		<link2>phuket</link2>
 		<areas></areas>
+		<criteria>Phuket, Thailand</criteria>
 	</location>
 	<location>
 		<city>Jokulsarlon Glacier Lagoon</city>
@@ -3201,6 +3407,7 @@
 		<link></link>
 		<link2>jokulsarlon-glacier-lagoon</link2>
 		<areas></areas>
+		<criteria>Jokulsarlon Glacier Lagoon, Iceland</criteria>
 	</location>
 	<location>
 		<city>Bayahibe</city>
@@ -3213,6 +3420,7 @@
 		<link></link>
 		<link2>bayahibe</link2>
 		<areas></areas>
+		<criteria>Bayahibe, Cotubanama National Park, Dominican Republic</criteria>
 	</location>
 	<location>
 		<city>Punta Cana</city>
@@ -3225,6 +3433,7 @@
 		<link></link>
 		<link2>punta-cana</link2>
 		<areas></areas>
+		<criteria>Punta Cana, Dominican Republic</criteria>
 	</location>
 	
 	<location>
@@ -3238,6 +3447,7 @@
 		<link></link>
 		<link2>venice</link2>
 		<areas></areas>
+		<criteria>Venice, Italy</criteria>
 	</location>
 	<location>
 		<city>Nice</city>
@@ -3250,6 +3460,7 @@
 		<link></link>
 		<link2>nice</link2>
 		<areas></areas>
+		<criteria>Nice, Italy</criteria>
 	</location>
 	<location>
 		<city>Beaulieu</city>
@@ -3262,6 +3473,7 @@
 		<link></link>
 		<link2>beaulieu</link2>
 		<areas></areas>
+		<criteria>Beaulieu, French Riviera, Italy</criteria>
 	</location>
 	<location>
 		<city>Koh Samui</city>
@@ -3274,6 +3486,7 @@
 		<link></link>
 		<link2>koh-samui</link2>
 		<areas></areas>
+		<criteria>Koh Samui, Thailand</criteria>
 	</location>
 	<location>
 		<city>Marseilles</city>
@@ -3286,6 +3499,7 @@
 		<link></link>
 		<link2>marseilles</link2>
 		<areas></areas>
+		<criteria>Marseilles, France</criteria>
 	</location>
 	<location>
 		<city>Ponta Delgada</city>
@@ -3298,6 +3512,7 @@
 		<link></link>
 		<link2>ponta-delgada</link2>
 		<areas></areas>
+		<criteria>Ponta Delgada, Portugal</criteria>
 	</location>
 	<location>
 		<city>Hurghada</city>
@@ -3310,6 +3525,7 @@
 		<link></link>
 		<link2>hurghada</link2>
 		<areas></areas>
+		<criteria>Hurghada, Red Sea, Egypt</criteria>
 	</location>
 	<location>
 		<city>Phi Phi</city>
@@ -3322,6 +3538,7 @@
 		<link></link>
 		<link2>phi-phi</link2>
 		<areas></areas>
+		<criteria>Phi Phi, Thailand</criteria>
 	</location>
 	<location>
 		<city>Bamboo Island</city>
@@ -3334,6 +3551,7 @@
 		<link></link>
 		<link2>bamboo-island</link2>
 		<areas></areas>
+		<criteria>Bamboo Island, Thailand</criteria>
 	</location>
 	<location>
 		<city>Riviera Maya</city>
@@ -3346,6 +3564,7 @@
 		<link></link>
 		<link2>riviera-maya</link2>
 		<areas></areas>
+		<criteria>Riviera Maya, Mexico</criteria>
 	</location>
 	<location>
 		<city>Kas</city>
@@ -3358,6 +3577,7 @@
 		<link></link>
 		<link2>kas</link2>
 		<areas></areas>
+		<criteria>Kas, Turkey</criteria>
 	</location>
 	<location>
 		<city>Adeje</city>
@@ -3370,6 +3590,7 @@
 		<link></link>
 		<link2>adeje</link2>
 		<areas></areas>
+		<criteria>Adeje, Canary Islands</criteria>
 	</location>
 	<location>
 		<city>Portofino</city>
@@ -3382,6 +3603,7 @@
 		<link></link>
 		<link2>portofino</link2>
 		<areas></areas>
+		<criteria>Portofino, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Tiran Island</city>
@@ -3394,6 +3616,7 @@
 		<link></link>
 		<link2>tiran-island</link2>
 		<areas></areas>
+		<criteria>Tiran Island, Egypt</criteria>
 	</location>
 	<location>
 		<city>Ras Muhammad National Park</city>
@@ -3406,6 +3629,7 @@
 		<link></link>
 		<link2>ras-muhammad-national-park</link2>
 		<areas></areas>
+		<criteria>Ras Muhammad National Park, Egypt</criteria>
 	</location>
 	
 	<location>
@@ -3419,6 +3643,7 @@
 		<link></link>
 		<link2>positano</link2>
 		<areas></areas>
+		<criteria>Positano, Capri, Italy</criteria>
 	</location>
 	<location>
 		<city>Cagliari</city>
@@ -3431,6 +3656,7 @@
 		<link></link>
 		<link2>cagliari</link2>
 		<areas></areas>
+		<criteria>Cagliari, Italy</criteria>
 	</location>
 	<location>
 		<city>Puerto Aventuras</city>
@@ -3443,6 +3669,7 @@
 		<link></link>
 		<link2>puerto-aventuras</link2>
 		<areas></areas>
+		<criteria>Puerto Aventuras, Mexico</criteria>
 	</location>
 	<location>
 		<city>Athens</city>
@@ -3455,6 +3682,7 @@
 		<link></link>
 		<link2>athens</link2>
 		<areas></areas>
+		<criteria>Athens, Greece</criteria>
 	</location>
 	<location>
 		<city>Phuket</city>
@@ -3467,6 +3695,7 @@
 		<link></link>
 		<link2>phuket</link2>
 		<areas></areas>
+		<criteria>Phuket, Krabi, Thailand</criteria>
 	</location>
 	<location>
 		<city>Toronto</city>
@@ -3479,6 +3708,7 @@
 		<link></link>
 		<link2>toronto</link2>
 		<areas></areas>
+		<criteria>Toronto, Ontario, Canada</criteria>
 	</location>
 	<location>
 		<city>Dubrovnik</city>
@@ -3491,6 +3721,7 @@
 		<link></link>
 		<link2>dubrovnik</link2>
 		<areas></areas>
+		<criteria>Dubrovnik, Croatia</criteria>
 	</location>
 	<location>
 		<city>Adamas</city>
@@ -3503,6 +3734,7 @@
 		<link></link>
 		<link2>adamas</link2>
 		<areas></areas>
+		<criteria>Adamas, Cyclades, Greece</criteria>
 	</location>
 	<location>
 		<city>Cape Town</city>
@@ -3515,6 +3747,7 @@
 		<link></link>
 		<link2>cape-town</link2>
 		<areas></areas>
+		<criteria>Cape Town, South Africa</criteria>
 	</location>
 	<location>
 		<city>Vancouver Island</city>
@@ -3527,6 +3760,7 @@
 		<link></link>
 		<link2>vancouver-island</link2>
 		<areas></areas>
+		<criteria>Vancouver Island, Telegraph Cave, Canada</criteria>
 	</location>
 	<location>
 		<city>Queenstown</city>
@@ -3539,6 +3773,7 @@
 		<link></link>
 		<link2>queenstown</link2>
 		<areas></areas>
+		<criteria>Queenstown, New Zealand</criteria>
 	</location>
 	<location>
 		<city>Zurich</city>
@@ -3551,6 +3786,7 @@
 		<link></link>
 		<link2>zurich</link2>
 		<areas></areas>
+		<criteria>Zurich, Switzerland</criteria>
 	</location>
 	<location>
 		<city>Geneva</city>
@@ -3563,6 +3799,7 @@
 		<link></link>
 		<link2>geneva</link2>
 		<areas></areas>
+		<criteria>Geneva, Switzerland</criteria>
 	</location>
 	<location>
 		<city>Interlaken</city>
@@ -3575,6 +3812,7 @@
 		<link></link>
 		<link2>interlaken</link2>
 		<areas></areas>
+		<criteria>Interlaken, Switzerland</criteria>
 	</location>
 	<location>
 		<city>Lindos</city>
@@ -3587,6 +3825,7 @@
 		<link></link>
 		<link2>lindos</link2>
 		<areas></areas>
+		<criteria>Lindos, Rhodes Island, Greece</criteria>
 	</location>
 	<location>
 		<city>Kekova</city>
@@ -3599,6 +3838,7 @@
 		<link></link>
 		<link2>kekova</link2>
 		<areas></areas>
+		<criteria>Kekova, Turkey</criteria>
 	</location>
 	<location>
 		<city>Trou dEau Douce</city>
@@ -3611,6 +3851,7 @@
 		<link></link>
 		<link2>trou-deau-douce</link2>
 		<areas></areas>
+		<criteria>Trou dEau Douce, Mauritius</criteria>
 	</location>
 	<location>
 		<city>Ile Aux Benitiers</city>
@@ -3623,6 +3864,7 @@
 		<link></link>
 		<link2>ile-aux-benitiers</link2>
 		<areas></areas>
+		<criteria>Ile Aux Benitiers, Mauritius</criteria>
 	</location>
 	<location>
 		<city>Cambrils</city>
@@ -3635,6 +3877,7 @@
 		<link></link>
 		<link2>cambrils</link2>
 		<areas></areas>
+		<criteria>Cambrils, Costa Dorada, Spain</criteria>
 	</location>
 	<location>
 		<city>Quarteira</city>
@@ -3647,6 +3890,7 @@
 		<link></link>
 		<link2>quarteira</link2>
 		<areas></areas>
+		<criteria>Quarteira, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Mallorca</city>
@@ -3659,6 +3903,7 @@
 		<link></link>
 		<link2>mallorca</link2>
 		<areas></areas>
+		<criteria>Mallorca, Palma Bay, Spain</criteria>
 	</location>
 	<location>
 		<city>Alcudia</city>
@@ -3671,6 +3916,7 @@
 		<link></link>
 		<link2>alcudia</link2>
 		<areas></areas>
+		<criteria>Alcudia, Balearic Islands, Spain</criteria>
 	</location>
 	<location>
 		<city>Bergen</city>
@@ -3683,6 +3929,7 @@
 		<link></link>
 		<link2>bergen</link2>
 		<areas></areas>
+		<criteria>Bergen, Norway</criteria>
 	</location>
 	<location>
 		<city>Haleiwa</city>
@@ -3695,6 +3942,7 @@
 		<link></link>
 		<link2>haleiwa</link2>
 		<areas></areas>
+		<criteria>Haleiwa, Oahu, Hawaii</criteria>
 	</location>
 	<location>
 		<city>Phuket</city>
@@ -3707,6 +3955,7 @@
 		<link></link>
 		<link2>phuket</link2>
 		<areas></areas>
+		<criteria>Phuket, Hong Island, Thailand</criteria>
 	</location>
 	<location>
 		<city>Philipsburg</city>
@@ -3719,6 +3968,7 @@
 		<link></link>
 		<link2>philipsburg</link2>
 		<areas></areas>
+		<criteria>Philipsburg, St. Martin</criteria>
 	</location>
 	<location>
 		<city>Fuerteventura</city>
@@ -3731,6 +3981,7 @@
 		<link></link>
 		<link2>fuerteventura</link2>
 		<areas></areas>
+		<criteria>Fuerteventura, Lobos Island, Canary Islands</criteria>
 	</location>
 	<location>
 		<city>Naxos</city>
@@ -3743,6 +3994,7 @@
 		<link></link>
 		<link2>naxos</link2>
 		<areas></areas>
+		<criteria>Naxos, Cyclades, Greece</criteria>
 	</location>
 	<location>
 		<city>Luxor</city>
@@ -3755,6 +4007,7 @@
 		<link></link>
 		<link2>luxor</link2>
 		<areas></areas>
+		<criteria>Luxor, Egypt</criteria>
 	</location>
 	<location>
 		<city>Mykonos</city>
@@ -3767,6 +4020,7 @@
 		<link></link>
 		<link2>mykonos</link2>
 		<areas></areas>
+		<criteria>Mykonos, Cyclades, Greece</criteria>
 	</location>
 	
 	<location>
@@ -3780,6 +4034,7 @@
 		<link></link>
 		<link2>lisbon</link2>
 		<areas></areas>
+		<criteria>Lisbon, Portugal</criteria>
 	</location>
 	<location>
 		<city>Nikiti</city>
@@ -3792,6 +4047,7 @@
 		<link></link>
 		<link2>nikiti</link2>
 		<areas></areas>
+		<criteria>Nikiti, Macedonia, Greece</criteria>
 	</location>
 	<location>
 		<city>Oslo</city>
@@ -3804,6 +4060,7 @@
 		<link></link>
 		<link2>oslo</link2>
 		<areas></areas>
+		<criteria>Oslo, Bergen, Norway</criteria>
 	</location>
 	<location>
 		<city>Hvar</city>
@@ -3816,6 +4073,7 @@
 		<link></link>
 		<link2>hvar</link2>
 		<areas></areas>
+		<criteria>Hvar, Paklinski Islands, Croatia</criteria>
 	</location>
 	<location>
 		<city>Andratx</city>
@@ -3828,6 +4086,7 @@
 		<link></link>
 		<link2>andratx</link2>
 		<areas></areas>
+		<criteria>Andratx, Balearic Islands, Spain</criteria>
 	</location>
 	<location>
 		<city>Riviera Maya</city>
@@ -3840,6 +4099,7 @@
 		<link></link>
 		<link2>riviera-maya</link2>
 		<areas></areas>
+		<criteria>Riviera Maya, Mexico</criteria>
 	</location>
 	<location>
 		<city>Lake Como</city>
@@ -3852,6 +4112,7 @@
 		<link></link>
 		<link2>lake-como</link2>
 		<areas></areas>
+		<criteria>Lake Como, Italy</criteria>
 	</location>
 	<location>
 		<city>Makrys Gialos</city>
@@ -3864,6 +4125,7 @@
 		<link></link>
 		<link2>makrys-gialos</link2>
 		<areas></areas>
+		<criteria>Makrys Gialos, Crete, Greece</criteria>
 	</location>
 	<location>
 		<city>Phnom Penh</city>
@@ -3876,6 +4138,7 @@
 		<link></link>
 		<link2>phnom-penh</link2>
 		<areas></areas>
+		<criteria>Phnom Penh, Cambodia</criteria>
 	</location>
 	<location>
 		<city>Marseille</city>
@@ -3888,6 +4151,7 @@
 		<link></link>
 		<link2>marseille</link2>
 		<areas></areas>
+		<criteria>Marseille, Provence, France</criteria>
 	</location>
 	<location>
 		<city>Puerto Plata</city>
@@ -3900,6 +4164,7 @@
 		<link></link>
 		<link2>puerto-plata</link2>
 		<areas></areas>
+		<criteria>Puerto Plata, Dominican Republic</criteria>
 	</location>
 	<location>
 		<city>Muscat</city>
@@ -3912,6 +4177,7 @@
 		<link></link>
 		<link2>muscat</link2>
 		<areas></areas>
+		<criteria>Muscat, Oman</criteria>
 	</location>
 	<location>
 		<city>Koh Phi Phi</city>
@@ -3924,6 +4190,7 @@
 		<link></link>
 		<link2>koh-phi-phi</link2>
 		<areas></areas>
+		<criteria>Koh Phi Phi, Krabi, Thailand</criteria>
 	</location>
 	<location>
 		<city>Zakinthos</city>
@@ -3936,6 +4203,7 @@
 		<link></link>
 		<link2>zakinthos</link2>
 		<areas></areas>
+		<criteria>Zakinthos, Ionian Islands, Greece</criteria>
 	</location>
 	<location>
 		<city>Cinque Terre</city>
@@ -3948,6 +4216,7 @@
 		<link></link>
 		<link2>cinque-terre</link2>
 		<areas></areas>
+		<criteria>Cinque Terre, Tuscany, Italy</criteria>
 	</location>
 	<location>
 		<city>Alcudia</city>
@@ -3960,6 +4229,7 @@
 		<link></link>
 		<link2>alcudia</link2>
 		<areas></areas>
+		<criteria>Alcudia, Balearic Islands, Spain</criteria>
 	</location>
 	<location>
 		<city>Lake Maggiore</city>
@@ -3972,6 +4242,7 @@
 		<link></link>
 		<link2>lake-maggiore</link2>
 		<areas></areas>
+		<criteria>Lake Maggiore, Piedmont, Italy</criteria>
 	</location>
 	<location>
 		<city>Bari</city>
@@ -3984,6 +4255,7 @@
 		<link></link>
 		<link2>bari</link2>
 		<areas></areas>
+		<criteria>Bari, Castellana Cave, Italy</criteria>
 	</location>
 	<location>
 		<city>Hurghada</city>
@@ -3996,6 +4268,7 @@
 		<link></link>
 		<link2>hurghada</link2>
 		<areas></areas>
+		<criteria>Hurghada, Red Sea, Egypt</criteria>
 	</location>
 	<location>
 		<city>Victoria</city>
@@ -4008,6 +4281,7 @@
 		<link></link>
 		<link2>victoria</link2>
 		<areas></areas>
+		<criteria>Victoria, Vancouver Island, Canada</criteria>
 	</location>
 	<location>
 		<city>Moscow</city>
@@ -4020,6 +4294,7 @@
 		<link></link>
 		<link2>moscow</link2>
 		<areas></areas>
+		<criteria>Moscow, Russia</criteria>
 	</location>
 	<location>
 		<city>Portimao</city>
@@ -4032,6 +4307,7 @@
 		<link></link>
 		<link2>portimao</link2>
 		<areas></areas>
+		<criteria>Portimao, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Amsterdam</city>
@@ -4044,6 +4320,7 @@
 		<link></link>
 		<link2>amsterdam</link2>
 		<areas></areas>
+		<criteria>Amsterdam, Holland, Netherlands</criteria>
 	</location>
 	<location>
 		<city>Faro</city>
@@ -4056,6 +4333,7 @@
 		<link></link>
 		<link2>faro</link2>
 		<areas></areas>
+		<criteria>Faro, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Comino</city>
@@ -4068,6 +4346,7 @@
 		<link></link>
 		<link2>comino</link2>
 		<areas></areas>
+		<criteria>Comino, Malta</criteria>
 	</location>
 	<location>
 		<city>Port of Spain</city>
@@ -4080,6 +4359,7 @@
 		<link></link>
 		<link2>port-of-spain</link2>
 		<areas></areas>
+		<criteria>Port of Spain, Trinidad and Tobago</criteria>
 	</location>
 	<location>
 		<city>La Crucecita</city>
@@ -4092,6 +4372,7 @@
 		<link></link>
 		<link2>la-crucecita</link2>
 		<areas></areas>
+		<criteria>La Crucecita, axaca, Mexico</criteria>
 	</location>
 	<location>
 		<city>Paris</city>
@@ -4104,6 +4385,7 @@
 		<link></link>
 		<link2>paris</link2>
 		<areas></areas>
+		<criteria>Paris, France</criteria>
 	</location>
 	<location>
 		<city>Mazatlan</city>
@@ -4116,6 +4398,7 @@
 		<link></link>
 		<link2>mazatlan</link2>
 		<areas></areas>
+		<criteria>Mazatlan, Mexico</criteria>
 	</location>
 	<location>
 		<city>Halkidiki</city>
@@ -4128,6 +4411,7 @@
 		<link></link>
 		<link2>halkidiki</link2>
 		<areas></areas>
+		<criteria>Halkidiki, Macedonia, Greece</criteria>
 	</location>
 	<location>
 		<city>Bali</city>
@@ -4140,6 +4424,7 @@
 		<link></link>
 		<link2>bali</link2>
 		<areas></areas>
+		<criteria>Bali, Komodo Island, Indonesia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4152,6 +4437,7 @@
 		<link></link>
 		<link2>st.-lucia</link2>
 		<areas></areas>
+		<criteria>St. Lucia</criteria>
 	</location>
 	<location>
 		<city>Astypalea</city>
@@ -4164,6 +4450,7 @@
 		<link></link>
 		<link2>astypalea</link2>
 		<areas></areas>
+		<criteria>Astypalea, Dodecanese, Greece</criteria>
 	</location>
 	<location>
 		<city>Nydri</city>
@@ -4176,6 +4463,7 @@
 		<link></link>
 		<link2>nydri</link2>
 		<areas></areas>
+		<criteria>Nydri, Ionian Islands, Greece</criteria>
 	</location>
 	<location>
 		<city>Hoi An</city>
@@ -4188,6 +4476,7 @@
 		<link></link>
 		<link2>hoi-an</link2>
 		<areas></areas>
+		<criteria>Hoi An, Vietnam</criteria>
 	</location>
 	<location>
 		<city>Verona</city>
@@ -4200,6 +4489,7 @@
 		<link></link>
 		<link2>verona</link2>
 		<areas></areas>
+		<criteria>Verona, Italy</criteria>
 	</location>
 	<location>
 		<city>Sao Miguel Island</city>
@@ -4212,6 +4502,7 @@
 		<link></link>
 		<link2>sao-miguel-island</link2>
 		<areas></areas>
+		<criteria>Sao Miguel Island, Ponta Delgada, Portugal</criteria>
 	</location>
 	<location>
 		<city>Beijing</city>
@@ -4224,6 +4515,7 @@
 		<link></link>
 		<link2>beijing</link2>
 		<areas></areas>
+		<criteria>Beijing, China</criteria>
 	</location>
 	<location>
 		<city>Cairns</city>
@@ -4236,6 +4528,7 @@
 		<link></link>
 		<link2>cairns</link2>
 		<areas></areas>
+		<criteria>Cairns, Queensland, Australia</criteria>
 	</location>
 	<location>
 		<city>Muscat</city>
@@ -4248,6 +4541,7 @@
 		<link></link>
 		<link2>muscat</link2>
 		<areas></areas>
+		<criteria>Muscat, Oman</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4260,6 +4554,7 @@
 		<link></link>
 		<link2>curacao</link2>
 		<areas></areas>
+		<criteria>Curacao</criteria>
 	</location>
 	<location>
 		<city>Albufeira</city>
@@ -4272,6 +4567,7 @@
 		<link></link>
 		<link2>albufeira</link2>
 		<areas></areas>
+		<criteria>Albufeira, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>London</city>
@@ -4284,6 +4580,7 @@
 		<link></link>
 		<link2>london</link2>
 		<areas></areas>
+		<criteria>London, United Kingdom, England</criteria>
 	</location>
 	<location>
 		<city>Cascais</city>
@@ -4296,6 +4593,7 @@
 		<link></link>
 		<link2>cascais</link2>
 		<areas></areas>
+		<criteria>Cascais, Lisbon, Portugal</criteria>
 	</location>
 	<location>
 		<city>Istanbul</city>
@@ -4308,6 +4606,7 @@
 		<link></link>
 		<link2>istanbul</link2>
 		<areas></areas>
+		<criteria>Istanbul, Turkey</criteria>
 	</location>
 	<location>
 		<city>Kotor</city>
@@ -4320,6 +4619,7 @@
 		<link></link>
 		<link2>kotor</link2>
 		<areas></areas>
+		<criteria>Kotor, Montenegro</criteria>
 	</location>
 	<location>
 		<city>Khasab</city>
@@ -4332,6 +4632,7 @@
 		<link></link>
 		<link2>khasab</link2>
 		<areas></areas>
+		<criteria>Khasab, United Arab Emirates</criteria>
 	</location>
 	<location>
 		<city>Chalkidiki</city>
@@ -4344,6 +4645,7 @@
 		<link></link>
 		<link2>chalkidiki</link2>
 		<areas></areas>
+		<criteria>Chalkidiki, Macedonia, Greece</criteria>
 	</location>
 	<location>
 		<city>Vilamoura</city>
@@ -4356,6 +4658,7 @@
 		<link></link>
 		<link2>vilamoura</link2>
 		<areas></areas>
+		<criteria>Vilamoura, Algarve, Portugal</criteria>
 	</location>
 	<location>
 		<city>Ierapetra</city>
@@ -4368,6 +4671,7 @@
 		<link></link>
 		<link2>ierapetra</link2>
 		<areas></areas>
+		<criteria>Ierapetra, Crete, Greece</criteria>
 	</location>
 	
 	<location>
@@ -4381,6 +4685,7 @@
 		<link></link>
 		<link2>st.-maarten</link2>
 		<areas></areas>
+		<criteria></criteria>
 	</location>
 	<location>
 		<city>Vigo</city>
@@ -4393,6 +4698,7 @@
 		<link></link>
 		<link2>vigo</link2>
 		<areas></areas>
+		<criteria>Vigo, Galicia, Spain</criteria>
 	</location>
 	<location>
 		<city>Douro River</city>
@@ -4405,6 +4711,7 @@
 		<link></link>
 		<link2>douro-river</link2>
 		<areas></areas>
+		<criteria>Douro River, Portugal</criteria>
 	</location>
 	<location>
 		<city>Port Bunarina</city>
@@ -4417,6 +4724,7 @@
 		<link></link>
 		<link2>port-bunarina</link2>
 		<areas></areas>
+		<criteria>Port Bunarina, Pula, Croatia</criteria>
 	</location>
 	<location>
 		<city>Bangalore</city>
@@ -4429,6 +4737,7 @@
 		<link></link>
 		<link2>bangalore</link2>
 		<areas></areas>
+		<criteria>Bangalore, India</criteria>
 	</location>
 	<location>
 		<city>Basseterre</city>
@@ -4441,6 +4750,7 @@
 		<link></link>
 		<link2>basseterre</link2>
 		<areas></areas>
+		<criteria>Basseterre, Saint Kitts and Nevis</criteria>
 	</location>
 	<location>
 		<city>Hamburg</city>
@@ -4453,6 +4763,7 @@
 		<link></link>
 		<link2>hamburg</link2>
 		<areas></areas>
+		<criteria>Hamburg, Germany</criteria>
 	</location>
 	<location>
 		<city>Bucharest</city>
@@ -4465,6 +4776,7 @@
 		<link></link>
 		<link2>bucharest</link2>
 		<areas></areas>
+		<criteria>Bucharest, Danube, Romania</criteria>
 	</location>
 	<location>
 		<city>Cornwall</city>
@@ -4477,6 +4789,7 @@
 		<link></link>
 		<link2>cornwall</link2>
 		<areas></areas>
+		<criteria>Cornwall, United Kingdom, England</criteria>
 	</location>
 	<location>
 		<city>Oranjestad</city>
@@ -4489,6 +4802,7 @@
 		<link></link>
 		<link2>oranjestad</link2>
 		<areas></areas>
+		<criteria>Oranjestad, Aruba</criteria>
 	</location>
 	<location>
 		<city>Noord</city>
@@ -4501,6 +4815,7 @@
 		<link></link>
 		<link2>noord</link2>
 		<areas></areas>
+		<criteria>Noord, Aruba</criteria>
 	</location>
 	<location>
 		<city>Nassau</city>
@@ -4513,6 +4828,7 @@
 		<link></link>
 		<link2>nassau</link2>
 		<areas></areas>
+		<criteria>Nassau, Bahamas</criteria>
 	</location>
 	<location>
 		<city>Bridgetown</city>
@@ -4525,6 +4841,7 @@
 		<link></link>
 		<link2>bridgetown</link2>
 		<areas></areas>
+		<criteria>Bridgetown, Barbados</criteria>
 	</location>
 	<location>
 		<city>Placencia</city>
@@ -4537,6 +4854,7 @@
 		<link></link>
 		<link2>placencia</link2>
 		<areas></areas>
+		<criteria>Placencia, Laughing Bird Caye National Park, Belize</criteria>
 	</location>
 	<location>
 		<city>Playa Tamarindo</city>
@@ -4549,6 +4867,7 @@
 		<link></link>
 		<link2>playa-tamarindo</link2>
 		<areas></areas>
+		<criteria>Playa Tamarindo, Costa Rica</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4561,6 +4880,7 @@
 		<link></link>
 		<link2>manuel-antonio-national-park</link2>
 		<areas></areas>
+		<criteria>Manuel Antonio National Park, Costa Rica</criteria>
 	</location>
 	<location>
 		<city>San Jose</city>
@@ -4573,6 +4893,7 @@
 		<link></link>
 		<link2>san-jose</link2>
 		<areas></areas>
+		<criteria>San Jose, Costa Rica</criteria>
 	</location>
 	<location>
 		<city>La Fortuna</city>
@@ -4585,6 +4906,7 @@
 		<link></link>
 		<link2>la-fortuna</link2>
 		<areas></areas>
+		<criteria>La Fortuna, Lake Arenal, Costa Rica</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4597,6 +4919,7 @@
 		<link></link>
 		<link2>montego-bay</link2>
 		<areas></areas>
+		<criteria>Montego Bay, Jamaica</criteria>
 	</location>
 	<location>
 		<city>Negril</city>
@@ -4609,6 +4932,7 @@
 		<link></link>
 		<link2>negril</link2>
 		<areas></areas>
+		<criteria>Negril, Montego Bay, Jamaica</criteria>
 	</location>
 	<location>
 		<city>Ocho Rios</city>
@@ -4621,6 +4945,7 @@
 		<link></link>
 		<link2>ocho-rios</link2>
 		<areas></areas>
+		<criteria>Ocho Rios, Jamaica</criteria>
 	</location>
 	<location>
 		<city>Kingston</city>
@@ -4633,6 +4958,7 @@
 		<link></link>
 		<link2>kingston</link2>
 		<areas></areas>
+		<criteria>Kingston, Rio Grande, Jamaica</criteria>
 	</location>
 	<location>
 		<city>Panama City</city>
@@ -4645,6 +4971,7 @@
 		<link></link>
 		<link2>panama-city</link2>
 		<areas></areas>
+		<criteria>Panama City, Taboga Island, Panama</criteria>
 	</location>
 	<location>
 		<city>Soufriere</city>
@@ -4657,6 +4984,7 @@
 		<link></link>
 		<link2>soufriere</link2>
 		<areas></areas>
+		<criteria>Soufriere, St. Lucia</criteria>
 	</location>
 	<location>
 		<city>Tivua Island</city>
@@ -4669,6 +4997,7 @@
 		<link></link>
 		<link2>tivua-island</link2>
 		<areas></areas>
+		<criteria>Tivua Island, Fiji</criteria>
 	</location>
 	<location>
 		<city>Nadi</city>
@@ -4681,6 +5010,7 @@
 		<link></link>
 		<link2>nadi</link2>
 		<areas></areas>
+		<criteria>Nadi, Fiji</criteria>
 	</location>
 	<location>
 		<city>Hong Kong</city>
@@ -4693,6 +5023,7 @@
 		<link></link>
 		<link2>hong-kong</link2>
 		<areas></areas>
+		<criteria>Hong Kong, Kowloon, China</criteria>
 	</location>
 	<location>
 		<city>Varanasi</city>
@@ -4705,6 +5036,7 @@
 		<link></link>
 		<link2>varanasi</link2>
 		<areas></areas>
+		<criteria>Varanasi, Uttar Pradesh, India</criteria>
 	</location>
 	<location>
 		<city>Kochi</city>
@@ -4717,6 +5049,7 @@
 		<link></link>
 		<link2>kochi</link2>
 		<areas></areas>
+		<criteria>Kochi, Kerala, India</criteria>
 	</location>
 	<location>
 		<city>Panaji</city>
@@ -4729,6 +5062,7 @@
 		<link></link>
 		<link2>panaji</link2>
 		<areas></areas>
+		<criteria>Panaji, Goa, India</criteria>
 	</location>
 	<location>
 		<city>Lake Pichola</city>
@@ -4741,6 +5075,7 @@
 		<link></link>
 		<link2>lake-pichola</link2>
 		<areas></areas>
+		<criteria>Lake Pichola, Rajasthan, India</criteria>
 	</location>
 	<location>
 		<city>Chambal</city>
@@ -4753,6 +5088,7 @@
 		<link></link>
 		<link2>chambal</link2>
 		<areas></areas>
+		<criteria>Chambal, Agra, India</criteria>
 	</location>
 	<location>
 		<city>Gili Islands</city>
@@ -4765,6 +5101,7 @@
 		<link></link>
 		<link2>gili-islands</link2>
 		<areas></areas>
+		<criteria>Gili Islands, Indonesia</criteria>
 	</location>
 	<location>
 		<city>Langkawi</city>
@@ -4777,6 +5114,7 @@
 		<link></link>
 		<link2>langkawi</link2>
 		<areas></areas>
+		<criteria>Langkawi, Kedah, Malaysia</criteria>
 	</location>
 	<location>
 		<city>Kuala Lumpur</city>
@@ -4789,6 +5127,7 @@
 		<link></link>
 		<link2>kuala-lumpur</link2>
 		<areas></areas>
+		<criteria>Kuala Lumpur, Malaysia</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4801,6 +5140,7 @@
 		<link></link>
 		<link2>myanmar</link2>
 		<areas></areas>
+		<criteria>Myanmar</criteria>
 	</location>
 	<location>
 		<city>Busan</city>
@@ -4813,6 +5153,7 @@
 		<link></link>
 		<link2>busan</link2>
 		<areas></areas>
+		<criteria>Busan, South Korea</criteria>
 	</location>
 	<location>
 		<city>Colombo</city>
@@ -4825,6 +5166,7 @@
 		<link></link>
 		<link2>colombo</link2>
 		<areas></areas>
+		<criteria>Colombo, Sri Lanka</criteria>
 	</location>
 	
 	<location>
@@ -4838,6 +5180,7 @@
 		<link></link>
 		<link2>el calafate</link2>
 		<areas></areas>
+		<criteria>El Calafate, Argentina</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -4850,6 +5193,7 @@
 		<link></link>
 		<link2>perito-moreno</link2>
 		<areas></areas>
+		<criteria>Perito Moreno, Argentina</criteria>
 	</location>
 	<location>
 		<city>Manaus</city>
@@ -4862,6 +5206,7 @@
 		<link></link>
 		<link2>manaus</link2>
 		<areas></areas>
+		<criteria>Manaus, Amazon River, Brazil</criteria>
 	</location>
 	<location>
 		<city>Rio de Janeiro</city>
@@ -4874,6 +5219,7 @@
 		<link></link>
 		<link2>rio-de-janeiro</link2>
 		<areas></areas>
+		<criteria>Rio de Janeiro, Brazil</criteria>
 	</location>
 	<location>
 		<city>Paraty</city>
@@ -4886,6 +5232,7 @@
 		<link></link>
 		<link2>paraty</link2>
 		<areas></areas>
+		<criteria>Paraty, Brazil</criteria>
 	</location>
 	<location>
 		<city>Puerto El Morro</city>
@@ -4898,6 +5245,7 @@
 		<link></link>
 		<link2>puerto-el-morro</link2>
 		<areas></areas>
+		<criteria>Puerto El Morro, Ecuador</criteria>
 	</location>
 	<location>
 		<city>Foz do Iguaçu</city>
@@ -4910,6 +5258,7 @@
 		<link></link>
 		<link2>foz-do-iguaçu</link2>
 		<areas></areas>
+		<criteria>Foz do Iguaçu, Foz do Iguaçu, Paraguay</criteria>
 	</location>
 	<location>
 		<city>Paracas</city>
@@ -4922,6 +5271,7 @@
 		<link></link>
 		<link2>paracas</link2>
 		<areas></areas>
+		<criteria>Paracas, Ballestas Islands, Peru</criteria>
 	</location>
 	<location>
 		<city>Iquitos</city>
@@ -4934,6 +5284,7 @@
 		<link></link>
 		<link2>iquitos</link2>
 		<areas></areas>
+		<criteria>Iquitos, Amazon River, Peru</criteria>
 	</location>
 	<location>
 		<city>Lima</city>
@@ -4946,6 +5297,7 @@
 		<link></link>
 		<link2>lima</link2>
 		<areas></areas>
+		<criteria>Lima, Peru</criteria>
 	</location>
 	<location>
 		<city>Cusco</city>
@@ -4958,6 +5310,7 @@
 		<link></link>
 		<link2>cusco</link2>
 		<areas></areas>
+		<criteria>Cusco, Lake Titicaca, Peru</criteria>
 	</location>
 	<location>
 		<city>Grand Baie</city>
@@ -4970,6 +5323,7 @@
 		<link></link>
 		<link2>grand-baie</link2>
 		<areas></areas>
+		<criteria>Grand Baie, Mauritius</criteria>
 	</location>
 	<location>
 		<search>boat</search>
@@ -4982,5 +5336,6 @@
 		<link></link>
 		<link2>cape-town</link2>
 		<areas></areas>
+		<criteria>Cape Town, South Africa</criteria>
 	</location>
 </countries>

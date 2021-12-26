@@ -83,12 +83,13 @@
                     <h2 class="text-center">We Offer The Following <span style="color:darkblue"><?php echo $place; ?></span> Trips:</h2>
                     <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $place.' '.$rec->search; ?>"></div>
                 </div>
-<P></P>
-                <div class="col-12">
-                    <div class="areas mb-3">
-                        <?php if(!empty($rec->areas)) echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"").":</h5> ".$rec->areas.""; ?>
+                <?php if(!empty($rec->areas)) : ?>
+                    <div class="col-12">
+                        <div class="areas mb-3">
+                            <?php echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"")."</h5> ".$rec->areas."<hr>"; ?>
+                        </div>
                     </div>
-                </div>
+                <?php endif; ?>
             </div>
         </div>
     </section>
