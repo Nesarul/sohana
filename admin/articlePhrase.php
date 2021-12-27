@@ -15,8 +15,6 @@
             $this->setFile();
             try{
                 $this->_xml = simplexml_load_file($this->getFile());
-                // $this->_key = $keyword;
-                // $this->_php = $phpFile;
             }
             catch (Exception $e) {
                 print "Error!: " . $e->getMessage() . "<br/>";

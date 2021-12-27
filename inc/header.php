@@ -8,19 +8,14 @@
     if($p[1] == 'articles'){
         $title = $rec[0]->title;
         $desc = $rec[0]->desc;
+        $key = $rec[0]->title;
+    }elseif($p[1] == 'trips'){
+        $title = $rec[0]->place." Yacht Rentals.";
+        $desc = "Rent a yacht in ".$rec[0]->place." by the hour or day to spice up your vacation. All ".$rec[0]->place." boat trips, cruises, and charters include a captain.";
+        $key = $rec[0]->place;
     }else{
-        if($rec != null){
-            if(count($rec[0])>3){
-            $title = $rec[0]->place;
-            $desc = $rec[0]->place;
-            }else{
-                $title = "Yachts.com";
-                $desc = "Yachts.com";
-            }
-        }else{
-                $title = "Yachts.com";
-                $desc = "Yachts.com";
-            }
+        $title = "Yachts.com";
+        $desc = "Yachts.com";
     }
 ?>
 
@@ -33,12 +28,12 @@
     
     <title><?php echo $title; ?></title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <meta name="description" content="<?php  echo $desc; ?> yacht vacations." />
-    <meta name="keywords" content="<?php echo $title; ?>" />
+    <meta name="description" content="<?php  echo $desc; ?>" />
+    <meta name="keywords" content="<?php echo $key; ?>" />
 
     <!-- Css -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/bootstrap.min.css?ver=1.1" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/style.css?ver=1" type="text/css" media="all">
     <!-- End of Css -->
 
     <!-- jQuery -->

@@ -21,7 +21,7 @@
                             <img src="/images/pages/<?php echo $records[0]->image; ?>.webp" alt="<?php echo $records[0]->image; ?>" class="img-fluid w-100 mb-3"> 
                         <?php endif; ?>
                         <div class="caption-screen">
-                            <h2 id="ttt"><?php echo $records[0]->title; ?></h2>
+                            <h2><?php echo $records[0]->title; ?></h2>
                         </div>
                     </div>
                     <?php 

@@ -26,7 +26,7 @@
                     foreach($xml as $key => $rec):
                 ?>
                     <li class="my-1">
-                        <a href="./trips/<?php echo $rec->link2; ?>.php" target="_blank"><span><?php echo $rec->criteria; ?></span></a>
+                        <a href="./trips/<?php echo $rec->link2; ?>.php" target="_blank"><span><?php echo $rec->place; ?></span></a>
                     </li>
                 <?php endforeach; ?>
             </ul>

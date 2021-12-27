@@ -1,16 +1,12 @@
 <?php 
     require_once $_SERVER['DOCUMENT_ROOT']."/"."inc/header.php"; 
     $xml = simplexml_load_file($_SERVER['DOCUMENT_ROOT']."/".'/admin/assets/locations.xml');
-
     $address = $_GET['url'];
     if(substr($address,-4) != ".php"){
         echo "Invalid Address.";
         die();
     }
-        
     $add = str_replace('-',' ',substr($address,0,-4));
-
-
     $ar = explode('/',$add);
     $city = (isset($ar[2]) ? ucwords($ar[2]) : "");
     $state = (isset($ar[1]) ? ucwords($ar[1]) : "");
@@ -91,7 +87,7 @@
                             <?php echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"").":</h5> ".$rec->areas.""; ?>
                         </div>
                     </div>
-                <?php else: ?>
+                <?php elseif(strpos($rec->criteria,",")): ?>
                     <P></P>
                     <div class="col-12">
                         <div class="areas mb-3">
@@ -104,8 +100,4 @@
     </section>
 
     <?php endforeach; ?>
-
-
-    
-
 <?php require_once $_SERVER['DOCUMENT_ROOT']."/"."inc/footer.php" ?>

@@ -1,3 +1,7 @@
+/*!
+ * Style v1.0
+ * Copyright http:www.yachts.com
+ */
 :root{
     --top-pos:0;
     --left-pos:0;
@@ -358,21 +362,10 @@ ul.ul-grid{
     padding:0;
     width:100%;
     list-style-type: none;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
 }
 ul.ul-grid a{
-    text-decoration:none;
     color:auto;
-}
-ul.ul-grid a h5{
-    color:#333;
-}
-ul.ul-grid a span{
-    color:#333;
-    font-size:18px;
-}
-ul.ul-grid a p{
-    color:#888;
-}
-ul.ul-grid img{
-    max-width:150px;
 }
