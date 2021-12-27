@@ -90,6 +90,10 @@
                     </a>
                 </div>
             <?php endforeach; ?>
+
+            <div class="col-12 text-center">
+                <a href="./destinations.php" target="_blank">Click Here</a> for a list of all of our 400 yachting destinations.
+            </div>
         </div>
     </div>
     <script src="./js/main.js"></script>

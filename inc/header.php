@@ -43,7 +43,7 @@
 
     <!-- jQuery -->
     <script src="/js/vendor/jquery-3.6.0.min.js"></script>
-
+    <script src="/js/vendor/bootstrap.bundle.min.js"></script>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JP5CNEG66M"></script>
     <script>
@@ -67,8 +67,8 @@
         <div class="row">
             <div class="col-md-8 col-sm-10 col-12 offset-md-2 offset-sm-1" style="z-index: 10;">
                 <div class="row">
-                    <div class="col-4 align-items-center d-flex"><a class="navbar-brand" href="https://yachts.com/"><img src="/images/logo.png" class="img-fluid" alt="Logo"></a></div>
-                    <div class="col-8">
+                    <div class="col-sm-4 col-12 align-items-center d-flex justify-content-center"><a class="navbar-brand" href="https://yachts.com/"><img src="/images/logo.png" class="img-fluid" alt="Logo"></a></div>
+                    <div class="col-sm-8 col-12">
                         <div class="input-group"> 
                             <input id="search-box" type="search" class="form-control sb" placeholder="Destination"> 
                             <span class="input-group-addon"><input type="submit" value="Search" class="btn btn-primary"></span> 

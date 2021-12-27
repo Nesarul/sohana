@@ -733,8 +733,8 @@
 	</location>
 	<location>
 		<city></city>
-		<state>Windward Islands</state>
-		<country></country>
+		<state></state>
+		<country>Windward Islands</country>
 		<image>Windward-Islands</image>	
 		<place>Windward Islands</place>	
 		<search>boat</search>
@@ -756,12 +756,12 @@
 		<link></link>
 		<link2>windward-islands</link2>
 		<areas></areas>
-		<criteria>Windward Islands, </criteria>
+		<criteria>Windward Islands</criteria>
 	</location>
 	<location>
 		<city></city>
-		<state>Red Sea</state>
-		<country></country>
+		<state></state>
+		<country>Red Sea</country>
 		<image>Red-Sea</image>	
 		<place>Red Sea</place>	
 		<search>boat</search>
@@ -774,7 +774,7 @@
 		<link></link>
 		<link2>red-sea</link2>
 		<areas></areas>
-		<criteria>Red Sea, </criteria>
+		<criteria>Red Sea</criteria>
 	</location>
 	<location>
 		<city>Miami</city>
@@ -1344,7 +1344,7 @@
 	<location>
 		<city>Newport</city>
 		<state>Rhode Island</state>
-		<country>Newport</country>
+		<country>United States</country>
 		<image>Newport</image>	
 		<place>Newport</place>	
 		<search>boat</search>
@@ -1359,7 +1359,7 @@
 		<link></link>
 		<link2>newport</link2>
 		<areas></areas>
-		<criteria>Newport, Rhode Island, Newport</criteria>
+		<criteria>Newport, Rhode Island, United States</criteria>
 	</location>
 	<location>
 		<city>Whitsunday Islands</city>
@@ -2699,16 +2699,16 @@
 	</location>
 	<location>
 		<city></city>
-		<state>Washington</state>
+		<state>Washington State</state>
 		<country>United States</country>
 		<image>Washington</image>	
-		<place>Washington</place>	
+		<place>Washington State</place>	
 		<search>boat</search>
 		<text></text>	
 		<link></link>
 		<link2>washington</link2>
 		<areas>Seattle, Olympia, Tacoma, Bellingham, Everett, Kirkland, Renton, Kent, Anacortes, Mead, Bellevue, Davenport, Menatchee, Auburn, Friday Harbor, Gig Harbor, Burien, Chelan, Kennewick, Bonney Lake, Vancouver, Ridgefield, Spokane County, Liberty Lake, Lynnwood, Quincy, Seatac, LA Conner, Bremerton, Des Moines, Ruston, Edmonds, Bainbridge Islands, Spanaway, Eastsound, Kenmore, Everette, San Juan Island, Lake Washington, Lake Union, Puget Sound, Lake Sammamish, St. Helens, Lake Tapps, Conner, Mercy Island, Leschi, Olga, Lake Chelan, Columbia River, Snohomish, Longview, Puyallup, Orcas Island, Clarkston, Metchosin, Astoria, Toledo, Sequim, Port Townsend Bay, and Belfair.</areas>
-		<criteria>Washington, United States</criteria>
+		<criteria>Washington State, United States</criteria>
 	</location>
 	<location>
 		<city></city>
@@ -2777,7 +2777,7 @@
 	</location>
 	<location>
 		<city>Positano</city>
-		<state></state>
+		<state>Capri</state>
 		<country>Italy</country>
 		<image>Positano</image>	
 		<place>Positano</place>	
@@ -2786,7 +2786,7 @@
 		<link></link>
 		<link2>positano</link2>
 		<areas></areas>
-		<criteria>Positano, Italy</criteria>
+		<criteria>Positano, Capri, Italy</criteria>
 	</location>
 	<location>
 		<city>Durban</city>
@@ -2867,19 +2867,6 @@
 		<criteria>Riga, Latvia</criteria>
 	</location>
 	<location>
-		<city>Puerto Vallarta</city>
-		<state></state>
-		<country>Mexico</country>
-		<image>Puerto-Vallarta</image>	
-		<place>Puerto Vallarta</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>puerto-vallarta</link2>
-		<areas></areas>
-		<criteria>Puerto Vallarta, Mexico</criteria>
-	</location>
-	<location>
 		<city>Cabo San Lucas</city>
 		<state></state>
 		<country>Mexico</country>
@@ -2919,19 +2906,6 @@
 		<criteria>Sao Paulo, Brazil</criteria>
 	</location>
 	<location>
-		<city>Rhodes</city>
-		<state></state>
-		<country>Greece</country>
-		<image>Rhodes</image>	
-		<place>Rhodes</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>rhodes</link2>
-		<areas></areas>
-		<criteria>Rhodes, Greece</criteria>
-	</location>
-	<location>
 		<city>Santos and Guaruja</city>
 		<state></state>
 		<country>Brazil</country>
@@ -2945,19 +2919,6 @@
 		<criteria>Santos and Guaruja, Brazil</criteria>
 	</location>
 	
-	<location>
-		<city>Crete</city>
-		<state></state>
-		<country>Greece</country>
-		<image>Crete</image>	
-		<place>Crete</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>crete</link2>
-		<areas></areas>
-		<criteria>Crete, Greece</criteria>
-	</location>
 	<location>
 		<city></city>
 		<state>St. Thomas</state>
@@ -3227,19 +3188,6 @@
 		<criteria>Willemstad, Curacao</criteria>
 	</location>
 	<location>
-		<city>Marseille</city>
-		<state></state>
-		<country>France</country>
-		<image>Marseille</image>	
-		<place>Marseille</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>marseille</link2>
-		<areas></areas>
-		<criteria>Marseille, France</criteria>
-	</location>
-	<location>
 		<city>Kassandra</city>
 		<state></state>
 		<country>Greece</country>
@@ -3318,19 +3266,6 @@
 		<criteria>Nuuk, Greenland</criteria>
 	</location>
 	<location>
-		<city>Astypalea</city>
-		<state></state>
-		<country>Greece</country>
-		<image>Astypalea</image>	
-		<place>Astypalea</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>astypalea</link2>
-		<areas></areas>
-		<criteria>Astypalea, Greece</criteria>
-	</location>
-	<location>
 		<city>Fuengirola</city>
 		<state></state>
 		<country>Spain</country>
@@ -3369,20 +3304,6 @@
 		<areas></areas>
 		<criteria>Nikiti, Greece</criteria>
 	</location>
-	<location>
-		<city>Manaus</city>
-		<state>Rio Negro</state>
-		<country>Brazil</country>
-		<image>Manaus</image>	
-		<place>Manaus</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>manaus</link2>
-		<areas></areas>
-		<criteria>Manaus, Rio Negro, Brazil</criteria>
-	</location>
-	
 	<location>
 		<city>Phuket</city>
 		<state></state>
@@ -3489,19 +3410,6 @@
 		<criteria>Koh Samui, Thailand</criteria>
 	</location>
 	<location>
-		<city>Marseilles</city>
-		<state></state>
-		<country>France</country>
-		<image>Marseilles</image>	
-		<place>Marseilles</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>marseilles</link2>
-		<areas></areas>
-		<criteria>Marseilles, France</criteria>
-	</location>
-	<location>
 		<city>Ponta Delgada</city>
 		<state></state>
 		<country>Portugal</country>
@@ -3580,19 +3488,6 @@
 		<criteria>Kas, Turkey</criteria>
 	</location>
 	<location>
-		<city>Adeje</city>
-		<state></state>
-		<country>Canary Islands</country>
-		<image>Adeje</image>	
-		<place>Adeje</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>adeje</link2>
-		<areas></areas>
-		<criteria>Adeje, Canary Islands</criteria>
-	</location>
-	<location>
 		<city>Portofino</city>
 		<state>Algarve</state>
 		<country>Portugal</country>
@@ -3632,19 +3527,7 @@
 		<criteria>Ras Muhammad National Park, Egypt</criteria>
 	</location>
 	
-	<location>
-		<city>Positano</city>
-		<state>Capri</state>
-		<country>Italy</country>
-		<image>Positano</image>	
-		<place>Positano</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>positano</link2>
-		<areas></areas>
-		<criteria>Positano, Capri, Italy</criteria>
-	</location>
+
 	<location>
 		<city>Cagliari</city>
 		<state></state>
@@ -3683,19 +3566,6 @@
 		<link2>athens</link2>
 		<areas></areas>
 		<criteria>Athens, Greece</criteria>
-	</location>
-	<location>
-		<city>Phuket</city>
-		<state>Krabi</state>
-		<country>Thailand</country>
-		<image>Phuket</image>	
-		<place>Phuket</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>phuket</link2>
-		<areas></areas>
-		<criteria>Phuket, Krabi, Thailand</criteria>
 	</location>
 	<location>
 		<city>Toronto</city>
@@ -3816,7 +3686,7 @@
 	</location>
 	<location>
 		<city>Lindos</city>
-		<state>Rhodes Island</state>
+		<state>Island of Rhodes</state>
 		<country>Greece</country>
 		<image>Lindos</image>	
 		<place>Lindos</place>	
@@ -3825,7 +3695,7 @@
 		<link></link>
 		<link2>lindos</link2>
 		<areas></areas>
-		<criteria>Lindos, Rhodes Island, Greece</criteria>
+		<criteria>Lindos, Island of Rhodes, Greece</criteria>
 	</location>
 	<location>
 		<city>Kekova</city>
@@ -3943,19 +3813,6 @@
 		<link2>haleiwa</link2>
 		<areas></areas>
 		<criteria>Haleiwa, Oahu, Hawaii</criteria>
-	</location>
-	<location>
-		<city>Phuket</city>
-		<state>Hong Island</state>
-		<country>Thailand</country>
-		<image>Phuket</image>	
-		<place>Phuket</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>phuket</link2>
-		<areas></areas>
-		<criteria>Phuket, Hong Island, Thailand</criteria>
 	</location>
 	<location>
 		<city>Philipsburg</city>
@@ -4089,19 +3946,6 @@
 		<criteria>Andratx, Balearic Islands, Spain</criteria>
 	</location>
 	<location>
-		<city>Riviera Maya</city>
-		<state></state>
-		<country>Mexico</country>
-		<image>Riviera-Maya</image>	
-		<place>Riviera Maya</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>riviera-maya</link2>
-		<areas></areas>
-		<criteria>Riviera Maya, Mexico</criteria>
-	</location>
-	<location>
 		<city>Lake Como</city>
 		<state></state>
 		<country>Italy</country>
@@ -4219,19 +4063,6 @@
 		<criteria>Cinque Terre, Tuscany, Italy</criteria>
 	</location>
 	<location>
-		<city>Alcudia</city>
-		<state>Balearic Islands</state>
-		<country>Spain</country>
-		<image>Alcudia</image>	
-		<place>Alcudia</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>alcudia</link2>
-		<areas></areas>
-		<criteria>Alcudia, Balearic Islands, Spain</criteria>
-	</location>
-	<location>
 		<city>Lake Maggiore</city>
 		<state>Piedmont</state>
 		<country>Italy</country>
@@ -4256,19 +4087,6 @@
 		<link2>bari</link2>
 		<areas></areas>
 		<criteria>Bari, Castellana Cave, Italy</criteria>
-	</location>
-	<location>
-		<city>Hurghada</city>
-		<state>Red Sea</state>
-		<country>Egypt</country>
-		<image>Hurghada</image>	
-		<place>Hurghada</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>hurghada</link2>
-		<areas></areas>
-		<criteria>Hurghada, Red Sea, Egypt</criteria>
 	</location>
 	<location>
 		<city>Victoria</city>
@@ -4363,7 +4181,7 @@
 	</location>
 	<location>
 		<city>La Crucecita</city>
-		<state>axaca</state>
+		<state>Oaxaca</state>
 		<country>Mexico</country>
 		<image>La-Crucecita</image>	
 		<place>La Crucecita</place>	
@@ -4372,7 +4190,7 @@
 		<link></link>
 		<link2>la-crucecita</link2>
 		<areas></areas>
-		<criteria>La Crucecita, axaca, Mexico</criteria>
+		<criteria>La Crucecita, Oxaca, Mexico</criteria>
 	</location>
 	<location>
 		<city>Paris</city>
@@ -4531,19 +4349,6 @@
 		<criteria>Cairns, Queensland, Australia</criteria>
 	</location>
 	<location>
-		<city>Muscat</city>
-		<state></state>
-		<country>Oman</country>
-		<image>Muscat</image>	
-		<place>Muscat</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>muscat</link2>
-		<areas></areas>
-		<criteria>Muscat, Oman</criteria>
-	</location>
-	<location>
 		<city></city>
 		<state></state>
 		<country>Curacao</country>
@@ -4677,7 +4482,7 @@
 	<location>
 		<city></city>
 		<state></state>
-		<country></country>
+		<country>St. Maarten</country>
 		<image>St.-Maarten</image>	
 		<place>St. Maarten</place>	
 		<search>boat</search>
@@ -4685,7 +4490,7 @@
 		<link></link>
 		<link2>st.-maarten</link2>
 		<areas></areas>
-		<criteria></criteria>
+		<criteria>St. Maarten</criteria>
 	</location>
 	<location>
 		<city>Vigo</city>
@@ -4962,7 +4767,7 @@
 	</location>
 	<location>
 		<city>Panama City</city>
-		<state>Taboga Island</state>
+		<state></state>
 		<country>Panama</country>
 		<image>Panama-City</image>	
 		<place>Panama City</place>	
@@ -4971,7 +4776,7 @@
 		<link></link>
 		<link2>panama-city</link2>
 		<areas></areas>
-		<criteria>Panama City, Taboga Island, Panama</criteria>
+		<criteria>Panama City, Panama</criteria>
 	</location>
 	<location>
 		<city>Soufriere</city>
@@ -5326,16 +5131,578 @@
 		<criteria>Grand Baie, Mauritius</criteria>
 	</location>
 	<location>
+		<city></city>
+		<state></state>
+		<country>Antarctica</country>
+		<image>Antarctica</image>
+		<place>Antarctica</place>
 		<search>boat</search>
-		<city>Cape Town</city>
+		<text></text>
+		<link></link>
+		<link2>antarctica</link2>
+		<areas></areas>
+		<criteria>Antarctica</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Argentina</country>
+		<image>Argentina</image>
+		<place>Argentina</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>argentina</link2>
+		<areas></areas>
+		<criteria>Argentina</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Aruba</country>
+		<image>Aruba</image>
+		<place>Aruba</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>aruba</link2>
+		<areas></areas>
+		<criteria>Aruba</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Barbados</country>
+		<image>Barbados</image>
+		<place>Barbados</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>barbados</link2>
+		<areas></areas>
+		<criteria>Barbados</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Belgium</country>
+		<image>Belgium</image>
+		<place>Belgium</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>belgium</link2>
+		<areas></areas>
+		<criteria>Belgium</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Brazil</country>
+		<image>Brazil</image>
+		<place>Brazil</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>brazil</link2>
+		<areas></areas>
+		<criteria>Brazil</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Cambodia</country>
+		<image>Cambodia</image>
+		<place>Cambodia</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>cambodia</link2>
+		<areas></areas>
+		<criteria>Cambodia</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Canada</country>
+		<image>Canada</image>
+		<place>Canada</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>canada</link2>
+		<areas></areas>
+		<criteria>Canada</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Denmark</country>
+		<image>Denmark</image>
+		<place>Denmark</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>denmark</link2>
+		<areas></areas>
+		<criteria>Denmark</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Dominican Republic</country>
+		<image>Dominican-Republic</image>
+		<place>Dominican Republic</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>dominican-republic</link2>
+		<areas></areas>
+		<criteria>Dominican Republic</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Ecuador</country>
+		<image>Ecuador</image>
+		<place>Ecuador</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>ecuador</link2>
+		<areas></areas>
+		<criteria>Ecuador</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Egypt</country>
+		<image>Egypt</image>
+		<place>Egypt</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>egypt</link2>
+		<areas></areas>
+		<criteria>Egypt</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>England</country>
+		<image>England</image>
+		<place>England</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>england</link2>
+		<areas></areas>
+		<criteria>England</criteria>
+	</location>
+
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Germany</country>
+		<image>Germany</image>
+		<place>Germany</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>germany</link2>
+		<areas></areas>
+		<criteria>Germany</criteria>
+	</location>
+
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Greenland</country>
+		<image>Greenland</image>
+		<place>Greenland</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>greenland</link2>
+		<areas></areas>
+		<criteria>Greenland</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Guatemala</country>
+		<image>Guatemala</image>
+		<place>Guatemala</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>guatemala</link2>
+		<areas></areas>
+		<criteria>Guatemala</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>India</country>
+		<image>India</image>
+		<place>India</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>india</link2>
+		<areas></areas>
+		<criteria>India</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Jamaica</country>
+		<image>Jamaica</image>
+		<place>Jamaica</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>jamaica</link2>
+		<areas></areas>
+		<criteria>Jamaica</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Latvia</country>
+		<image>Latvia</image>
+		<place>Latvia</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>latvia</link2>
+		<areas></areas>
+		<criteria>Latvia</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Mexico</country>
+		<image>Mexico</image>
+		<place>Mexico</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>mexico</link2>
+		<areas></areas>
+		<criteria>Mexico</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Montenegro</country>
+		<image>Montenegro</image>
+		<place>Montenegro</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>montenegro</link2>
+		<areas></areas>
+		<criteria>Montenegro</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Netherlands</country>
+		<image>Netherlands</image>
+		<place>Netherlands</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>netherlands</link2>
+		<areas></areas>
+		<criteria>Netherlands</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Oman</country>
+		<image>Oman</image>
+		<place>Oman</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>oman</link2>
+		<areas></areas>
+		<criteria>Oman</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Panama</country>
+		<image>Panama</image>
+		<place>Panama</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>panama</link2>
+		<areas></areas>
+		<criteria>Panama</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Paraguay</country>
+		<image>Paraguay</image>
+		<place>Paraguay</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>paraguay</link2>
+		<areas></areas>
+		<criteria>Paraguay</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Peru</country>
+		<image>Peru</image>
+		<place>Peru</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>peru</link2>
+		<areas></areas>
+		<criteria>Peru</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Philippines</country>
+		<image>Philippines</image>
+		<place>Philippines</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>philippines</link2>
+		<areas></areas>
+		<criteria>Philippines</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Portugal</country>
+		<image>Portugal</image>
+		<place>Portugal</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>portugal</link2>
+		<areas></areas>
+		<criteria>Portugal</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Romania</country>
+		<image>Romania</image>
+		<place>Romania</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>romania</link2>
+		<areas></areas>
+		<criteria>Romania</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Russia</country>
+		<image>Russia</image>
+		<place>Russia</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>russia</link2>
+		<areas></areas>
+		<criteria>Russia</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Saint Kitts and Nevis</country>
+		<image>Saint-Kitts-and-Nevis</image>
+		<place>Saint Kitts and Nevis</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>saint-kitts-and-nevis</link2>
+		<areas></areas>
+		<criteria>Saint Kitts and Nevis</criteria>
+	</location>
+
+	<location>
+		<city></city>
 		<state></state>
 		<country>South Africa</country>
-		<image>Cape-Town</image>	
-		<place>Cape Town</place>	
-		<text></text>	
+		<image>South-Africa</image>
+		<place>South Africa</place>
+		<search>boat</search>
+		<text></text>
 		<link></link>
-		<link2>cape-town</link2>
+		<link2>south-africa</link2>
 		<areas></areas>
-		<criteria>Cape Town, South Africa</criteria>
+		<criteria>South Africa</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>South Korea</country>
+		<image>South-Korea</image>
+		<place>South Korea</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>south-korea</link2>
+		<areas></areas>
+		<criteria>South Korea</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Spain</country>
+		<image>Spain</image>
+		<place>Spain</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>spain</link2>
+		<areas></areas>
+		<criteria>Spain</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>St. Martin</country>
+		<image>St.-Martin</image>
+		<place>St. Martin</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>st.-martin</link2>
+		<areas></areas>
+		<criteria>St. Martin</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Switzerland</country>
+		<image>Switzerland</image>
+		<place>Switzerland</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>switzerland</link2>
+		<areas></areas>
+		<criteria>Switzerland</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Trinidad and Tobago</country>
+		<image>Trinidad-and-Tobago</image>
+		<place>Trinidad and Tobago</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>trinidad-and-tobago</link2>
+		<areas></areas>
+		<criteria>Trinidad and Tobago</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Ukraine</country>
+		<image>Ukraine</image>
+		<place>Ukraine</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>ukraine</link2>
+		<areas></areas>
+		<criteria>Ukraine</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>United Arab Emirates</country>
+		<image>United-Arab-Emirates</image>
+		<place>United Arab Emirates</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>united-arab-emirates</link2>
+		<areas></areas>
+		<criteria>United Arab Emirates</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>United States</country>
+		<image>United-States</image>
+		<place>United States</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>united-states</link2>
+		<areas></areas>
+		<criteria>United States</criteria>
+	</location>
+
+	<location>
+		<city></city>
+		<state></state>
+		<country>Vietnam</country>
+		<image>Vietnam</image>
+		<place>Vietnam</place>
+		<search>boat</search>
+		<text></text>
+		<link></link>
+		<link2>vietnam</link2>
+		<areas></areas>
+		<criteria>Vietnam</criteria>
 	</location>
 </countries>

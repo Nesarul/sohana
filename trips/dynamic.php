@@ -8,38 +8,39 @@
         die();
     }
         
-    $add = substr($address,0,-4);
+    $add = str_replace('-',' ',substr($address,0,-4));
 
 
     $ar = explode('/',$add);
-    $city = "";
-    $state = "";
-    $country = "";
-    $place = "";
+    $city = (isset($ar[2]) ? ucwords($ar[2]) : "");
+    $state = (isset($ar[1]) ? ucwords($ar[1]) : "");
+    $country = (isset($ar[0]) ? ucwords($ar[0]) : "");
+    $records = null;
 
-    if(count($ar) > 0){
-        $rv = $ar[count($ar)-1];
-        $rv2 = str_replace("-", " ", $rv);
-        $place = ucwords($rv2);
-    }else if(isset($_POST['city']) | isset($_POST['state']) | isset($_POST['country']) | $place != ""){
-        if(isset($_POST['city'])) $city = $_POST['city'];
-        if(isset($_POST['state'])) $state = $_POST['state'];
-        if(isset($_POST['country'])) $country = $_POST['country'];
-    } else die;
+    switch(count($ar)){
+        case 1:                                                                                                             // Only country.
+            $records = $xml->xpath("//location/country[text() = '$country']/parent::*");
+        break;
+        case 2:                                                                                                             // City / State, City / Country, State / Country
+            $records = $xml->xpath("//location[country[.= '$country'] and city[text() = '$city']]/country/parent::*");      // country and city.
+            if(count($records) == 0)
+                $records = $xml->xpath("//location[country[.= '$country'] and state[text() = '$state']]/country/parent::*");// country and state.
+            if(count($records) == 0)
+                $records = $xml->xpath("//location[country[.= '$city'] and state[text() = '$state']]/country/parent::*");   // city and state.
+            if(count($records) == 0)
+                $records = $xml->xpath("//location[country[.= '$country'] and city[text() = '$state']]/country/parent::*"); // Country and city city name as state.
+            break;
+        case 3:                                                                                                             // City, State, Country.
+            $records = $xml->xpath("//location[country[.= '$country'] and state[text() = '$state'] and city[text() = '$city']]/country/parent::*");
+            break;
+        default:
+            $records = 0; 
+            break;
+    }
+    if(count($records) == 0)
+        die();   
 
-
-    // $xml = simplexml_load_file('./admin/assets/locations.xml');
-    if($city)
-        $records = $xml->xpath("//location/city[contains(text(), '$city')]/parent::*");
-    else if($state) 
-        $records = $xml->xpath("//location/state[contains(text(), '$state')]/parent::*");
-    else if($country)
-        $records = $xml->xpath("//location/country[contains(text(), '$country')]/parent::*");  
-    else
-        $records = $xml->xpath("//location/place[contains(text(), '$place')]/parent::*");  
-    if($records[0]->place != $place)
-        die();    
-        foreach($records as $key => $rec):
+    foreach($records as $key => $rec):
 ?>
 
     <div class="container">
@@ -54,12 +55,12 @@
                         <div class="caption-image">
                             <img src="/images/<?php echo $rec->image; ?>.webp" alt="" class="img-fluid">;
                             <div class="caption-screen">
-                                <h2 id="ttt"><?php echo $place; ?></h2>
+                                <h2 id="ttt"><?php echo $rec->criteria; ?></h2>
                             </div>
                         </div> 
                         <?php else: ?>
                             <div class="caption-screen mb-1" style="position:initial;">
-                                <h2><?php echo $place; ?></h2>
+                                <h2><?php echo $rec->criteria; ?></h2>
                             </div>
                         <?php endif;?>
                         <?php 
@@ -80,15 +81,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="text-center">We Offer The Following <span style="color:darkblue"><?php echo $place; ?></span> Trips:</h2>
-                    <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $place.' '.$rec->search; ?>"></div>
+                    <h2 class="text-center">We Offer The Following <span style="color:darkblue"><?php echo $rec->criteria; ?></span> Trips:</h2>
+                    <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $rec->criteria.' '.$rec->search; ?>"></div>
                 </div>
-<P></P>
-                <div class="col-12">
-                    <div class="areas mb-3">
-                        <?php if(!empty($rec->areas)) echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"").":</h5> ".$rec->areas.""; ?>
+                <?php if(!empty($rec->areas)) : ?>
+                    <P></P>
+                    <div class="col-12">
+                        <div class="areas mb-3">
+                            <?php echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"").":</h5> ".$rec->areas.""; ?>
+                        </div>
                     </div>
-                </div>
+                <?php else: ?>
+                    <P></P>
+                    <div class="col-12">
+                        <div class="areas mb-3">
+                            <?php echo "<h5>Vacation Spot: ".$rec->criteria; ?>
+                        </div>
+                    </div>
+                <?php endif; ?>
             </div>
         </div>
     </section>
