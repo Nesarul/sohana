@@ -42,9 +42,11 @@
                 $this->_php = substr($file,0,-4);
             }
         }
-        protected function getFile(){
+        private function getFile(){
             $srv = $_SERVER['DOCUMENT_ROOT'].'/'."admin/assets/".($this->_sec == "articles" ? 'articles.xml':'locations.xml');
             return $srv;
         }
-
+        public function getXml(){
+            return $this->_xml;
+        }
     };

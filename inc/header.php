@@ -32,7 +32,7 @@
     <meta name="keywords" content="<?php echo $key; ?>" />
 
     <!-- Css -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css?ver=1.1" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/bootstrap.min.css?ver=1.2" type="text/css" media="all">
     <link rel="stylesheet" href="/css/style.css?ver=1" type="text/css" media="all">
     <!-- End of Css -->
 
