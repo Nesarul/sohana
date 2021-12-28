@@ -24,9 +24,17 @@
                 <?php 
                     $xml = simplexml_load_file('./admin/assets/locations.xml');
                     foreach($xml as $key => $rec):
+                        $url_array = explode(",",strtolower($rec->criteria));
+                        $ar = array_reverse($url_array);
+                        $dest_url="";
+                        foreach($ar as $key => $rec1){
+                            $dest_url .= str_replace(' ','-',trim($rec1)).'/';
+                        }
+                        if(substr($dest_url,-1) == '/') $dest_url =  rtrim($dest_url,'/ ');
+
                 ?>
                     <li class="my-1">
-                        <a href="./trips/<?php echo $rec->link2; ?>.php" target="_blank"><span><?php echo $rec->place; ?></span></a>
+                        <a href="./trips/<?php echo $dest_url; ?>.php" target="_blank"><span><?php echo $rec->place; ?></span></a>
                     </li>
                 <?php endforeach; ?>
             </ul>

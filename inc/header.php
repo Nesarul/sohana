@@ -6,10 +6,12 @@
     $desc = null;
 
     if($p[1] == 'articles'){
+        if(!isset($rec) || count($rec) <= 0) die();
         $title = $rec[0]->title;
         $desc = $rec[0]->desc;
         $key = $rec[0]->title;
     }elseif($p[1] == 'trips'){
+        if(!isset($rec) || count($rec) <= 0) die();
         $title = $rec[0]->place." Yacht Rentals.";
         $desc = "Rent a yacht in ".$rec[0]->place." by the hour or day to spice up your vacation. All ".$rec[0]->place." boat trips, cruises, and charters include a captain.";
         $key = $rec[0]->place;

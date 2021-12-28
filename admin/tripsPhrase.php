@@ -45,23 +45,26 @@
             // }
 
             switch(count($ar)){
-                case 1:                                                                                                             // Only country.
+            case 1: // only country
+                if($this->_xml->xpath("//location/country[text() = '$country']"))
                     $records = $this->_xml->xpath("//location/place[text() = '$country']/parent::*");
                 break;
-                case 2:                                                                                                             // City / State, City / Country, State / Country
-                    $records = $this->_xml->xpath("//location/place[text() = '$city']/parent::*");                                  // country and city.
-                    if(count($records) == 0)
-                        $records = $this->_xml->xpath("//location/place[text() = '$state']/parent::*");                             // country and state.
-                    break;
-                case 3:                                                                                                             // City, State, Country.
+            case 2: 
+                if( $this->_xml->xpath("//location[country[.= '$country'] and state[text() = '$state']]") || 
+                    $this->_xml->xpath("//location[country[.= '$country'] and city[text() = '$state']]") || 
+                    $this->_xml->xpath("//location[state[.= '$country'] and city[text() = '$state']]"))
+                    $records = $this->_xml->xpath("//location/place[text() = '$state']/parent::*");
+                break;
+            case 3:
+                if($this->_xml->xpath("//location[country[.= '$country'] and state[text() = '$state'] and city[text() = '$city']]"))
                     $records = $this->_xml->xpath("//location/place[text() = '$city']/parent::*");
-                    break;
-                default:
-                    $records = 0; 
-                    break;
+                break;
+            default:
+                $records = 0; 
+                break;
             }
-            if(count($records) == 0)
-                die();
-            else return $records; 
+            if($records == 0){
+                echo "Invalid Address";die();
+            } else return $records; 
         }
     };
