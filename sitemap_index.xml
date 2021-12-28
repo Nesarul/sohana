@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>http://www.example.com/sitemap1.xml</loc>
+        <loc>http://www.example.com/sitemap_static.xml</loc>
     </sitemap>
     <sitemap>
-        <loc>http://www.example.com/sitemap2.xml</loc>
+        <loc>http://www.example.com/sitemap_articles.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>http://www.example.com/sitemap_trips.xml</loc>
     </sitemap>
 </sitemapindex>

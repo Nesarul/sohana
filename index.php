@@ -11,8 +11,8 @@
     <meta name="keywords" content="boat rentals, boats, yachts, boating" />
 
     <!-- Css -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="./css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/style.css?ver=1.3" type="text/css" media="all">
     <!-- End of Css -->
 
     <!-- jQuery -->
@@ -34,7 +34,7 @@
         <video playsinline autoplay muted loop>
             <source src="./videos/slider2.mp4" type="video/mp4" />
         </video>
-        <p class="caption text-center">Boats For Rent<span>Over 5,000 Tours, Cruises, and Charters</span></p>
+        <p class="caption text-center">Boats For Rent <span>Over 5,000 Tours, Cruises, and Charters</span></p>
         <?php
             $ii = 0;
             if (isset($_REQUEST['city']) && !empty($_REQUEST['city'])) {

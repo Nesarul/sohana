@@ -44,23 +44,16 @@
     </div>
    
     <div id="foot-menu">
-        <nav class="navbar bottom navbar-expand-lg navbar-light bg-light justify-content-center">
-            <div class="container">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse w-100" id="navbarNav">
-                    <ul class="navbar-nav w-100 justify-content-center">
-                        <?php 
-                            $menu_data = simplexml_load_file($_SERVER['DOCUMENT_ROOT']."/"."admin/assets/menu.xml") or die("Failed to load");
-                            foreach($menu_data->item as $key => $rec):
-                        ?>
-                            <li><a href="<?php echo $rec->link; ?>" class="nav-link"><?php echo $rec->caption; ?></a></li>
-                        <?php endforeach; ?>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        <div class="custom-nav text-center">
+            <ul>
+                <?php 
+                    $menu_data = simplexml_load_file($_SERVER['DOCUMENT_ROOT']."/"."admin/assets/menu.xml") or die("Failed to load");
+                    foreach($menu_data->item as $key => $rec):
+                ?>
+                    <li><a href="<?php echo $rec->link; ?>" class="nav-link"><?php echo $rec->caption; ?></a></li>
+                <?php endforeach; ?>
+            </ul>
+        </div>
     </div>
 </body>
 </html>
