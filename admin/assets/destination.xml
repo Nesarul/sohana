@@ -11,7 +11,7 @@
 		<image>Antigua.webp</image>
 		<title>Antigua</title>
 		<desc>Sail the Caribbean and visit the pristine, private beaches.</desc>
-		<link>guatamala/antigua</link>
+		<link>antigua</link>
 	</dest>
 
 	<dest>
@@ -67,7 +67,7 @@
 		<image>Boracay.webp</image>
 		<title>Boracay (Philippines)</title>
 		<desc>Go scuba diving to see the beautiful coral reefs and shipwrecks.</desc>
-		<link>boracay</link>
+		<link>philippines/boracay</link>
 	</dest>
 
 	<dest>
@@ -235,7 +235,7 @@
 		<image>French-West-Indies.webp</image>
 		<title>French West Indies</title>
 		<desc>From Guadeloupe to Martinique, take in the natural beauty of the rainforests, waterfalls, lagoons, and sandy beaches.</desc>
-		<link>french-west-indies</link>
+		<link>france/french-west-indies</link>
 	</dest>
 
 	<dest>
@@ -270,7 +270,7 @@
 		<image>iceland.webp</image>
 		<title>Iceland</title>
 		<desc>Sail to the quaint fishing villages and snow capped glaciers, or visit remote areas full of beautiful scenery, fjords, and wildlife.</desc>
-		<link>trips/iceland</link>
+		<link>iceland</link>
 	</dest>
 
 	<dest>
@@ -478,9 +478,9 @@
 
 	<dest>
 		<image>Ross-Sea.webp</image>
-		<title>Ross Sea (Antartica)</title>
+		<title>Ross Sea (Antarctica)</title>
 		<desc>A voyage of exploration full of whales, penguins, climbing, and fishing.</desc>
-		<link>antartica/ross-sea</link>
+		<link>antarctica/ross-sea</link>
 	</dest>
 
 	<dest>

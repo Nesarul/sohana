@@ -9,14 +9,17 @@
     $state =  null;
     $city = null;
 
-    $root = $xml->createElement("sitemap");
+    $root = $xml->createElement("urlset_xmlns");
     $root = $xml->appendChild($root);
 
     foreach($articles as $art => $recArt){
-        $link = $xml->createElement("link");
-        $link = $root->appendChild($link);
+        $parent = $xml->createElement("url");
+        $parent = $root->appendChild($parent);
 
-        $text = $xml->createTextNode('/articles'.'/'.$recArt->link.'.php');
+        $link = $xml->createElement("loc");
+        $link = $parent->appendChild($link);
+
+        $text = $xml->createTextNode('https://yachts.com/articles'.'/'.$recArt->link.'.php');
         $text = $link->appendChild($text);
     }
     

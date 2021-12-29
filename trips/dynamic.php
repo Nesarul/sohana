@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-12">
                     <h2 class="text-center">We Offer The Following <span style="color:darkblue"><?php echo $rec->place; ?></span> Trips:</h2>
-                    <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $rec->criteria.' '.$rec->search; ?>"></div>
+                    <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="100" data-gyg-partner-id="A3OEZL3" data-gyg-q="<?php echo $rec->place.' '.$rec->search; ?>"></div>
                 </div>
                 <?php if(!empty($rec->areas)) : ?>
                     <P></P>

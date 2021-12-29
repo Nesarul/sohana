@@ -50,7 +50,7 @@
                     $records = $this->_xml->xpath("//location/place[text() = '$country']/parent::*");
                 break;
             case 2: 
-                if( $this->_xml->xpath("//location[country[.= '$country'] and state[text() = '$state']]") || 
+                if( $this->_xml->xpath("//location[country[.= '$country'] and state[.= '$state']]") || 
                     $this->_xml->xpath("//location[country[.= '$country'] and city[text() = '$state']]") || 
                     $this->_xml->xpath("//location[state[.= '$country'] and city[text() = '$state']]"))
                     $records = $this->_xml->xpath("//location/place[text() = '$state']/parent::*");

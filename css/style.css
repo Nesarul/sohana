@@ -306,6 +306,10 @@ hr{
     .caption-screen>h2{
         font-size: 95%;
     }
+    .img-main-logo{
+        max-width:66.66666667%;
+        margin:0 auto;
+    }
   }
 
 .search-bar{

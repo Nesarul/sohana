@@ -35,7 +35,7 @@
 
     <!-- Css -->
     <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/css/style.css?ver=1.3" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/style.css?ver=1.4" type="text/css" media="all">
     <!-- End of Css -->
 
     <!-- jQuery -->
@@ -64,7 +64,7 @@
         <div class="row">
             <div class="col-md-8 col-sm-10 col-12 offset-md-2 offset-sm-1" style="z-index: 10;">
                 <div class="row">
-                    <div class="col-sm-4 col-8 offset-2 align-items-center d-flex justify-content-center"><a class="navbar-brand" href="https://yachts.com/"><img src="/images/logo.png" class="img-fluid" alt="Logo"></a></div>
+                    <div class="col-sm-4 col-12 align-items-center d-flex justify-content-center"><a class="navbar-brand" href="https://yachts.com/"><img src="/images/logo.png" class="img-fluid img-main-logo" alt="Logo"></a></div>
                     <div class="col-sm-8 col-12">
                         <div class="input-group"> 
                             <input id="search-box" type="search" class="form-control sb" placeholder="Destination"> 

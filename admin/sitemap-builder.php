@@ -59,10 +59,10 @@
         <form>
             <div class="row">
                 <div class="col-6">
-                    <a href="./generate-trip.php" class="btn btn-primary form-control">Create Tip.xml file</a>
+                    <a href="./generate-trip.php" class="btn btn-primary form-control">Create Trips.xml file</a>
                 </div>
                 <div class="col-6">
-                    <a href="./generate-articles.php" class="btn btn-primary form-control">Create Article.xml file</a>
+                    <a href="./generate-articles.php" class="btn btn-primary form-control">Create Articles.xml file</a>
                 </div>
             </div>
         </form>
