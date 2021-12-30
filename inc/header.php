@@ -1,7 +1,9 @@
 <?php
+    require_once $_SERVER['DOCUMENT_ROOT']."/"."admin/articlePhrase.php";  
     require_once $_SERVER['DOCUMENT_ROOT']."/"."admin/functions.php";  
-    $rec = getTitle($_SERVER['REQUEST_URI']);
     $p = explode('/',$_SERVER['REQUEST_URI']);
+    if($p[1] == 'articles' || $p[1] == 'trips')
+        $rec = getTitle();
     $title = null;
     $desc = null;
 

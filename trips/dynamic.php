@@ -2,14 +2,8 @@
     require_once $_SERVER['DOCUMENT_ROOT']."/"."inc/header.php"; 
     require_once $_SERVER['DOCUMENT_ROOT']."/"."admin/tripsPhrase.php"; 
 
-    $address = $_GET['url'];
-    if(substr($address,-4) != ".php"){
-        echo "Invalid Address.";
-        die();
-    }
-   
-    $readers = new getTrip($_SERVER['DOCUMENT_ROOT']."/".'/admin/assets/locations.xml');
-    $records = $readers->setUrl($address)->getResults();
+    $readers = new getTrip();
+    $records = $readers->getResults();
     foreach($records as $key => $rec):
 ?>
 
@@ -25,15 +19,11 @@
                         <div class="caption-image">
                             <img src="/images/<?php echo $rec->image; ?>.webp" alt="" class="img-fluid">;
                             <div class="caption-screen">
-                                <!-- <h2><?php echo $rec->criteria; ?></h2> -->
-                                <!-- <h2><?php echo (!empty($rec->city) ? $rec->city : (!empty($rec->state) ? $rec->state : $rec->country)); ?></h2> -->
-                                <h2><?php echo $rec->place; ?></h2>
+                               <h2><?php echo $rec->place; ?></h2>
                             </div>
                         </div> 
                         <?php else: ?>
                             <div class="caption-screen mb-1" style="position:initial;">
-                                <!-- <h2><?php echo $rec->criteria; ?></h2> -->
-                                <!-- <h2><?php echo (!empty($rec->city) ? $rec->city : (!empty($rec->state) ? $rec->state : $rec->country)); ?></h2> -->
                                 <h2><?php echo $rec->place; ?></h2>
                             </div>
                         <?php endif;?>
@@ -62,14 +52,30 @@
                     <P></P>
                     <div class="col-12">
                         <div class="areas mb-3">
-                            <?php echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? $rec->country:"").":</h5> ".$rec->areas.""; ?>
+                            <?php echo "<h5>Boating Areas in ".(!empty($rec->city) ? $rec->city.", ":"").(!empty($rec->state) ? $rec->state.", ":"").(!empty($rec->country) ? "<a href='/trips/".strtolower(str_replace(' ','-',$rec->country)).".php' target='_blank'>".$rec->country."</a>":"").":</h5> ".$rec->areas.""; ?>
                         </div>
                     </div>
-                <?php elseif(strpos($rec->criteria,",")): ?>
+                <?php 
+                    elseif(strpos($rec->criteria,",")): 
+                    $addr = explode(',',$rec->criteria);
+                    $addr1 = '<a href="/trips'.'/'.strtolower(str_replace(' ','-',trim($addr[count($addr)-1]))).'.php" target=_"blank">'.$addr[count($addr)-1].'</a>';
+                    $linkaddr = "";
+                    switch(count($addr)){
+                        case 2:     // country and state or city;
+                            $linkaddr.= $addr[0].', '.$addr1;
+                            break;
+                        case 3: // country, state and city;
+                            $linkaddr.= $addr[0].', '.$addr[1].', '.$addr1;
+                            break;
+                        default:
+                            $linkaddr.= $addr1;
+                    }
+                ?>
+                    
                     <P></P>
                     <div class="col-12">
                         <div class="areas mb-3">
-                            <?php echo "<h5>Vacation Spot: ".$rec->criteria; ?>
+                            <?php echo "<h5>Vacation Spot: ".$linkaddr."<h5>"; ?>
                         </div>
                     </div>
                 <?php endif; ?>

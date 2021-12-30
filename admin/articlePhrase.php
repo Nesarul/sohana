@@ -1,6 +1,5 @@
 <?php
     class artNode{
-        private static $_instance = null;
         private $_xml = null,
                 $_php = null,
                 $_key = null,
@@ -9,8 +8,14 @@
                 $_results = null,
                 $_errors = null;
 
-        private function __construct($phpFile){
-            $this->_arr = explode("/",$phpFile);
+        protected function __construct(){
+            $address = "$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+            if(substr($address,-4) != ".php"){
+                echo "Invalid Address.";
+                die();
+            }
+            
+            $this->_arr = explode("/",$address);
             $this->setSection();
             $this->setFile();
             try{
@@ -20,23 +25,20 @@
                 print "Error!: " . $e->getMessage() . "<br/>";
                 die();
             }
+            return $this;
         }
-        public static function getInstance($file){
-            if(!isset(self::$_instance))
-                self::$_instance = new artNode($file);
-            return self::$_instance;
-        }
-        public function getResults(){
+
+        protected function getResults(){
             if($this->_php){
                 $path = ($this->_sec == 'articles' ? '//dest/link[contains(text()':'//location/link2[contains(text()');
                 $this->_results = $this->_xml->xpath("$path, '$this->_php')]/parent::*");
             }
             return $this->_results;
         }
-        protected function setSection(){
+        private function setSection(){
             if(count($this->_arr) > 2) $this->_sec = $this->_arr[1];
         }
-        protected function setFile(){
+        private function setFile(){
             if(count($this->_arr) > 2){
                 $file = $this->_arr[count($this->_arr)-1];
                 $this->_php = substr($file,0,-4);
@@ -46,7 +48,10 @@
             $srv = $_SERVER['DOCUMENT_ROOT'].'/'."admin/assets/".($this->_sec == "articles" ? 'articles.xml':'locations.xml');
             return $srv;
         }
-        public function getXml(){
+        protected function getXml(){
             return $this->_xml;
+        }
+        protected function getArray(){
+            return $this->_arr;
         }
     };
