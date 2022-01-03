@@ -1,7 +1,9 @@
 <?php
-    require_once("./articlePhrase.php");
-    $trips = artNode::getInstance("/trips/united-states/alaska.php")->getXml();
-    
+    require_once("./tripsPhrase.php");
+    $ar = new getTrip();
+    $ar->setUrl('localhost/trips/allt.php');
+    $trips = $xml = $ar->getAll();
+
     $xml = new DOMDocument();
     $xml->formatOutput = true;
 

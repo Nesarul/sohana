@@ -1,7 +1,11 @@
 <?php
-    require_once("./articlePhrase.php");
-    $articles = artNode::getInstance("/articles/boat-jokes.php")->getXml();
-   
+    // require_once("./articlePhrase.php");
+    require_once("./tripsPhrase.php");
+    // $articles = artNode::getInstance("/articles/boat-jokes.php")->getXml();
+    $ar = new getTrip();
+    $ar->setUrl('localhost/articles/all-you-need-to-know-about-getting-married-on-a-yacht.php');
+    $articles = $ar->getAll();
+
     $xml = new DOMDocument();
     $xml->formatOutput = true;
 

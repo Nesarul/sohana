@@ -1,4 +1,5 @@
 <?php
+    require_once $_SERVER['DOCUMENT_ROOT']."/"."admin/articlePhrase.php";  
     class getTrip extends artNode{
 
         private $_xml = null,
@@ -13,10 +14,15 @@
        
         public function setUrl($address) {
             $this->_url = $address;
+            $this->setAddress($this->_url);
             return $this;
         }
-       
+        public function getAll(){
+            return $this->getXml();
+        }
         public function getResults(){
+            if($this->_url != null)
+                $this->_p->setAddress($this->_url);
             $ar = $this->_p->getArray(); 
             $records = 0;
             if($ar[1] === 'trips'){
