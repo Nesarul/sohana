@@ -21,6 +21,8 @@
 		<areas></areas>
 		<criteria>Fiji</criteria>
 		<ViatorURL>https://www.viator.com/Fiji-tours/Cruises-Sailing-and-Water-Tours/d23-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Croatia</city>
@@ -43,6 +45,8 @@
 		<areas></areas>
 		<criteria>Croatia</criteria>
 		<ViatorURL>https://www.viator.com/Croatia-tours/Cruises-Sailing-and-Water-Tours/d730-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -50,7 +54,7 @@
 		<country>Galapagos Islands</country>
 		<image>Galapagos-Islands</image>
 		<place>Galapagos Islands</place>
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>When it comes to visiting and exploring the Galapagos Islands in the Pacific Ocean, the best way to experience it is through a private yacht, and there are no two ways about it.</p>
 			<p>This volcanic archipelago is known for its magnificent volcanic formations, crystal clear blue waters, exotic marine life, and beautifully colored sandy beaches.</p>
@@ -65,6 +69,8 @@
 		<areas></areas>
 		<criteria>Galapagos Islands</criteria>
 		<ViatorURL>https://www.viator.com/Galapagos-Islands-tours/Cruises-Sailing-and-Water-Tours/d936-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -86,6 +92,8 @@
 		<areas>Anchorage, Seward, Homer, Whittier, Sterling, Halibut Cove, Wasilla, Skwentna, Cooper Landing, Willow, Kenai, Butte, Soldotna, Palmer, and Ninilchik.</areas>
 		<criteria>Alaska, United States</criteria>
 		<ViatorURL>https://www.viator.com/Alaska-tours/Cruises-Sailing-and-Water-Tours/d270-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -109,6 +117,8 @@
 		<areas></areas>
 		<criteria>Bahamas</criteria>
 		<ViatorURL>https://www.viator.com/Bahamas-tours/Cruises-Sailing-and-Water-Tours/d29-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -131,6 +141,8 @@
 		<areas></areas>
 		<criteria>Thailand</criteria>
 		<ViatorURL>https://www.viator.com/Thailand-tours/Cruises-Sailing-and-Water-Tours/d20-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sicily</city>
@@ -152,6 +164,8 @@
 		<areas></areas>
 		<criteria>Sicily, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Sicily-tours/Cruises-Sailing-and-Water-Tours/d205-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -173,6 +187,8 @@
 		<areas></areas>
 		<criteria>Costa Rica</criteria>
 		<ViatorURL>https://www.viator.com/Costa-Rica-tours/Cruises-Sailing-and-Water-Tours/d747-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -180,7 +196,7 @@
 		<country>United States</country>
 		<image>New-England</image>	
 		<place>New England</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>If you are looking to get away from the hustle and bustle of your city, one of the best and most relaxing getaways you can consider spending is in New England.</p>
 			<p>Located in the Northeastern region of the United States, this charming yacht destination is the place to go if you want to learn more about colonial history and witness one-of-a-kind lush forests, sand dunes, tranquil bays, ambient ports, and much more.</p>
@@ -196,6 +212,8 @@
 		<areas></areas>
 		<criteria>New England, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Balearic Islands</city>
@@ -219,6 +237,8 @@
 		<areas></areas>
 		<criteria>Balearic Islands, Spain</criteria>
 		<ViatorURL>https://www.viator.com/Balearic-Islands-tours/Cruises-Sailing-and-Water-Tours/d229-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Santorini</city>
@@ -240,6 +260,8 @@
 		<areas></areas>
 		<criteria>Santorini, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Santorini-tours/Cruises-Sailing-and-Water-Tours/d959-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -261,6 +283,8 @@
 		<areas></areas>
 		<criteria>French Riviera, France</criteria>
 		<ViatorURL>https://www.viator.com/French-Riviera-tours/Cruises-Sailing-and-Water-Tours/d179-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -282,6 +306,8 @@
 		<areas></areas>
 		<criteria>British Virgin Islands</criteria>
 		<ViatorURL>https://www.viator.com/British-Virgin-Islands-tours/Cruises-Sailing-and-Water-Tours/d809-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -305,6 +331,8 @@
 		<areas></areas>
 		<criteria>Corsica, France</criteria>
 		<ViatorURL>https://www.viator.com/Corsica-tours/Cruises-Sailing-and-Water-Tours/d4799-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -326,6 +354,8 @@
 		<areas></areas>
 		<criteria>Turkey</criteria>
 		<ViatorURL>https://www.viator.com/Turkey-tours/Cruises-Sailing-and-Water-Tours/d70-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Corfu</city>
@@ -347,6 +377,8 @@
 		<areas></areas>
 		<criteria>Corfu, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Corfu-tours/Cruises-Sailing-and-Water-Tours/d4279-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Monaco</city>
@@ -370,6 +402,8 @@
 		<areas></areas>
 		<criteria>Monaco, French Riviera, France</criteria>
 		<ViatorURL>https://www.viator.com/Monaco-tours/Cruises-Sailing-and-Water-Tours/d948-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -389,6 +423,8 @@
 		<areas></areas>
 		<criteria>Seychelles</criteria>
 		<ViatorURL>https://www.viator.com/Seychelles-tours/Cruises-Sailing-and-Water-Tours/d4868-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -410,6 +446,8 @@
 		<areas></areas>
 		<criteria>Italy</criteria>
 		<ViatorURL>https://www.viator.com/Italy-tours/Cruises-Sailing-and-Water-Tours/d57-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -417,7 +455,7 @@
 		<country>Tahiti</country>
 		<image>Tahiti</image>	
 		<place>Tahiti</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>A great jewel of the South Pacific, with natural beauty waiting to be explored and waters yet to be discovered. Tahiti is a luxurious South Pacific island that lies halfway between California and Australia.</p>
 			<p>One of the ideal ways to explore this island and its surrounding splendor is none other than a luxury yacht charter vacation where you will also get to capture its romance and beauty in real-time. Tahiti surely isn't your average vacation spot, but it's a true paradise surrounded by surging rivers, gushing waterfalls, ribbons of coral reefs and multiple layers of rainforests.</p>
@@ -429,7 +467,9 @@
 		<link2>tahiti</link2>
 		<areas></areas>
 		<criteria>Tahiti</criteria>
-		<ViatorURL>https://www.viator.com/Scotland-tours/Cruises-Sailing-and-Water-Tours/d732-g3?sortType=price_desc</ViatorURL>
+		<ViatorURL>https://www.viator.com/Tahiti/d25-ttd?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -452,6 +492,8 @@
 		<areas></areas>
 		<criteria>Malaysia</criteria>
 		<ViatorURL>https://www.viator.com/Malaysia-tours/Cruises-Sailing-and-Water-Tours/d17-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -473,6 +515,8 @@
 		<areas>Miami, Fort Lauderdale, Clearwater, Hollywood, Tampa, Miami Beach, St. Petersburg, Sarasota, Destin, Key Largo, Jupiter, Naples, Daytona Beach, Plantation, Cape Coral, Panama City, Delray Beach, Boca Raton, Holiday, Jacksonville, Deerfield Beach, Sunny Isles Beach, Riviera Beach, Denia Beach, Aventura, Merritt Beach, Islamorada, Pompano Beach, Marco Island, Fernandina Beach, Sebastian, Leesburg, Madiera Beach, Palm Beach Gardens, Bradenton, Niceville,  Key Biscayne, Sebring, St. Augustine, Nokomis, Tarpon Springs, Cudjoe Key, Lighthouse Point, Brooksville, Palm Beach, The Florida Keys, Key Biscayne, Coral Gables, Clearwater Beach, West Palm Beach, Orlando, Pensacola, Gulf Breeze, Madeira Beach, Ruskin, Indian Rocks Beach, New Port Richey, Cocoa Beach, Palm Beach Shores, Palm Bay, Harbour Beach, Port St. Lucie, North Palm Beach, Boynton Beach, Crescent City, New Smyrna Beach, Hallandale Beach, Dania Beach, Miami Shores, Hialeah, Homestead, Hypoluxo, North Bay Village, Key West, Biscayne Bay, Tampa Bay, Fort Myers, Bal Harbour, Bushnell, Miami Bay, Fort Pierce, Hallandale, Saint Augustine, Fort Myers Beach, St Lucie River (Stuart), Lake Mary, Merritt Island, Umatilla, and Sanibel Island.</areas>
 		<criteria>Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Florida-tours/Cruises-Sailing-and-Water-Tours/d276-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -493,7 +537,9 @@
 		<link2>us-virgin-islands</link2>
 		<areas></areas>
 		<criteria>US Virgin Islands</criteria>
-		<ViatorURL>https://www.viator.com/US-Virgin-Islands-tours/Cruises-Sailing-and-Water-Tours/d40-g3?sortType=price_desc</ViatorURL>
+		<ViatorURL>https://www.viator.com/US-Virgin-Islands/d40-ttd</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Milos</city>
@@ -516,6 +562,8 @@
 		<areas></areas>
 		<criteria>Milos, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Milos-tours/Cruises-Sailing-and-Water-Tours/d22323-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nantucket</city>
@@ -539,6 +587,8 @@
 		<areas></areas>
 		<criteria>Nantucket, Massachusetts, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -561,6 +611,8 @@
 		<areas></areas>
 		<criteria>Cuba</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -583,6 +635,8 @@
 		<areas></areas>
 		<criteria>Indonesia</criteria>
 		<ViatorURL>https://www.viator.com/Indonesia-tours/Cruises-Sailing-and-Water-Tours/d15-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -603,6 +657,8 @@
 		<areas></areas>
 		<criteria>China</criteria>
 		<ViatorURL>https://www.viator.com/China-tours/Cruises-Sailing-and-Water-Tours/d13-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -624,6 +680,8 @@
 		<areas></areas>
 		<criteria>Belize</criteria>
 		<ViatorURL>https://www.viator.com/Belize-City-tours/Cruises-Sailing-and-Water-Tours/d5094-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cannes</city>
@@ -644,6 +702,8 @@
 		<areas></areas>
 		<criteria>Cannes, French Riviera, France</criteria>
 		<ViatorURL>https://www.viator.com/Cannes-tours/Cruises-Sailing-and-Water-Tours/d786-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ibiza</city>
@@ -665,6 +725,8 @@
 		<areas></areas>
 		<criteria>Ibiza, Spain</criteria>
 		<ViatorURL>https://www.viator.com/Ibiza-tours/Cruises-Sailing-and-Water-Tours/d4217-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -686,6 +748,8 @@
 		<areas></areas>
 		<criteria>Grenada</criteria>
 		<ViatorURL>https://www.viator.com/Grenada-tours/Cruises-Sailing-and-Water-Tours/d967-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -705,6 +769,8 @@
 		<areas></areas>
 		<criteria>Australia</criteria>
 		<ViatorURL>https://www.viator.com/Australia-tours/Cruises-Sailing-and-Water-Tours/d22-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Crete</city>
@@ -727,6 +793,8 @@
 		<areas></areas>
 		<criteria>Crete, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Crete-tours/Cruises-Sailing-and-Water-Tours/d960-g3?sortType=price_asc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -734,7 +802,7 @@
 		<country>France</country>
 		<image>French-West-Indies</image>	
 		<place>French West Indies</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>If you are looking for a distinctively unique yacht charter experience, French West Indies will be your perfect destination!</p>
 			<p>This wonderful part of the Caribbean is made up of the gorgeous islands of Martinique, Dominica, Guadeloupe, and Isle de Saints, all of which offer a uniquely exclusive experience. As the name suggests, it also boasts a distinctive French culture that is worth visiting and exploring.</p>
@@ -749,6 +817,8 @@
 		<areas></areas>
 		<criteria>French West Indies, France</criteria>
 		<ViatorURL>https://www.viator.com/France-tours/Cruises-Sailing-and-Water-Tours/d51-g3?sortType=price_desc</ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -766,6 +836,8 @@
 		<areas></areas>
 		<criteria>Malta</criteria>
 		<ViatorURL>https://www.viator.com/Malta-tours/Cruises-Sailing-and-Water-Tours/d4141-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -786,6 +858,8 @@
 		<areas></areas>
 		<criteria>Windward Islands</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -805,6 +879,8 @@
 		<areas></areas>
 		<criteria>Red Sea</criteria>
 		<ViatorURL>https://www.viator.com/Red-Sea-tours/Cruises-Sailing-and-Water-Tours/d24735-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Miami</city>
@@ -826,6 +902,8 @@
 		<areas></areas>
 		<criteria>Miami, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Miami-tours/Cruises-Sailing-and-Water-Tours/d662-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Martinique</city>
@@ -848,6 +926,8 @@
 		<areas></areas>
 		<criteria>Martinique, France</criteria>
 		<ViatorURL>https://www.viator.com/Martinique-tours/Cruises-Sailing-and-Water-Tours/d4316-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Costa Smeralda</city>
@@ -870,6 +950,8 @@
 		<areas></areas>
 		<criteria>Costa Smeralda, Sardinia, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Sardinia-tours/Cruises-Sailing-and-Water-Tours/d24293-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -893,6 +975,8 @@
 		<areas></areas>
 		<criteria>Dominica</criteria>
 		<ViatorURL>https://www.viator.com/Dominica-tours/Cruises-Sailing-and-Water-Tours/d814-g3?sortType=price_desc</ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -912,6 +996,8 @@
 		<areas></areas>
 		<criteria>Greece</criteria>
 		<ViatorURL>https://www.viator.com/Greece-tours/Cruises-Sailing-and-Water-Tours/d53-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -934,6 +1020,8 @@
 		<areas></areas>
 		<criteria>Norway</criteria>
 		<ViatorURL>https://www.viator.com/Norway-tours/Cruises-Sailing-and-Water-Tours/d61-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -955,6 +1043,8 @@
 		<areas></areas>
 		<criteria>Singapore</criteria>
 		<ViatorURL>https://www.viator.com/Singapore-tours/Cruises-Sailing-and-Water-Tours/d18-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>San Francisco</city>
@@ -978,6 +1068,8 @@
 		<areas></areas>
 		<criteria>San Francisco, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/San-Francisco-tours/Cruises-Sailing-and-Water-Tours/d651-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -985,7 +1077,7 @@
 		<country>New Zealand</country>
 		<image>New-Zealand</image>	
 		<place>New Zealand</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<P>Explore the unexplored hidden treasures as you charter your yacht through the wonderful waters of New Zealand!</P>
 			<P>The vibrant and beautiful country is filled with abundant opportunities for adventure, relaxation, and exploration. With lush forests, warm and sandy beaches, semi-tropical lakes, dormant volcanoes, and gorgeous mountains, there is definitely something for everyone in this unique island country. And there is no better way to discover all of these than with a private yacht charter.</P>
@@ -1000,6 +1092,8 @@
 		<areas></areas>
 		<criteria>New Zealand</criteria>
 		<ViatorURL>https://www.viator.com/New-Zealand-tours/Cruises-Sailing-and-Water-Tours/d24-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1020,6 +1114,8 @@
 		<areas></areas>
 		<criteria>Ionian Islands, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Ionian-Islands-tours/Cruises-Sailing-and-Water-Tours/d4277-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sardinia</city>
@@ -1042,6 +1138,8 @@
 		<areas></areas>
 		<criteria>Sardinia, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Sardinia-tours/Cruises-Sailing-and-Water-Tours/d24293-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1063,6 +1161,8 @@
 		<areas></areas>
 		<criteria>Canary Islands</criteria>
 		<ViatorURL>https://www.viator.com/Canary-Islands-tours/Cruises-Sailing-and-Water-Tours/d231-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1084,6 +1184,8 @@
 		<areas></areas>
 		<criteria>Turquoise Coast, Turkey</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1104,6 +1206,8 @@
 		<areas></areas>
 		<criteria>Saint Martin</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Boston</city>
@@ -1124,7 +1228,9 @@
 		<link2>boston</link2>
 		<areas></areas>
 		<criteria>Boston, Massachusetts, United States</criteria>
-		<ViatorURL>https://www.viator.com/Boston-tours/Cruises-Sailing-and-Water-Tours/d678-g3?sortType=price_desc</ViatorURL>
+		<ViatorURL>https://www.viator.com/Boston-tours/Day-Cruises/d678-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1146,6 +1252,8 @@
 		<areas></areas>
 		<criteria>France</criteria>
 		<ViatorURL>https://www.viator.com/France-tours/Cruises-Sailing-and-Water-Tours/d51-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1169,6 +1277,8 @@
 		<areas></areas>
 		<criteria>Maine, United States</criteria>
 		<ViatorURL>https://www.viator.com/Maine-tours/Cruises-Sailing-and-Water-Tours/d21458-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>New Caledonia</city>
@@ -1190,6 +1300,8 @@
 		<areas></areas>
 		<criteria>New Caledonia, France</criteria>
 		<ViatorURL>https://www.viator.com/New-Caledonia-tours/Cruises-Sailing-and-Water-Tours/d4776-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1211,6 +1323,8 @@
 		<areas></areas>
 		<criteria>Tonga</criteria>
 		<ViatorURL>https://www.viator.com/Tongatapu-Island-tours/Cruises-Sailing-and-Water-Tours/d50472-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Dubai</city>
@@ -1233,6 +1347,8 @@
 		<areas></areas>
 		<criteria>Dubai, United Arab Emirates</criteria>
 		<ViatorURL>https://www.viator.com/Dubai-tours/Cruises-Sailing-and-Water-Tours/d828-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1254,6 +1370,8 @@
 		<areas></areas>
 		<criteria>Maldives</criteria>
 		<ViatorURL>https://www.viator.com/Maldives-tours/Cruises-Sailing-and-Water-Tours/d4672-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Vancouver</city>
@@ -1276,6 +1394,8 @@
 		<areas></areas>
 		<criteria>Vancouver, British Columbia, Canada</criteria>
 		<ViatorURL>https://www.viator.com/Vancouver-tours/Cruises-Sailing-and-Water-Tours/d616-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1298,6 +1418,8 @@
 		<areas></areas>
 		<criteria>Sri Lanka</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1320,6 +1442,8 @@
 		<areas></areas>
 		<criteria>Iceland</criteria>
 		<ViatorURL>https://www.viator.com/Iceland-tours/Cruises-Sailing-and-Water-Tours/d55-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1339,6 +1463,8 @@
 		<areas></areas>
 		<criteria>Japan</criteria>
 		<ViatorURL>https://www.viator.com/Japan-tours/Cruises-Sailing-and-Water-Tours/d16-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lelepa</city>
@@ -1357,6 +1483,8 @@
 		<areas></areas>
 		<criteria>Lelepa, Vanuatu</criteria>
 		<ViatorURL>https://www.viator.com/Vanuatu-tours/Cruises-Sailing-and-Water-Tours/d4772-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Rhodes</city>
@@ -1378,6 +1506,8 @@
 		<areas></areas>
 		<criteria>Rhodes, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Rhodes-tours/Cruises-Sailing-and-Water-Tours/d4272-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1398,6 +1528,8 @@
 		<areas></areas>
 		<criteria>Panama Canal, Panama</criteria>
 		<ViatorURL>https://www.viator.com/Panama-tours/Cruises-Sailing-and-Water-Tours/d749-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Newport</city>
@@ -1405,7 +1537,7 @@
 		<country>United States</country>
 		<image>Newport</image>	
 		<place>Newport</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>Looking for a low-key but luxurious destination for your next yacht charter experience? Perhaps Rhode Island might appeal to you.</p>
 			<p>A State in New England, Rhode Island is known for its stunning white sandy beaches, quaint little towns, and coastal cities. The best way to explore this state is through a luxury yacht charter experience starting from Newport.</p>
@@ -1419,6 +1551,8 @@
 		<areas></areas>
 		<criteria>Newport, Rhode Island, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Whitsunday Islands</city>
@@ -1441,6 +1575,8 @@
 		<areas></areas>
 		<criteria>Whitsunday Islands, Australia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1448,7 +1584,7 @@
 		<country>United States</country>
 		<image>Chesapeake-Bay</image>	
 		<place>Chesapeake Bay</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>If tranquility is what you're seeking on your next yacht charter experience, then look no further than the peaceful Chesapeake Bay!</p>
 			<p>Stretching over 6 states: Maryland, New York, Pennsylvania, Delaware, Virginia and West Virginia, plus the District of Columbia, it is home to many famous writers and sailors who gush about this Bay endlessly. Besides the tranquility and stunning views, Chesapeake Bay also offers an intriguing history dating back to colonial and civil war times.</p>
@@ -1462,6 +1598,8 @@
 		<areas></areas>
 		<criteria>Chesapeake Bay, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1483,7 +1621,9 @@
 		<link2>scotland</link2>
 		<areas></areas>
 		<criteria>Scotland</criteria>
-		<ViatorURL>https://www.viator.com/Scotland-tours/Cruises-Sailing-and-Water-Tours/d732-g3/5?sortType=price_desc</ViatorURL>
+		<ViatorURL>https://www.viator.com/Scotland-tours/Cruises-Sailing-and-Water-Tours/d732-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1491,7 +1631,7 @@
 		<country>Bermuda</country>
 		<image>Bermuda</image>	
 		<place>Bermuda</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>A little oasis of paradise, Bermuda should definitely be at the top of places to visit on your next luxury yacht charter.</p>
 			<p>Bermuda is often mistaken as being part of the Caribbean when it's not. In fact, it is hundreds of miles away from there. Bermuda is a British island territory that is not that far from the East coast of America. You can easily reach this stunning destination via a two-hour flight from there.</p>
@@ -1506,6 +1646,8 @@
 		<areas></areas>
 		<criteria>Bermuda</criteria>
 		<ViatorURL>https://www.viator.com/Bermuda-tours/Cruises-Sailing-and-Water-Tours/d966-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Boracay</city>
@@ -1527,6 +1669,8 @@
 		<areas></areas>
 		<criteria>Boracay, Philippines</criteria>
 		<ViatorURL>https://www.viator.com/Boracay-tours/Cruises-Sailing-and-Water-Tours/d4821-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1547,14 +1691,16 @@
 		<areas></areas>
 		<criteria>Italian Coast, Italy</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cooper Island</city>
 		<state></state>
-		<country>British Virgin Islands</country>
+		<country>British lands</country>
 		<image>Cooper-Island</image>	
 		<place>Cooper Island</place>	
-		<search>boat</search>
+		<search></search>
 		<text>
 			<p>Previously known as Bergen Island, Cooper Island is a stunning, small island of the British Virgin Islands in the Caribbean. It's the perfect spot for yacht charters to stop over and explore its ultimate beauty and scenic views.</p>
 			<p>While you are on your luxury charter yacht vacation, you must stop at Cooper Island Beach Club for either lunch or an overnight stay.</p>
@@ -1568,6 +1714,8 @@
 		<areas></areas>
 		<criteria>Cooper Island, British Virgin Islands</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1588,6 +1736,8 @@
 		<areas></areas>
 		<criteria>The Cook Islands</criteria>
 		<ViatorURL>https://www.viator.com/Cook-Islands-tours/Cruises-Sailing-and-Water-Tours/d4788-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1609,6 +1759,8 @@
 		<areas></areas>
 		<criteria>Bora Bora</criteria>
 		<ViatorURL>https://www.viator.com/Bora-Bora-tours/Cruises-Sailing-and-Water-Tours/d5180-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1631,6 +1783,8 @@
 		<areas></areas>
 		<criteria>Ireland</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ross Sea</city>
@@ -1651,6 +1805,8 @@
 		<areas></areas>
 		<criteria>Ross Sea, Antarctica</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1673,6 +1829,8 @@
 		<areas></areas>
 		<criteria>Madagascar</criteria>
 		<ViatorURL>https://www.viator.com/Madagascar-tours/Cruises-Sailing-and-Water-Tours/d4733-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>0</showGetYourGuide>
 	</location>
 	<location>
 		<city>Borneo</city>
@@ -1694,6 +1852,8 @@
 		<areas></areas>
 		<criteria>Borneo, Kota Kinabalu, Malaysia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Seattle</city>
@@ -1715,6 +1875,8 @@
 		<areas></areas>
 		<criteria>Seattle, Washington, United States</criteria>
 		<ViatorURL>https://www.viator.com/Seattle-tours/Cruises-Sailing-and-Water-Tours/d704-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Catalina Island</city>
@@ -1722,7 +1884,7 @@
 		<country>United States</country>
 		<image>Catalina-Island</image>	
 		<place>Catalina Island</place>	
-		<search>boat</search>
+		<search>CA</search>
 		<text>
 			<p>If you are in search of a fantastic vacation with the whole family, Catalina Island should be at the top of your list.</p>
 			<p>Just 20 miles off the coast of Los Angeles, this beautiful island is a haven for boat life as it offers natural harbors, stunning views, and unique wildlife. On this island, you can find tons of exciting activities and adventures for all ages.</p>
@@ -1737,6 +1899,8 @@
 		<areas></areas>
 		<criteria>Catalina Island, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/Catalina-Island-tours/Water-Sports/d24024-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Maui</city>
@@ -1759,6 +1923,8 @@
 		<areas></areas>
 		<criteria>Maui, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Maui-tours/Cruises-Sailing-and-Water-Tours/d671-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bar Harbor</city>
@@ -1780,6 +1946,8 @@
 		<areas></areas>
 		<criteria>Bar Harbor, Maine, United States</criteria>
 		<ViatorURL>https://www.viator.com/Bar-Harbor-tours/Water-Sports/d4371-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1801,6 +1969,8 @@
 		<areas></areas>
 		<criteria>St. Barts</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>0</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Copenhagen</city>
@@ -1822,6 +1992,8 @@
 		<areas></areas>
 		<criteria>Copenhagen, Denmark</criteria>
 		<ViatorURL>https://www.viator.com/Copenhagen-tours/Cruises-Sailing-and-Water-Tours/d463-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1843,6 +2015,8 @@
 		<areas></areas>
 		<criteria>Qatar</criteria>
 		<ViatorURL>https://www.viator.com/Qatar-tours/Cruises-Sailing-and-Water-Tours/d4452-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1864,6 +2038,8 @@
 		<areas></areas>
 		<criteria>Mauritius</criteria>
 		<ViatorURL>https://www.viator.com/Mauritius-tours/Cruises-Sailing-and-Water-Tours/d4463-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Mumbai</city>
@@ -1886,6 +2062,8 @@
 		<areas></areas>
 		<criteria>Mumbai, India</criteria>
 		<ViatorURL>https://www.viator.com/Mumbai-tours/Cruises-Sailing-and-Water-Tours/d953-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Seward</city>
@@ -1902,6 +2080,8 @@
 		<areas></areas>
 		<criteria>Seward, Alaska, United States</criteria>
 		<ViatorURL>https://www.viator.com/Seward-tours/Cruises-Sailing-and-Water-Tours/d4368-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Juneau</city>
@@ -1918,6 +2098,8 @@
 		<areas></areas>
 		<criteria>Juneau, Alaska, United States</criteria>
 		<ViatorURL>https://www.viator.com/Juneau-tours/Cruises-Sailing-and-Water-Tours/d941-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Anchorage</city>
@@ -1934,6 +2116,8 @@
 		<areas></areas>
 		<criteria>Anchorage, Alaska, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1950,6 +2134,8 @@
 		<areas>Lake Havasu City, Peoria, Phoenix, Morristown, Sun City, Mesa, Page, Gilbert, Surprise, Bullhead City, Mohave Valley, Chandler, Queen Creek, Kingman, Willow Beach, Tempe, Vail, Sierra Vista, Wickenburg, Marana, Lake Pleasant, Lake Havasu, Lake Saguaro, Lake Mead, Peoria, Bartlett Lake, Parker, Glendale, and Apache Lake.</areas>
 		<criteria>Arizona, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Phoenix</city>
@@ -1966,6 +2152,8 @@
 		<areas></areas>
 		<criteria>Phoenix, Arizona, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -1982,6 +2170,8 @@
 		<areas></areas>
 		<criteria>California, United States</criteria>
 		<ViatorURL>https://www.viator.com/California-tours/Sunset-Cruises/d272-g3-c5638?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Monterey Bay</city>
@@ -1998,6 +2188,8 @@
 		<areas>San Francisco, Newport Beach, Santa Barbara, Marina del Rey, Oxnard, Los Angeles, Sacramento, Folsom, San Diego, Long Beach, Discovery Bay, Oakland, Santa Rosa, Huntington Beach, Hilmar, Tahoe City, Rancho Cucamonga, Angels Camp, La Grange, Castro Valley, Marin County, Irvine, Riverside, Richmond, Menifee, San Mateo, Glendale, Sausalito, Mission Viejo, Oceanside, Rio Linda, Oakley, Bakersfield, Wildomar, Torrance, Alameda, National City, Dollar Point, Ione, South Lake Tahoe, Redondo Beach, Stockton, Murrieta, Dana Point, Berkeley, Vacaville, Copperopolis, Monrovia, Concord, Modesto, Canyon Lake, San Joe, Truckee, Fresno, Antioch, Roseville, Bethel Island, Peteluma, Santa Cruz, Castaic, Spring Valley, El Dorado Hills, Bass Lake, Bradley, Cerritos, Emeryville, Placerville, Rocklin, Pamona, Big Bear Lake, Yuba City, Shasta Lake, Catalina, Lake Tahoe, Napa Valley, Wishon, Millerton Lake, Coronado, Lake Tulloch, Folsom Lake, Fontana, Donner Lake (Truckee), Benicia, Santa Catalina Island, Redding, Corona, Sanger, Carson, Castaic Lake, San Joaquin River, Novato, Lake Elsinore, Pine Flat Lake, Silverwood Lake, San Juan Capistrano, Don Pedro Reservoir, Lake Mead, Lake Pyramid (Castaic), Lake Piru, Lake Paris, Redwood National Park, Culver City, Lake Paris (Riverside), Seal Beach, Chula Vista, Camanche Lake, Hawthorne, Melones Lake, Vaellejo, Moreno Valley, Lewiston, Kernville, Janesville, Morro Bay, Palmdale, Douglas City, Lake Shasta, San Dimas, Lake Berryessa, Blue Lake, Laguna Hills, Winters, Simi Valley, Fairfield, Walnut Creek, Redwood City, Monterey, San Jose, San Bernardino, North Highlands, and Lake McClure (La Grange).</areas>
 		<criteria>Monterey Bay, California, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>South Lake Tahoe</city>
@@ -2014,6 +2206,8 @@
 		<areas></areas>
 		<criteria>South Lake Tahoe, California, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>San Diego</city>
@@ -2030,6 +2224,8 @@
 		<areas></areas>
 		<criteria>San Diego, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/San-Diego-tours/Water-Sports/d736-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sacramento</city>
@@ -2046,6 +2242,8 @@
 		<areas></areas>
 		<criteria>Sacramento, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/Sacramento-tours/Cruises-Sailing-and-Water-Tours/d22319-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Newport Beach</city>
@@ -2062,6 +2260,8 @@
 		<areas></areas>
 		<criteria>Newport Beach, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/Newport-Beach-tours/Cruises-Sailing-and-Water-Tours/d26104-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Los Angeles</city>
@@ -2078,6 +2278,8 @@
 		<areas></areas>
 		<criteria>Los Angeles, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/Los-Angeles-tours/Cruises-Sailing-and-Water-Tours/d645-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Long Beach</city>
@@ -2094,6 +2296,8 @@
 		<areas></areas>
 		<criteria>Long Beach, California, United States</criteria>
 		<ViatorURL>https://www.viator.com/Long-Beach-tours/Cruises-Sailing-and-Water-Tours/d5409-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Orlando</city>
@@ -2110,6 +2314,8 @@
 		<areas></areas>
 		<criteria>Orlando, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Orlando-tours/Cruises-Sailing-and-Water-Tours/d663-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Marco Island</city>
@@ -2126,6 +2332,8 @@
 		<areas></areas>
 		<criteria>Marco Island, Florida, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Fort Lauderdale</city>
@@ -2142,6 +2350,8 @@
 		<areas></areas>
 		<criteria>Fort Lauderdale, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Fort-Lauderdale-tours/Cruises-Sailing-and-Water-Tours/d660-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Clearwater Beach</city>
@@ -2158,6 +2368,8 @@
 		<areas></areas>
 		<criteria>Clearwater Beach, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Clearwater-tours/Cruises-Sailing-and-Water-Tours/d22457-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Homosassa</city>
@@ -2174,6 +2386,8 @@
 		<areas></areas>
 		<criteria>Homosassa, Florida, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Everglades</city>
@@ -2190,6 +2404,8 @@
 		<areas></areas>
 		<criteria>Everglades, Florida, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Madeira Beach</city>
@@ -2206,6 +2422,8 @@
 		<areas></areas>
 		<criteria>Madeira Beach, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Madeira-tours/Cruises-Sailing-and-Water-Tours/d5392-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Tampa Bay</city>
@@ -2222,6 +2440,8 @@
 		<areas></areas>
 		<criteria>Tampa Bay, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Tampa-tours/Cruises-Sailing-and-Water-Tours/d666-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Fort Myers Beach</city>
@@ -2238,6 +2458,8 @@
 		<areas></areas>
 		<criteria>Fort Myers Beach, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Fort-Myers-tours/Cruises-Sailing-and-Water-Tours/d5196-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Key West</city>
@@ -2254,6 +2476,8 @@
 		<areas></areas>
 		<criteria>Key West, Florida, United States</criteria>
 		<ViatorURL>https://www.viator.com/Key-West-tours/Cruises-Sailing-and-Water-Tours/d661-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2270,6 +2494,8 @@
 		<areas>Lavonia, Fitzgerald, Bishop, Statesboro, Covington, Bainbridge, Waleska, Sylvester, Gainesville, Morganton, Dawsonville, Cumming, Griffin, Acworth, Flowery Branch, Lagrange, Buford, Reed Creek, Milledgaville, Hoschton, St. Simons Island, Midway, Mableton, Dalton, Fair Play, Cartersville, Douglasville, St. Marys, Dallas, Eatonton, Oakwood, Atlanta, Lake Lanier (Gainesville), Lake Murray, Lake Hartwell, Lake Allatoona, Lake Wateree, Lake Sinclair, Lavonia, Anderson, Jonesboro, Rutledge, Savannah, Gainesville (Lake Lanier), and Dawsonville (Lake Lanier).</areas>
 		<criteria>Georgia, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Savannah</city>
@@ -2286,6 +2512,8 @@
 		<areas></areas>
 		<criteria>Savannah, Georgia, United States</criteria>
 		<ViatorURL>https://www.viator.com/Savannah-tours/Day-Cruises/d5166-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2302,6 +2530,8 @@
 		<areas>Honolulu (Oahu), Lahaina (Maui), Kapolei, Waialua, Kaneohe, Waianae, Kailua-Kona, Kauai, Lahaina, Waikiki, Big Island, Kewalo Harbour, Maui, Molokai, Lanai, Halwiwa, North Kona, Ko'Olina, Glacier Bay (Kapaa), Kaanapali Beach, Puako, Waianae (Oahu), Kihei (Maui), Kealakekua, and Captain Cook.</areas>
 		<criteria>Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Hawaii-tours/Cruises-Sailing-and-Water-Tours/d278-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Honolulu</city>
@@ -2318,6 +2548,8 @@
 		<areas></areas>
 		<criteria>Honolulu, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Honolulu-tours/Cruises-Sailing-and-Water-Tours/d59070-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lahaina</city>
@@ -2334,6 +2566,8 @@
 		<areas></areas>
 		<criteria>Lahaina, Hawaii, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Oahu</city>
@@ -2350,6 +2584,8 @@
 		<areas></areas>
 		<criteria>Oahu, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Oahu-tours/Cruises-Sailing-and-Water-Tours/d672-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Big Island</city>
@@ -2364,6 +2600,8 @@
 		<areas></areas>
 		<criteria>Big Island, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Big-Island-of-Hawaii-tours/Cruises-Sailing-and-Water-Tours/d669-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kona</city>
@@ -2378,6 +2616,8 @@
 		<areas></areas>
 		<criteria>Kona, Hawaii, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kauai</city>
@@ -2392,6 +2632,8 @@
 		<areas></areas>
 		<criteria>Kauai, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Kauai-tours/Cruises-Sailing-and-Water-Tours/d670-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hilo</city>
@@ -2407,6 +2649,8 @@
 		<areas></areas>
 		<criteria>Hilo, Hawaii, United States</criteria>
 		<ViatorURL>https://www.viator.com/Hilo-tours/Cruises-Sailing-and-Water-Tours/d51004-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Waikiki</city>
@@ -2421,6 +2665,8 @@
 		<areas></areas>
 		<criteria>Waikiki, Hawaii, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2435,6 +2681,8 @@
 		<areas>Chicago, Antioch, Ingleside, Olympia Fields, Fox Lake, Wauconda, Loves Park, Taylorville, Bolingbrook, Oak Brook, Itasca, Normal, Johnsburg, Ottowa, Sullivan Township, Annawan, Algonquin, Burnham, Dahlgren, Morton, Lake Michigan, Chicago River, and Calumet River.</areas>
 		<criteria>Illinois, United States</criteria>
 		<ViatorURL>https://www.viator.com/Illinois-tours/Cruises-Sailing-and-Water-Tours/d22032-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Chicago</city>
@@ -2449,6 +2697,8 @@
 		<areas></areas>
 		<criteria>Chicago, Illinois, United States</criteria>
 		<ViatorURL>https://www.viator.com/Chicago-tours/Cruises-Sailing-and-Water-Tours/d673-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2463,6 +2713,8 @@
 		<areas>New Orleans, Madisonville, Slidell, Sulphur, Marrero, Kenner, Morgan City, Terrytown, Chalmette, Lafayette, Lake Pontchartrain, Breaux Bridge, Grand Isle, Dularge, Springfield, Venice, Myrtle Grove, Delacroix, Lafitte, and Hopedale.</areas>
 		<criteria>Louisiana, United States</criteria>
 		<ViatorURL>https://www.viator.com/Louisiana-tours/Cruises-Sailing-and-Water-Tours/d22168-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>New Orleans</city>
@@ -2477,6 +2729,8 @@
 		<areas></areas>
 		<criteria>New Orleans, Louisiana, United States</criteria>
 		<ViatorURL>https://www.viator.com/New-Orleans-tours/Cruises-Sailing-and-Water-Tours/d675-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2491,6 +2745,8 @@
 		<areas>Baltimore, Annapolis, Pasadena, Galesville, Chester, Edgewater, Solomons, Saint Michaels, and Pasadena (Chesapeake Bay).</areas>
 		<criteria>Maryland, United States</criteria>
 		<ViatorURL>https://www.viator.com/Maryland-tours/Water-Sports/d282-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Washington DC</city>
@@ -2505,6 +2761,8 @@
 		<areas></areas>
 		<criteria>Washington DC, Maryland, United States</criteria>
 		<ViatorURL>https://www.viator.com/Washington-DC-tours/Cruises-Sailing-and-Water-Tours/d657-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2519,6 +2777,8 @@
 		<areas>Boston, Nantucket, Hyannis, Chatham, Plymouth, Quincy, Beverly, Provincetown, Falmouth, Marlbehead, Scituate, Hull, Barnstable, Tisbury, Yarmouth, New Bedford, Dennis, Martha's Vineyard, Newburyport, Fairhaven, Winthrop, Andover, Haverhill, Weston, Essex, Salem, Groveland, Hingham, Manchester-By-The-Sea, Southwick, Wales, Marblehead, Gloucester, Lynn, Revere, Osterville, Wellfleet, Truro, Bourne, Boston Harbor, and Cape Cod.</areas>
 		<criteria>Massachusetts, United States</criteria>
 		<ViatorURL>https://www.viator.com/Massachusetts-tours/Cruises-Sailing-and-Water-Tours/d22172-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2533,6 +2793,8 @@
 		<areas>Toms River, Lavallette, Ocean City, Berkeley Township, Princeton, Beach Haven, Point Pleasant, Ship Bottom, Brick Township, Somers Point, Lacey Township, Sea Bright, Union Beach, Brielle, Long Port, Highlands, Red Bank, Island Heights, Monmouth Beach, Galloway, Barnegat Township, Brigantine, Atlantic Highlands, Northfield, Jersey City, Alpine, Englewood Cliffs, Belmar, Keyport, Lanoka Harbor, Weehawken, Bordentown, Hoboken, Perth Amboy, Avalon, Atlantic City, Long Beach Island, Manasquan, Long Branch,  Rumson, Seaside Heights, Barnegat Bay, Point Pleasant Beach, Leonardo, and Englewood Cliffs (Hudson River).</areas>
 		<criteria>New Jersey, United States</criteria>
 		<ViatorURL>https://www.viator.com/Jersey-City-tours/Cruises-Sailing-and-Water-Tours/d24760-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cape May</city>
@@ -2547,6 +2809,8 @@
 		<areas></areas>
 		<criteria>Cape May, New Jersey, United States</criteria>
 		<ViatorURL>https://www.viator.com/Cape-May-tours/Cruises-Sailing-and-Water-Tours/d33066-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>New York City</city>
@@ -2561,6 +2825,8 @@
 		<areas>New York Harbor, Brooklyn, Port Washington, East Rockaway, New Rochelle, Queens, The Bronx, Staten Island, Long Island, Buffalo, Grand Island, New York City, NY Harbor, Jamaica Bay, Howard Beach, Hudson River, Long Island Sound, East Hampton, Sag Harbor, Montauk, Manhattan, Glen Cove, Mattituck (North Fork), Shelter Island, Port Chester, Jamesport, Southampton, Greenport, Hampton Bays, Patchogue, Sayville, Bay Shore, Northport, Bellport, Moriches, Huntington, Kingston, Mahopac, Peekskill, Nyack, Piermont, Freeport, Saugerties, and Green Point (Long Island).</areas>
 		<criteria>New York City, New York, United States</criteria>
 		<ViatorURL>https://www.viator.com/New-York-City-tours/Cruises-Sailing-and-Water-Tours/d687-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2575,6 +2841,8 @@
 		<areas>Wilmington, Atlantic Beach, Charlotte, Raleigh, Fayetteville, Mooresville, Chapel Hill, Wrightsville Beach, Washington, Monroe, Greensboro, Morehead City, New London, Hubert, Swan Quarter, Merritt, Nebo, Cornelius, Littleton, Southport, Lake Lure, Rocky Point, Huntersville, Shallotte, Sherrills Ford, Leland, Statesville, Wilson, Beaufort, Denver, Topton, Greenville, Newport, Wake Forest, New Bern, Sneads Ferry, Lake Norman of Catawba, Robbinsville, Semora, Lincolnton, Bah, High Point, Iron Station, Belmont, Jacksonville, Apex, Hertford, Elkin, Roxboro, Wanchese, Carolina Beach, Mount Gilead,  Holden Beach, Richfield, Durham, Kill Devil Hills, Hampstead, Bath, Mount Holly, Brogden, Lake Lanier, Hatteras, Falls Lake, Emerald Isle, Lake Norman, Mountain Island Lake, Lake Murray, Lake Wylie, Lake Keowee, Lake Hartwell, Aberdeen, Ayden, Clarks Hill Lake, Lake Hickory, Nags Head (Outer Banks), Manteo, Salisbury, Morehead, North Topsail Beach, Moyock, Lake Rhodhiss, Davidson, and Charlotte (Mountain Island Lake).</areas>
 		<criteria>North Carolina, United States</criteria>
 		<ViatorURL>https://www.viator.com/North-Carolina-tours/Water-Tours/d5283-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Outer Banks</city>
@@ -2589,6 +2857,8 @@
 		<areas></areas>
 		<criteria>Outer Banks, North Carolina, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2603,6 +2873,8 @@
 		<areas>Columbus, Akron, Cincinnati, Toledo, Lewis Center, Port Clinton, Streetsboro, Thornville, Vermilion, Tallmadge, Conneaut, Batavia, North Royalton, Columbus (Alum Creek Lake), Cleveland, Jamestown, Mentor, Sheffield Lake, Lake Erie, Warren, Oak Harbor, Kellys Island, Ashtabula, Napoleon, Lakeside Marblehead, Grand River, Westlake, Rocky River, and Belleview (Lake Erie/Sandusky Bay).</areas>
 		<criteria>Ohio, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cincinnati</city>
@@ -2617,6 +2889,8 @@
 		<areas></areas>
 		<criteria>Cincinnati, Ohio, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2631,6 +2905,8 @@
 		<areas>Portland, Beaverton, Treasure Valley, Bend, Newport, St. Helens, Oakridge, Astoria, Elkton, Springfield, Maupin, Ashland, Keizer, McMinnville, Sisters, Columbia River, Willamette River, Tillamook Bay, Pacific City, Eugene, Cascade Locks, Hermistan, and Adrian.</areas>
 		<criteria>Oregon, United States</criteria>
 		<ViatorURL>https://www.viator.com/Oregon-tours/Cruises-Sailing-and-Water-Tours/d5064-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cascade Locks</city>
@@ -2645,6 +2921,8 @@
 		<areas></areas>
 		<criteria>Cascade Locks, Oregon, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Portland</city>
@@ -2659,6 +2937,8 @@
 		<areas></areas>
 		<criteria>Portland, Oregon, United States</criteria>
 		<ViatorURL>https://www.viator.com/Portland-tours/Day-Cruises/d5065-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2673,6 +2953,8 @@
 		<areas></areas>
 		<criteria>Pennsylvania, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Philadelphia</city>
@@ -2687,6 +2969,8 @@
 		<areas>Pittsburgh, Conneaut, Lakeville, McKeesport, Plum, Greentown, Blakeslee, Easton, Saylorsburg, Bird In Hand, Emmaus, Lake Erie, Paupack (Lake Wallenpaupack), Harveys Lake, Great Bend Township, Westfield, Hesston (Raystown Lake), Conneaut Lake, Philadelphia, and Erie.</areas>
 		<criteria>Philadelphia, Pennsylvania, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2701,6 +2985,8 @@
 		<areas>Newport, Narragansett, Portsmouth, Providence, Barrington, North Kingstown, Coventry, South Kingstown, Westerly, East Greenwich, Wickford, Jamestown, Cranston, Warwick, and Bristol.</areas>
 		<criteria>Rhode Island, United States</criteria>
 		<ViatorURL>https://www.viator.com/Rhode-Island-tours/Cruises-Sailing-and-Water-Tours/d5266-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2715,6 +3001,8 @@
 		<areas>Myrtle Beach, Charleston, Hilton Head Island, Augusta, Lake Wylie, Anderson, Greensville, Tega Cay, Mount Pleasant, Ladson, Salem, Clover, Shallotte, Johns Island, Saint Helena Island, North, Goose Creek, McCormick, Rock Hill, Fair Play, Greer, Edgefield, Compobello, Monks Corner, Bluffton, Conway, Bishop, Camden, Townville, Somerville, Lavonia, Chapin, Lancaster, Columbia, Folly Beach, Lake Murray, North Myrtle Beach, Low Country, Lake Wando, Wylie, Mt. Pleasant, Lake Keowee, Lake Oconee, Lake Hartwell, Lake Wateree, Hooley Island, Lake Sinclair, Little River, Lake Jocassee, Six Mile, Lexington (Lake Murray), Appling, McIntyre, Edisto Island, Lake Russel, Anderson (Lake Hartwell), and Eutawville (Lake Marion).</areas>
 		<criteria>South Carolina, United States</criteria>
 		<ViatorURL>https://www.viator.com/South-Carolina-tours/Sailing-Trips/d294-g3-c10?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Charleston</city>
@@ -2729,6 +3017,8 @@
 		<areas></areas>
 		<criteria>Charleston, South Carolina, United States</criteria>
 		<ViatorURL>https://www.viator.com/Charleston-tours/Cruises-Sailing-and-Water-Tours/d4384-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hilton Head Island</city>
@@ -2743,6 +3033,8 @@
 		<areas></areas>
 		<criteria>Hilton Head Island, South Carolina, United States</criteria>
 		<ViatorURL>https://www.viator.com/Hilton-Head-Island-tours/Cruises-Sailing-and-Water-Tours/d31480-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2757,6 +3049,8 @@
 		<areas>Nashville, Knoxville, Dandridge, Chattanooga, Hendersonville, Winchester, Harrison, New Tazewell, Mt. Juliet, Andersonville, Powell, Soddy-Daisy, Maynardville, Sharps Chapel, Robbinsville, Lebanon, Cleveland, Silver Point, Byrdstown, Hendersonville (Old Hickory Lake), Percy Priest Lake, Norris Lake, Dresden, Alpine, Guild, and Dandridge (Douglas Lake).</areas>
 		<criteria>Tennessee, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Pigeon Forge</city>
@@ -2771,6 +3065,8 @@
 		<areas></areas>
 		<criteria>Pigeon Forge, Tennessee, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nashville</city>
@@ -2785,6 +3081,8 @@
 		<areas></areas>
 		<criteria>Nashville, Tennessee, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2799,6 +3097,8 @@
 		<areas>Salt Lake City, Provo, Lehi, Sandy, Midway, Alpine, Spanish Fork, Orem, Herriman, St. George, South Jordan, Willard Bay, Yuba Lake, Harriman, Midvale, Dutch John (Green River), Eagle Mountain, Pleasant Grove,and Hurricane.</areas>
 		<criteria>Utah, United States</criteria>
 		<ViatorURL>https://www.viator.com/Utah-tours/Water-Sports/d785-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Moab</city>
@@ -2813,6 +3113,8 @@
 		<areas></areas>
 		<criteria>Moab, Utah, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2827,6 +3129,8 @@
 		<areas>Virginia Beach, Norfolk, Arlington, Alexandria, Chesapeake, Lynchburg, Woodbridge, Lorton, Fredericksville, Chantilly, Readville, Stafford, Bumpass, Mineral, White Post, Mechanicsville, Gloucester Point, Hampton, TappaHannock, Fort Belvior, Lake Gaston, Hartfield, and Yorktown.</areas>
 		<criteria>Virginia, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Norfolk</city>
@@ -2841,6 +3145,8 @@
 		<areas></areas>
 		<criteria>Norfolk, Virginia, United States</criteria>
 		<ViatorURL>https://www.viator.com/Norfolk-tours/Cruises-Sailing-and-Water-Tours/d22447-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2855,6 +3161,8 @@
 		<areas>Seattle, Olympia, Tacoma, Bellingham, Everett, Kirkland, Renton, Kent, Anacortes, Mead, Bellevue, Davenport, Menatchee, Auburn, Friday Harbor, Gig Harbor, Burien, Chelan, Kennewick, Bonney Lake, Vancouver, Ridgefield, Spokane County, Liberty Lake, Lynnwood, Quincy, Seatac, LA Conner, Bremerton, Des Moines, Ruston, Edmonds, Bainbridge Islands, Spanaway, Eastsound, Kenmore, Everette, San Juan Island, Lake Washington, Lake Union, Puget Sound, Lake Sammamish, St. Helens, Lake Tapps, Conner, Mercy Island, Leschi, Olga, Lake Chelan, Columbia River, Snohomish, Longview, Puyallup, Orcas Island, Clarkston, Metchosin, Astoria, Toledo, Sequim, Port Townsend Bay, and Belfair.</areas>
 		<criteria>Washington State, United States</criteria>
 		<ViatorURL>https://www.viator.com/Washington-tours/Sailing-Trips/d298-g3-c10?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -2869,6 +3177,8 @@
 		<areas>Jackson, Cheyenne, and Casper.</areas>
 		<criteria>Wyoming, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Jackson</city>
@@ -2883,6 +3193,8 @@
 		<areas></areas>
 		<criteria>Jackson, Wyoming, United States</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Puerto Vallarta</city>
@@ -2897,6 +3209,8 @@
 		<areas></areas>
 		<criteria>Puerto Vallarta, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Puerto-Vallarta-tours/Water-Sports/d630-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Naples</city>
@@ -2911,6 +3225,8 @@
 		<areas></areas>
 		<criteria>Naples, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Naples-tours/Cruises-Sailing-and-Water-Tours/d508-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Capri</city>
@@ -2924,7 +3240,9 @@
 		<link2>capri</link2>
 		<areas></areas>
 		<criteria>Capri, Italy</criteria>
-		<ViatorURL></ViatorURL>
+		<ViatorURL>https://www.viator.com/Capri-tours/Cruises-Sailing-and-Water-Tours/d4223-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Positano</city>
@@ -2939,6 +3257,8 @@
 		<areas></areas>
 		<criteria>Positano, Capri, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Capri-tours/Cruises-Sailing-and-Water-Tours/d4223-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Durban</city>
@@ -2953,6 +3273,8 @@
 		<areas></areas>
 		<criteria>Durban, South Africa</criteria>
 		<ViatorURL>https://www.viator.com/Durban-tours/Cruises-Sailing-and-Water-Tours/d315-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Amalfi Coast</city>
@@ -2967,6 +3289,8 @@
 		<areas></areas>
 		<criteria>Amalfi Coast, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Amalfi-tours/Cruises-Sailing-and-Water-Tours/d33601-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sorrento</city>
@@ -2981,6 +3305,8 @@
 		<areas></areas>
 		<criteria>Sorrento, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Sorrento-tours/Cruises-Sailing-and-Water-Tours/d947-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Salerno</city>
@@ -2995,6 +3321,8 @@
 		<areas></areas>
 		<criteria>Salerno, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Salerno-tours/Cruises-Sailing-and-Water-Tours/d4736-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ischia</city>
@@ -3009,6 +3337,8 @@
 		<areas></areas>
 		<criteria>Ischia, Italy</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Riga</city>
@@ -3023,6 +3353,8 @@
 		<areas></areas>
 		<criteria>Riga, Latvia</criteria>
 		<ViatorURL>https://www.viator.com/Riga-tours/Cruises-Sailing-and-Water-Tours/d4480-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cabo San Lucas</city>
@@ -3037,6 +3369,8 @@
 		<areas></areas>
 		<criteria>Cabo San Lucas, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Cabo-San-Lucas-tours/Day-Cruises/d50859-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Los Cabos</city>
@@ -3051,6 +3385,8 @@
 		<areas></areas>
 		<criteria>Los Cabos, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Los-Cabos-tours/Cruises-Sailing-and-Water-Tours/d627-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sao Paulo</city>
@@ -3065,6 +3401,8 @@
 		<areas></areas>
 		<criteria>Sao Paulo, Brazil</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Santos And Guaruja</city>
@@ -3079,6 +3417,8 @@
 		<areas></areas>
 		<criteria>Santos and Guaruja, Brazil</criteria>
 		<ViatorURL>https://www.viator.com/Santos-tours/Cruises-Sailing-and-Water-Tours/d4450-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -3094,6 +3434,8 @@
 		<areas></areas>
 		<criteria>St. Thomas, US Virgin Islands</criteria>
 		<ViatorURL>https://www.viator.com/St-Thomas-tours/Cruises-Sailing-and-Water-Tours/d965-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -3108,6 +3450,8 @@
 		<areas></areas>
 		<criteria>Saint Thomas, US Virgin Islands</criteria>
 		<ViatorURL>https://www.viator.com/St-Thomas-tours/Cruises-Sailing-and-Water-Tours/d965-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cancun</city>
@@ -3122,6 +3466,8 @@
 		<areas></areas>
 		<criteria>Cancun, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Cancun-tours/Cruises-Sailing-and-Water-Tours/d631-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sydney</city>
@@ -3136,6 +3482,8 @@
 		<areas></areas>
 		<criteria>Sydney, Australia</criteria>
 		<ViatorURL>https://www.viator.com/Sydney-tours/Cruises-Sailing-and-Water-Tours/d357-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Mu Ko Ang Thong</city>
@@ -3150,6 +3498,8 @@
 		<areas></areas>
 		<criteria>Mu Ko Ang Thong, Thailand</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Algarve</city>
@@ -3164,6 +3514,8 @@
 		<areas></areas>
 		<criteria>Algarve, Portugal</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Split</city>
@@ -3178,6 +3530,8 @@
 		<areas></areas>
 		<criteria>Split, Croatia</criteria>
 		<ViatorURL>https://www.viator.com/Split-tours/Cruises-Sailing-and-Water-Tours/d4185-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Vodice</city>
@@ -3192,6 +3546,8 @@
 		<areas></areas>
 		<criteria>Vodice, Croatia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kornati National Park</city>
@@ -3206,6 +3562,8 @@
 		<areas></areas>
 		<criteria>Kornati National Park, Croatia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Niagara Falls</city>
@@ -3220,6 +3578,8 @@
 		<areas></areas>
 		<criteria>Niagara Falls, New York</criteria>
 		<ViatorURL>https://www.viator.com/Niagara-Falls-tours/Water-Tours/d23183-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kyiv</city>
@@ -3234,6 +3594,8 @@
 		<areas></areas>
 		<criteria>Kyiv, Ukraine</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kapisillit</city>
@@ -3248,20 +3610,8 @@
 		<areas></areas>
 		<criteria>Kapisillit, Greenland</criteria>
 		<ViatorURL></ViatorURL>
-	</location>
-	<location>
-		<city>Adeje</city>
-		<state></state>
-		<country>Canary Islands</country>
-		<image>Adeje</image>	
-		<place>Adeje</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>adeje</link2>
-		<areas></areas>
-		<criteria>Adeje, Canary Islands</criteria>
-		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Tenerife</city>
@@ -3275,7 +3625,9 @@
 		<link2>tenerife</link2>
 		<areas></areas>
 		<criteria>Tenerife, Canary Islands</criteria>
-		<ViatorURL>https://www.viator.com/Tenerife-tours/Sailing-Trips/d5404-g3-c10?sortType=price_desc</ViatorURL>
+		<ViatorURL>https://www.viator.com/Tenerife-tours/Cruises-Sailing-and-Water-Tours/d5404-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -3297,6 +3649,8 @@
 		<areas></areas>
 		<criteria>Antigua</criteria>
 		<ViatorURL>https://www.viator.com/Antigua-tours/Sailing-Trips/d22046-g3-c10?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Playa del Carmen</city>
@@ -3312,6 +3666,8 @@
 		<areas></areas>
 		<criteria>Playa del Carmen, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Playa-del-Carmen-tours/Cruises-Sailing-and-Water-Tours/d5501-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Barcelona</city>
@@ -3326,6 +3682,8 @@
 		<areas></areas>
 		<criteria>Barcelona, Spain</criteria>
 		<ViatorURL>https://www.viator.com/Barcelona-tours/Cruises-Sailing-and-Water-Tours/d562-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Calgiari</city>
@@ -3340,6 +3698,8 @@
 		<areas></areas>
 		<criteria>Calgiari, Italy</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Fajardo</city>
@@ -3354,6 +3714,8 @@
 		<areas></areas>
 		<criteria>Fajardo, Puerto Rico, United States</criteria>
 		<ViatorURL>https://www.viator.com/Fajardo-tours/Cruises-Sailing-and-Water-Tours/d23854-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Willemstad</city>
@@ -3368,6 +3730,8 @@
 		<areas></areas>
 		<criteria>Willemstad, Curacao</criteria>
 		<ViatorURL>https://www.viator.com/Willemstad-tours/Cruises-Sailing-and-Water-Tours/d50233-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kassandra</city>
@@ -3382,6 +3746,8 @@
 		<areas></areas>
 		<criteria>Kassandra, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Chios</city>
@@ -3396,6 +3762,8 @@
 		<areas></areas>
 		<criteria>Chios, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Brussels</city>
@@ -3410,6 +3778,8 @@
 		<areas></areas>
 		<criteria>Brussels, Belgium</criteria>
 		<ViatorURL>https://www.viator.com/Brussels-tours/Cruises-Sailing-and-Water-Tours/d458-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Gent</city>
@@ -3424,6 +3794,8 @@
 		<areas></areas>
 		<criteria>Gent, Belgium</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Reykjavik</city>
@@ -3438,6 +3810,8 @@
 		<areas></areas>
 		<criteria>Reykjavik, Iceland</criteria>
 		<ViatorURL>https://www.viator.com/Reykjavik-tours/Cruises-Sailing-and-Water-Tours/d905-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nuuk</city>
@@ -3452,6 +3826,8 @@
 		<areas></areas>
 		<criteria>Nuuk, Greenland</criteria>
 		<ViatorURL>https://www.viator.com/Nuuk-tours/Water-Tours/d4495-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Fuengirola</city>
@@ -3466,6 +3842,8 @@
 		<areas></areas>
 		<criteria>Fuengirola, Spain</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Marsa Alam</city>
@@ -3480,6 +3858,8 @@
 		<areas></areas>
 		<criteria>Marsa Alam, Red Sea, Egypt</criteria>
 		<ViatorURL>https://www.viator.com/Marsa-Alam-tours/Cruises-Sailing-and-Water-Tours/d25556-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nikiti</city>
@@ -3494,6 +3874,8 @@
 		<areas></areas>
 		<criteria>Nikiti, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Phuket</city>
@@ -3508,6 +3890,8 @@
 		<areas></areas>
 		<criteria>Phuket, Thailand</criteria>
 		<ViatorURL>https://www.viator.com/Phuket-tours/Cruises-Sailing-and-Water-Tours/d349-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Jokulsarlon Glacier Lagoon</city>
@@ -3522,6 +3906,8 @@
 		<areas></areas>
 		<criteria>Jokulsarlon Glacier Lagoon, Iceland</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bayahibe</city>
@@ -3529,13 +3915,15 @@
 		<country>Dominican Republic</country>
 		<image>Bayahibe</image>	
 		<place>Bayahibe</place>	
-		<search>boat</search>
+		<search></search>
 		<text></text>	
 		<link></link>
 		<link2>bayahibe</link2>
 		<areas></areas>
 		<criteria>Bayahibe, Cotubanama National Park, Dominican Republic</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Punta Cana</city>
@@ -3550,6 +3938,8 @@
 		<areas></areas>
 		<criteria>Punta Cana, Dominican Republic</criteria>
 		<ViatorURL>https://www.viator.com/Punta-Cana-tours/Cruises-Sailing-and-Water-Tours/d794-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -3565,6 +3955,8 @@
 		<areas></areas>
 		<criteria>Venice, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Venice-tours/Cruises-Sailing-and-Water-Tours/d522-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nice</city>
@@ -3579,6 +3971,8 @@
 		<areas></areas>
 		<criteria>Nice, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Nice-tours/Cruises-Sailing-and-Water-Tours/d478-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Beaulieu</city>
@@ -3593,6 +3987,8 @@
 		<areas></areas>
 		<criteria>Beaulieu, French Riviera, Italy</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Koh Samui</city>
@@ -3607,6 +4003,8 @@
 		<areas></areas>
 		<criteria>Koh Samui, Thailand</criteria>
 		<ViatorURL>https://www.viator.com/Koh-Samui-tours/Cruises-Sailing-and-Water-Tours/d347-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ponta Delgada</city>
@@ -3621,6 +4019,8 @@
 		<areas></areas>
 		<criteria>Ponta Delgada, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Ponta-Delgada-tours/Water-Sports/d22380-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hurghada</city>
@@ -3635,6 +4035,8 @@
 		<areas></areas>
 		<criteria>Hurghada, Red Sea, Egypt</criteria>
 		<ViatorURL>https://www.viator.com/Hurghada-tours/Cruises-Sailing-and-Water-Tours/d800-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Phi Phi</city>
@@ -3649,6 +4051,8 @@
 		<areas></areas>
 		<criteria>Phi Phi, Thailand</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bamboo Island</city>
@@ -3663,6 +4067,8 @@
 		<areas></areas>
 		<criteria>Bamboo Island, Thailand</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Riviera Maya</city>
@@ -3677,6 +4083,8 @@
 		<areas></areas>
 		<criteria>Riviera Maya, Mexico</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kas</city>
@@ -3691,6 +4099,8 @@
 		<areas></areas>
 		<criteria>Kas, Turkey</criteria>
 		<ViatorURL>https://www.viator.com/Kas-tours/Cruises-Sailing-and-Water-Tours/d22558-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Portofino</city>
@@ -3705,6 +4115,8 @@
 		<areas></areas>
 		<criteria>Portofino, Algarve, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Portofino-tours/Cruises-Sailing-and-Water-Tours/d4232-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Tiran Island</city>
@@ -3719,6 +4131,8 @@
 		<areas></areas>
 		<criteria>Tiran Island, Egypt</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ras Muhammad National Park</city>
@@ -3733,6 +4147,8 @@
 		<areas></areas>
 		<criteria>Ras Muhammad National Park, Egypt</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 
@@ -3749,6 +4165,8 @@
 		<areas></areas>
 		<criteria>Cagliari, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Cagliari-tours/Water-Tours/d4229-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Puerto Aventuras</city>
@@ -3763,6 +4181,8 @@
 		<areas></areas>
 		<criteria>Puerto Aventuras, Mexico</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Athens</city>
@@ -3777,6 +4197,8 @@
 		<areas></areas>
 		<criteria>Athens, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Athens-tours/Cruises-Sailing-and-Water-Tours/d496-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Toronto</city>
@@ -3791,6 +4213,8 @@
 		<areas></areas>
 		<criteria>Toronto, Ontario, Canada</criteria>
 		<ViatorURL>https://www.viator.com/Toronto-tours/Night-Cruises/d623-g3-c9?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Dubrovnik</city>
@@ -3805,6 +4229,8 @@
 		<areas></areas>
 		<criteria>Dubrovnik, Croatia</criteria>
 		<ViatorURL>https://www.viator.com/Dubrovnik-tours/Cruises-Sailing-and-Water-Tours/d904-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Adamas</city>
@@ -3819,6 +4245,8 @@
 		<areas></areas>
 		<criteria>Adamas, Cyclades, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cape Town</city>
@@ -3833,6 +4261,8 @@
 		<areas></areas>
 		<criteria>Cape Town, South Africa</criteria>
 		<ViatorURL>https://www.viator.com/Cape-Town-tours/Cruises-Sailing-and-Water-Tours/d318-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Vancouver Island</city>
@@ -3847,6 +4277,8 @@
 		<areas></areas>
 		<criteria>Vancouver Island, Telegraph Cave, Canada</criteria>
 		<ViatorURL>https://www.viator.com/Vancouver-Island-tours/Cruises-Sailing-and-Water-Tours/d30423-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Queenstown</city>
@@ -3861,6 +4293,8 @@
 		<areas></areas>
 		<criteria>Queenstown, New Zealand</criteria>
 		<ViatorURL>https://www.viator.com/Queenstown-tours/Cruises-Sailing-and-Water-Tours/d407-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Zurich</city>
@@ -3875,6 +4309,8 @@
 		<areas></areas>
 		<criteria>Zurich, Switzerland</criteria>
 		<ViatorURL>https://www.viator.com/Zurich-tours/Cruises-Sailing-and-Water-Tours/d577-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Geneva</city>
@@ -3889,6 +4325,8 @@
 		<areas></areas>
 		<criteria>Geneva, Switzerland</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Interlaken</city>
@@ -3903,6 +4341,8 @@
 		<areas></areas>
 		<criteria>Interlaken, Switzerland</criteria>
 		<ViatorURL>https://www.viator.com/Interlaken-tours/Cruises-Sailing-and-Water-Tours/d5011-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lindos</city>
@@ -3917,6 +4357,8 @@
 		<areas></areas>
 		<criteria>Lindos, Island of Rhodes, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kekova</city>
@@ -3931,6 +4373,8 @@
 		<areas></areas>
 		<criteria>Kekova, Turkey</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Trou dEau Douce</city>
@@ -3945,6 +4389,8 @@
 		<areas></areas>
 		<criteria>Trou dEau Douce, Mauritius</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ile Aux Benitiers</city>
@@ -3959,6 +4405,8 @@
 		<areas></areas>
 		<criteria>Ile Aux Benitiers, Mauritius</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cambrils</city>
@@ -3973,6 +4421,8 @@
 		<areas></areas>
 		<criteria>Cambrils, Costa Dorada, Spain</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Quarteira</city>
@@ -3987,6 +4437,8 @@
 		<areas></areas>
 		<criteria>Quarteira, Algarve, Portugal</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Mallorca</city>
@@ -4001,6 +4453,8 @@
 		<areas></areas>
 		<criteria>Mallorca, Palma Bay, Spain</criteria>
 		<ViatorURL>https://www.viator.com/Mallorca-tours/Cruises-Sailing-and-Water-Tours/d955-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Alcudia</city>
@@ -4015,6 +4469,8 @@
 		<areas></areas>
 		<criteria>Alcudia, Balearic Islands, Spain</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bergen</city>
@@ -4029,6 +4485,8 @@
 		<areas></areas>
 		<criteria>Bergen, Norway</criteria>
 		<ViatorURL>https://www.viator.com/Bergen-tours/Cruises-Sailing-and-Water-Tours/d4318-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Haleiwa</city>
@@ -4043,6 +4501,8 @@
 		<areas></areas>
 		<criteria>Haleiwa, Oahu, Hawaii</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Philipsburg</city>
@@ -4057,6 +4517,8 @@
 		<areas></areas>
 		<criteria>Philipsburg, St. Martin</criteria>
 		<ViatorURL>https://www.viator.com/Philipsburg-tours/Water-Tours/d5627-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Fuerteventura</city>
@@ -4071,6 +4533,8 @@
 		<areas></areas>
 		<criteria>Fuerteventura, Lobos Island, Canary Islands</criteria>
 		<ViatorURL>https://www.viator.com/Fuerteventura-tours/Cruises-Sailing-and-Water-Tours/d5582-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Naxos</city>
@@ -4085,6 +4549,8 @@
 		<areas></areas>
 		<criteria>Naxos, Cyclades, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Naxos-tours/Cruises-Sailing-and-Water-Tours/d50250-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Luxor</city>
@@ -4099,6 +4565,8 @@
 		<areas></areas>
 		<criteria>Luxor, Egypt</criteria>
 		<ViatorURL>https://www.viator.com/Luxor-tours/Cruises-Sailing-and-Water-Tours/d826-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Mykonos</city>
@@ -4113,6 +4581,8 @@
 		<areas></areas>
 		<criteria>Mykonos, Cyclades, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Mykonos-tours/Cruises-Sailing-and-Water-Tours/d958-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -4128,6 +4598,8 @@
 		<areas></areas>
 		<criteria>Lisbon, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Lisbon-tours/Cruises-Sailing-and-Water-Tours/d538-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nikiti</city>
@@ -4142,6 +4614,8 @@
 		<areas></areas>
 		<criteria>Nikiti, Macedonia, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Oslo</city>
@@ -4156,6 +4630,8 @@
 		<areas></areas>
 		<criteria>Oslo, Bergen, Norway</criteria>
 		<ViatorURL>https://www.viator.com/Oslo-tours/Cruises-Sailing-and-Water-Tours/d902-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hvar</city>
@@ -4170,6 +4646,8 @@
 		<areas></areas>
 		<criteria>Hvar, Paklinski Islands, Croatia</criteria>
 		<ViatorURL>https://www.viator.com/Hvar-tours/Cruises-Sailing-and-Water-Tours/d22146-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Andratx</city>
@@ -4184,6 +4662,8 @@
 		<areas></areas>
 		<criteria>Andratx, Balearic Islands, Spain</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lake Como</city>
@@ -4198,6 +4678,8 @@
 		<areas></areas>
 		<criteria>Lake Como, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Lake-Como-tours/Cruises-Sailing-and-Water-Tours/d26113-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Makrys Gialos</city>
@@ -4212,6 +4694,8 @@
 		<areas></areas>
 		<criteria>Makrys Gialos, Crete, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Phnom Penh</city>
@@ -4226,6 +4710,8 @@
 		<areas></areas>
 		<criteria>Phnom Penh, Cambodia</criteria>
 		<ViatorURL>https://www.viator.com/Phnom-Penh-tours/Cruises-Sailing-and-Water-Tours/d5425-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Marseille</city>
@@ -4240,6 +4726,8 @@
 		<areas></areas>
 		<criteria>Marseille, Provence, France</criteria>
 		<ViatorURL>https://www.viator.com/Marseille-tours/Cruises-Sailing-and-Water-Tours/d485-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Puerto Plata</city>
@@ -4254,6 +4742,8 @@
 		<areas></areas>
 		<criteria>Puerto Plata, Dominican Republic</criteria>
 		<ViatorURL>https://www.viator.com/Puerto-Plata-tours/Cruises-Sailing-and-Water-Tours/d795-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Muscat</city>
@@ -4268,6 +4758,8 @@
 		<areas></areas>
 		<criteria>Muscat, Oman</criteria>
 		<ViatorURL>https://www.viator.com/Muscat-tours/Cruises-Sailing-and-Water-Tours/d4389-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Koh Phi Phi</city>
@@ -4282,6 +4774,8 @@
 		<areas></areas>
 		<criteria>Koh Phi Phi, Krabi, Thailand</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Zakinthos</city>
@@ -4296,6 +4790,8 @@
 		<areas></areas>
 		<criteria>Zakinthos, Ionian Islands, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cinque Terre</city>
@@ -4310,6 +4806,8 @@
 		<areas></areas>
 		<criteria>Cinque Terre, Tuscany, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Cinque-Terre-tours/Cruises-Sailing-and-Water-Tours/d22149-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lake Maggiore</city>
@@ -4324,6 +4822,8 @@
 		<areas></areas>
 		<criteria>Lake Maggiore, Piedmont, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Lake-Maggiore-tours/Cruises-Sailing-and-Water-Tours/d26112-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bari</city>
@@ -4338,6 +4838,8 @@
 		<areas></areas>
 		<criteria>Bari, Castellana Cave, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Bari-tours/Cruises-Sailing-and-Water-Tours/d4226-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Victoria</city>
@@ -4352,6 +4854,8 @@
 		<areas></areas>
 		<criteria>Victoria, Vancouver Island, Canada</criteria>
 		<ViatorURL>https://www.viator.com/Victoria-tours/Cruises-Sailing-and-Water-Tours/d617-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Moscow</city>
@@ -4366,6 +4870,8 @@
 		<areas></areas>
 		<criteria>Moscow, Russia</criteria>
 		<ViatorURL>https://www.viator.com/Moscow-tours/Day-Cruises/d5066-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Portimao</city>
@@ -4380,6 +4886,8 @@
 		<areas></areas>
 		<criteria>Portimao, Algarve, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Portimao-tours/Cruises-Sailing-and-Water-Tours/d4478-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Amsterdam</city>
@@ -4394,6 +4902,8 @@
 		<areas></areas>
 		<criteria>Amsterdam, Holland, Netherlands</criteria>
 		<ViatorURL>https://www.viator.com/Amsterdam-tours/Cruises-Sailing-and-Water-Tours/d525-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Faro</city>
@@ -4408,6 +4918,8 @@
 		<areas></areas>
 		<criteria>Faro, Algarve, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Faro-tours/Cruises-Sailing-and-Water-Tours/d23402-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Comino</city>
@@ -4422,6 +4934,8 @@
 		<areas></areas>
 		<criteria>Comino, Malta</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Port of Spain</city>
@@ -4436,6 +4950,8 @@
 		<areas></areas>
 		<criteria>Port of Spain, Trinidad and Tobago</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>La Crucecita</city>
@@ -4450,6 +4966,8 @@
 		<areas></areas>
 		<criteria>La Crucecita, Oxaca, Mexico</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Paris</city>
@@ -4464,6 +4982,8 @@
 		<areas></areas>
 		<criteria>Paris, France</criteria>
 		<ViatorURL>https://www.viator.com/Paris-tours/Cruises-Sailing-and-Water-Tours/d479-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Mazatlan</city>
@@ -4478,6 +4998,8 @@
 		<areas></areas>
 		<criteria>Mazatlan, Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Mazatlan-tours/Cruises-Sailing-and-Water-Tours/d4151-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Halkidiki</city>
@@ -4492,6 +5014,8 @@
 		<areas></areas>
 		<criteria>Halkidiki, Macedonia, Greece</criteria>
 		<ViatorURL>https://www.viator.com/Halkidiki-tours/Cruises-Sailing-and-Water-Tours/d27334-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bali</city>
@@ -4506,6 +5030,8 @@
 		<areas></areas>
 		<criteria>Bali, Komodo Island, Indonesia</criteria>
 		<ViatorURL>https://www.viator.com/Bali-tours/Cruises-Sailing-and-Water-Tours/d98-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -4520,6 +5046,8 @@
 		<areas></areas>
 		<criteria>St. Lucia</criteria>
 		<ViatorURL>https://www.viator.com/St-Lucia-tours/Cruises-Sailing-and-Water-Tours/d38-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Astypalea</city>
@@ -4534,6 +5062,8 @@
 		<areas></areas>
 		<criteria>Astypalea, Dodecanese, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nydri</city>
@@ -4548,6 +5078,8 @@
 		<areas></areas>
 		<criteria>Nydri, Ionian Islands, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hoi An</city>
@@ -4562,6 +5094,8 @@
 		<areas></areas>
 		<criteria>Hoi An, Vietnam</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Verona</city>
@@ -4576,6 +5110,8 @@
 		<areas></areas>
 		<criteria>Verona, Italy</criteria>
 		<ViatorURL>https://www.viator.com/Verona-tours/Cruises-Sailing-and-Water-Tours/d945-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Sao Miguel Island</city>
@@ -4590,6 +5126,8 @@
 		<areas></areas>
 		<criteria>Sao Miguel Island, Ponta Delgada, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Sao-Miguel-tours/Cruises-Sailing-and-Water-Tours/d50209-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Beijing</city>
@@ -4604,6 +5142,8 @@
 		<areas></areas>
 		<criteria>Beijing, China</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cairns</city>
@@ -4618,6 +5158,8 @@
 		<areas></areas>
 		<criteria>Cairns, Queensland, Australia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -4632,6 +5174,8 @@
 		<areas></areas>
 		<criteria>Curacao</criteria>
 		<ViatorURL>https://www.viator.com/Curacao-tours/Cruises-Sailing-and-Water-Tours/d725-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Albufeira</city>
@@ -4646,6 +5190,8 @@
 		<areas></areas>
 		<criteria>Albufeira, Algarve, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Albufeira-tours/Water-Sports/d22497-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>London</city>
@@ -4660,6 +5206,8 @@
 		<areas></areas>
 		<criteria>London, United Kingdom, England</criteria>
 		<ViatorURL>https://www.viator.com/London-tours/Cruises-Sailing-and-Water-Tours/d737-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cascais</city>
@@ -4674,6 +5222,8 @@
 		<areas></areas>
 		<criteria>Cascais, Lisbon, Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Cascais-tours/Cruises-Sailing-and-Water-Tours/d28587-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Istanbul</city>
@@ -4688,6 +5238,8 @@
 		<areas></areas>
 		<criteria>Istanbul, Turkey</criteria>
 		<ViatorURL>https://www.viator.com/Istanbul-tours/Cruises-Sailing-and-Water-Tours/d585-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kotor</city>
@@ -4702,6 +5254,8 @@
 		<areas></areas>
 		<criteria>Kotor, Montenegro</criteria>
 		<ViatorURL>https://www.viator.com/Kotor-tours/Cruises-Sailing-and-Water-Tours/d23078-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Khasab</city>
@@ -4716,6 +5270,8 @@
 		<areas></areas>
 		<criteria>Khasab, United Arab Emirates</criteria>
 		<ViatorURL>https://www.viator.com/Khasab-tours/Cruises-Sailing-and-Water-Tours/d33746-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Chalkidiki</city>
@@ -4730,6 +5286,8 @@
 		<areas></areas>
 		<criteria>Chalkidiki, Macedonia, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Vilamoura</city>
@@ -4744,6 +5302,8 @@
 		<areas></areas>
 		<criteria>Vilamoura, Algarve, Portugal</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ierapetra</city>
@@ -4758,6 +5318,8 @@
 		<areas></areas>
 		<criteria>Ierapetra, Crete, Greece</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -4773,6 +5335,8 @@
 		<areas></areas>
 		<criteria>St. Maarten</criteria>
 		<ViatorURL>https://www.viator.com/St-Maarten-tours/Cruises-Sailing-and-Water-Tours/d728-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Vigo</city>
@@ -4787,6 +5351,8 @@
 		<areas></areas>
 		<criteria>Vigo, Galicia, Spain</criteria>
 		<ViatorURL>https://www.viator.com/Vigo-tours/Cruises-Sailing-and-Water-Tours/d27330-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Douro River</city>
@@ -4801,6 +5367,8 @@
 		<areas></areas>
 		<criteria>Douro River, Portugal</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Port Bunarina</city>
@@ -4815,6 +5383,8 @@
 		<areas></areas>
 		<criteria>Port Bunarina, Pula, Croatia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bangalore</city>
@@ -4829,6 +5399,8 @@
 		<areas></areas>
 		<criteria>Bangalore, India</criteria>
 		<ViatorURL>https://www.viator.com/Bangalore-tours/Cruises-Sailing-and-Water-Tours/d5310-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Basseterre</city>
@@ -4843,6 +5415,8 @@
 		<areas></areas>
 		<criteria>Basseterre, Saint Kitts And Nevis</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hamburg</city>
@@ -4857,6 +5431,8 @@
 		<areas></areas>
 		<criteria>Hamburg, Germany</criteria>
 		<ViatorURL>https://www.viator.com/Hamburg-tours/Cruises-Sailing-and-Water-Tours/d777-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bucharest</city>
@@ -4871,6 +5447,8 @@
 		<areas></areas>
 		<criteria>Bucharest, Danube, Romania</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cornwall</city>
@@ -4885,6 +5463,8 @@
 		<areas></areas>
 		<criteria>Cornwall, United Kingdom, England</criteria>
 		<ViatorURL>https://www.viator.com/Cornwall-tours/Cruises-Sailing-and-Water-Tours/d24556-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Oranjestad</city>
@@ -4899,6 +5479,8 @@
 		<areas></areas>
 		<criteria>Oranjestad, Aruba</criteria>
 		<ViatorURL>https://www.viator.com/Oranjestad-tours/Cruises-Sailing-and-Water-Tours/d50211-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Noord</city>
@@ -4913,6 +5495,8 @@
 		<areas></areas>
 		<criteria>Noord, Aruba</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nassau</city>
@@ -4927,6 +5511,8 @@
 		<areas></areas>
 		<criteria>Nassau, Bahamas</criteria>
 		<ViatorURL>https://www.viator.com/Nassau-tours/Cruises-Sailing-and-Water-Tours/d420-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Bridgetown</city>
@@ -4941,6 +5527,8 @@
 		<areas></areas>
 		<criteria>Bridgetown, Barbados</criteria>
 		<ViatorURL>https://www.viator.com/Bridgetown-tours/Cruises-Sailing-and-Water-Tours/d50217-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Placencia</city>
@@ -4955,6 +5543,8 @@
 		<areas></areas>
 		<criteria>Placencia, Laughing Bird Caye National Park, Belize</criteria>
 		<ViatorURL>https://www.viator.com/Placencia-tours/Cruises-Sailing-and-Water-Tours/d23725-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Playa Tamarindo</city>
@@ -4969,6 +5559,8 @@
 		<areas></areas>
 		<criteria>Playa Tamarindo, Costa Rica</criteria>
 		<ViatorURL>https://www.viator.com/Tamarindo-tours/Cruises-Sailing-and-Water-Tours/d24763-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -4983,6 +5575,8 @@
 		<areas></areas>
 		<criteria>Manuel Antonio National Park, Costa Rica</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>San Jose</city>
@@ -4997,6 +5591,8 @@
 		<areas></areas>
 		<criteria>San Jose, Costa Rica</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>La Fortuna</city>
@@ -5011,6 +5607,8 @@
 		<areas></areas>
 		<criteria>La Fortuna, Lake Arenal, Costa Rica</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -5025,6 +5623,8 @@
 		<areas></areas>
 		<criteria>Montego Bay, Jamaica</criteria>
 		<ViatorURL>https://www.viator.com/Montego-Bay-tours/Cruises-Sailing-and-Water-Tours/d432-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Negril</city>
@@ -5039,6 +5639,8 @@
 		<areas></areas>
 		<criteria>Negril, Montego Bay, Jamaica</criteria>
 		<ViatorURL>https://www.viator.com/Negril-tours/Cruises-Sailing-and-Water-Tours/d433-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Ocho Rios</city>
@@ -5053,6 +5655,8 @@
 		<areas></areas>
 		<criteria>Ocho Rios, Jamaica</criteria>
 		<ViatorURL>https://www.viator.com/Ocho-Rios-tours/Water-Sports/d434-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kingston</city>
@@ -5067,6 +5671,8 @@
 		<areas></areas>
 		<criteria>Kingston, Rio Grande, Jamaica</criteria>
 		<ViatorURL>https://www.viator.com/Kingston-tours/Cruises-Sailing-and-Water-Tours/d22634-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Panama City</city>
@@ -5081,6 +5687,8 @@
 		<areas></areas>
 		<criteria>Panama City, Panama</criteria>
 		<ViatorURL>https://www.viator.com/Panama-City-tours/Cruises-Sailing-and-Water-Tours/d950-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Soufriere</city>
@@ -5095,6 +5703,8 @@
 		<areas></areas>
 		<criteria>Soufriere, St. Lucia</criteria>
 		<ViatorURL>https://www.viator.com/Soufriere-tours/Cruises-Sailing-and-Water-Tours/d50297-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Tivua Island</city>
@@ -5109,6 +5719,8 @@
 		<areas></areas>
 		<criteria>Tivua Island, Fiji</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Nadi</city>
@@ -5123,6 +5735,8 @@
 		<areas></areas>
 		<criteria>Nadi, Fiji</criteria>
 		<ViatorURL>https://www.viator.com/Nadi-tours/Cruises-Sailing-and-Water-Tours/d4795-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Hong Kong</city>
@@ -5137,6 +5751,8 @@
 		<areas></areas>
 		<criteria>Hong Kong, Kowloon, China</criteria>
 		<ViatorURL>https://www.viator.com/Hong-Kong-SAR-tours/Cruises-Sailing-and-Water-Tours/d35959-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Varanasi</city>
@@ -5151,6 +5767,8 @@
 		<areas></areas>
 		<criteria>Varanasi, Uttar Pradesh, India</criteria>
 		<ViatorURL>https://www.viator.com/Varanasi-tours/Cruises-Sailing-and-Water-Tours/d22015-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kochi</city>
@@ -5165,6 +5783,8 @@
 		<areas></areas>
 		<criteria>Kochi, Kerala, India</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Panaji</city>
@@ -5179,6 +5799,8 @@
 		<areas></areas>
 		<criteria>Panaji, Goa, India</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lake Pichola</city>
@@ -5193,6 +5815,8 @@
 		<areas></areas>
 		<criteria>Lake Pichola, Rajasthan, India</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Chambal</city>
@@ -5207,6 +5831,8 @@
 		<areas></areas>
 		<criteria>Chambal, Agra, India</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Gili Islands</city>
@@ -5221,6 +5847,8 @@
 		<areas></areas>
 		<criteria>Gili Islands, Indonesia</criteria>
 		<ViatorURL>https://www.viator.com/Gili-Islands-tours/Cruises-Sailing-and-Water-Tours/d32622-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Langkawi</city>
@@ -5235,6 +5863,8 @@
 		<areas></areas>
 		<criteria>Langkawi, Kedah, Malaysia</criteria>
 		<ViatorURL>https://www.viator.com/Langkawi-tours/Cruises-Sailing-and-Water-Tours/d338-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Kuala Lumpur</city>
@@ -5249,6 +5879,8 @@
 		<areas></areas>
 		<criteria>Kuala Lumpur, Malaysia</criteria>
 		<ViatorURL>https://www.viator.com/Kuala-Lumpur-tours/Day-Cruises/d335-g3-c7?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -5263,6 +5895,8 @@
 		<areas></areas>
 		<criteria>Myanmar</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Busan</city>
@@ -5277,6 +5911,8 @@
 		<areas></areas>
 		<criteria>Busan, South Korea</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Colombo</city>
@@ -5291,6 +5927,8 @@
 		<areas></areas>
 		<criteria>Colombo, Sri Lanka</criteria>
 		<ViatorURL>https://www.viator.com/Colombo-tours/Cruises-Sailing-and-Water-Tours/d4619-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	
 	<location>
@@ -5306,6 +5944,8 @@
 		<areas></areas>
 		<criteria>El Calafate, Argentina</criteria>
 		<ViatorURL>https://www.viator.com/El-Calafate-tours/Cruises-Sailing-and-Water-Tours/d935-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -5320,6 +5960,8 @@
 		<areas></areas>
 		<criteria>Perito Moreno, Argentina</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Manaus</city>
@@ -5334,6 +5976,8 @@
 		<areas></areas>
 		<criteria>Manaus, Amazon River, Brazil</criteria>
 		<ViatorURL>https://www.viator.com/Manaus-tours/Cruises-Sailing-and-Water-Tours/d4441-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Rio de Janeiro</city>
@@ -5348,6 +5992,8 @@
 		<areas></areas>
 		<criteria>Rio de Janeiro, Brazil</criteria>
 		<ViatorURL>https://www.viator.com/Rio-de-Janeiro-tours/Cruises-Sailing-and-Water-Tours/d712-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Paraty</city>
@@ -5362,6 +6008,8 @@
 		<areas></areas>
 		<criteria>Paraty, Brazil</criteria>
 		<ViatorURL>https://www.viator.com/Paraty-tours/Water-Tours/d5426-g3-c40295?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Puerto El Morro</city>
@@ -5376,20 +6024,8 @@
 		<areas></areas>
 		<criteria>Puerto El Morro, Ecuador</criteria>
 		<ViatorURL></ViatorURL>
-	</location>
-	<location>
-		<city>Foz do Iguaçu</city>
-		<state>Foz do Iguaçu</state>
-		<country>Paraguay</country>
-		<image>Foz-do-Iguaçu</image>	
-		<place>Foz do Iguaçu</place>	
-		<search>boat</search>
-		<text></text>	
-		<link></link>
-		<link2>foz-do-iguaçu</link2>
-		<areas></areas>
-		<criteria>Foz do Iguaçu, Foz do Iguaçu, Paraguay</criteria>
-		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Paracas</city>
@@ -5404,6 +6040,8 @@
 		<areas></areas>
 		<criteria>Paracas, Ballestas Islands, Peru</criteria>
 		<ViatorURL>https://www.viator.com/Paracas-tours/Cruises-Sailing-and-Water-Tours/d23785-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Iquitos</city>
@@ -5418,6 +6056,8 @@
 		<areas></areas>
 		<criteria>Iquitos, Amazon River, Peru</criteria>
 		<ViatorURL>https://www.viator.com/Iquitos-tours/Cruises-Sailing-and-Water-Tours/d4725-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Lima</city>
@@ -5432,6 +6072,8 @@
 		<areas></areas>
 		<criteria>Lima, Peru</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Cusco</city>
@@ -5446,6 +6088,8 @@
 		<areas></areas>
 		<criteria>Cusco, Lake Titicaca, Peru</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city>Grand Baie</city>
@@ -5460,6 +6104,8 @@
 		<areas></areas>
 		<criteria>Grand Baie, Mauritius</criteria>
 		<ViatorURL>https://www.viator.com/Grand-Baie-tours/Cruises-Sailing-and-Water-Tours/d23971-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 	<location>
 		<city></city>
@@ -5474,6 +6120,8 @@
 		<areas></areas>
 		<criteria>Antarctica</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5489,6 +6137,8 @@
 		<areas></areas>
 		<criteria>Argentina</criteria>
 		<ViatorURL>https://www.viator.com/Argentina-tours/Cruises-Sailing-and-Water-Tours/d78-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5504,6 +6154,8 @@
 		<areas></areas>
 		<criteria>Aruba</criteria>
 		<ViatorURL>https://www.viator.com/Aruba-tours/Cruises-Sailing-and-Water-Tours/d28-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5519,6 +6171,8 @@
 		<areas></areas>
 		<criteria>Barbados</criteria>
 		<ViatorURL>https://www.viator.com/Barbados-tours/Cruises-Sailing-and-Water-Tours/d30-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5534,6 +6188,8 @@
 		<areas></areas>
 		<criteria>Belgium</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5549,6 +6205,8 @@
 		<areas></areas>
 		<criteria>Brazil</criteria>
 		<ViatorURL>https://www.viator.com/Brazil-tours/Cruises-Sailing-and-Water-Tours/d79-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5564,6 +6222,8 @@
 		<areas></areas>
 		<criteria>Cambodia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5579,6 +6239,8 @@
 		<areas></areas>
 		<criteria>Canada</criteria>
 		<ViatorURL>https://www.viator.com/Canada-tours/Cruises-Sailing-and-Water-Tours/d75-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5594,6 +6256,8 @@
 		<areas></areas>
 		<criteria>Denmark</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5609,6 +6273,8 @@
 		<areas></areas>
 		<criteria>Dominican Republic</criteria>
 		<ViatorURL>https://www.viator.com/Dominican-Republic-tours/Cruises-Sailing-and-Water-Tours/d32-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5624,6 +6290,8 @@
 		<areas></areas>
 		<criteria>Ecuador</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5639,6 +6307,8 @@
 		<areas></areas>
 		<criteria>Egypt</criteria>
 		<ViatorURL>https://www.viator.com/Egypt-tours/Cruises-Sailing-and-Water-Tours/d722-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5654,6 +6324,8 @@
 		<areas></areas>
 		<criteria>England</criteria>
 		<ViatorURL>https://www.viator.com/England-tours/Water-Sports/d731-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 
@@ -5670,6 +6342,8 @@
 		<areas></areas>
 		<criteria>Germany</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 
@@ -5686,6 +6360,8 @@
 		<areas></areas>
 		<criteria>Greenland</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5701,6 +6377,8 @@
 		<areas></areas>
 		<criteria>Guatemala</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5716,6 +6394,8 @@
 		<areas></areas>
 		<criteria>India</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5731,6 +6411,8 @@
 		<areas></areas>
 		<criteria>Jamaica</criteria>
 		<ViatorURL>https://www.viator.com/Jamaica-tours/Sailing-Trips/d34-g3-c10?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5746,6 +6428,8 @@
 		<areas></areas>
 		<criteria>Latvia</criteria>
 		<ViatorURL>https://www.viator.com/Latvia-tours/Cruises-Sailing-and-Water-Tours/d4479-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5761,6 +6445,8 @@
 		<areas></areas>
 		<criteria>Mexico</criteria>
 		<ViatorURL>https://www.viator.com/Mexico-tours/Cruises-Sailing-and-Water-Tours/d76-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5776,6 +6462,8 @@
 		<areas></areas>
 		<criteria>Montenegro</criteria>
 		<ViatorURL>https://www.viator.com/Montenegro-tours/Cruises-Sailing-and-Water-Tours/d4475-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5791,6 +6479,8 @@
 		<areas></areas>
 		<criteria>Netherlands</criteria>
 		<ViatorURL>https://www.viator.com/Netherlands-tours/Cruises-Sailing-and-Water-Tours/d60-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5806,6 +6496,8 @@
 		<areas></areas>
 		<criteria>Oman</criteria>
 		<ViatorURL>https://www.viator.com/Oman-tours/Cruises-Sailing-and-Water-Tours/d745-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5821,6 +6513,8 @@
 		<areas></areas>
 		<criteria>Panama</criteria>
 		<ViatorURL>https://www.viator.com/Panama-City-tours/Cruises-Sailing-and-Water-Tours/d950-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5836,6 +6530,8 @@
 		<areas></areas>
 		<criteria>Paraguay</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5851,6 +6547,8 @@
 		<areas></areas>
 		<criteria>Peru</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5866,6 +6564,8 @@
 		<areas></areas>
 		<criteria>Philippines</criteria>
 		<ViatorURL>https://www.viator.com/Philippines-tours/Cruises-Sailing-and-Water-Tours/d4603-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5881,6 +6581,8 @@
 		<areas></areas>
 		<criteria>Portugal</criteria>
 		<ViatorURL>https://www.viator.com/Portugal-tours/Cruises-Sailing-and-Water-Tours/d63-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5896,6 +6598,8 @@
 		<areas></areas>
 		<criteria>Romania</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5911,6 +6615,8 @@
 		<areas></areas>
 		<criteria>Russia</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5926,6 +6632,8 @@
 		<areas></areas>
 		<criteria>Saint Kitts and Nevis</criteria>
 		<ViatorURL>https://www.viator.com/St-Kitts-tours/Sailing-Trips/d930-g3-c10?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5941,6 +6649,8 @@
 		<areas></areas>
 		<criteria>South Africa</criteria>
 		<ViatorURL>https://www.viator.com/South-Africa-tours/Cruises-Sailing-and-Water-Tours/d11-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5956,6 +6666,8 @@
 		<areas></areas>
 		<criteria>South Korea</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5971,6 +6683,8 @@
 		<areas></areas>
 		<criteria>Spain</criteria>
 		<ViatorURL>https://www.viator.com/Spain-tours/Cruises-Sailing-and-Water-Tours/d67-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -5986,6 +6700,8 @@
 		<areas></areas>
 		<criteria>St. Martin</criteria>
 		<ViatorURL>https://www.viator.com/St-Martin-tours/Water-Sports/d5624-g17?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6001,6 +6717,8 @@
 		<areas></areas>
 		<criteria>Switzerland</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6016,6 +6734,8 @@
 		<areas></areas>
 		<criteria>Trinidad and Tobago</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6031,6 +6751,8 @@
 		<areas></areas>
 		<criteria>Ukraine</criteria>
 		<ViatorURL></ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6046,6 +6768,8 @@
 		<areas></areas>
 		<criteria>United Arab Emirates</criteria>
 		<ViatorURL>https://www.viator.com/United-Arab-Emirates-tours/Cruises-Sailing-and-Water-Tours/d743-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6061,6 +6785,8 @@
 		<areas></areas>
 		<criteria>United States</criteria>
 		<ViatorURL>https://www.viator.com/USA-tours/Port-Transfers/d77-g24-c4032?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6075,6 +6801,8 @@
 		<areas></areas>
 		<criteria>Vietnam</criteria>
 		<ViatorURL>https://www.viator.com/Vietnam-tours/Cruises-Sailing-and-Water-Tours/d21-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6090,6 +6818,8 @@
 		<areas></areas>
 		<criteria>Bali, Komodo Island, Indonesia</criteria>
 		<ViatorURL>https://www.viator.com/Bali-tours/Cruises-Sailing-and-Water-Tours/d98-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6105,6 +6835,8 @@
 		<areas></areas>
 		<criteria>Cayman Islands</criteria>
 		<ViatorURL>https://www.viator.com/Cayman-Islands-tours/Cruises-Sailing-and-Water-Tours/d31-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6120,6 +6852,8 @@
 		<areas></areas>
 		<criteria>Marthas Vineyard, Massachusetts</criteria>
 		<ViatorURL>https://www.viator.com/Marthas-Vineyard-tours/Cruises-Sailing-and-Water-Tours/d50772-g3</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6135,6 +6869,8 @@
 		<areas></areas>
 		<criteria>Texas, United States</criteria>
 		<ViatorURL>https://www.viator.com/Texas-tours/Fishing-Charters-and-Tours/d296-g9-c33?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 
 	<location>
@@ -6150,5 +6886,7 @@
 		<areas></areas>
 		<criteria>Finland</criteria>
 		<ViatorURL>https://www.viator.com/Finland-tours/Cruises-Sailing-and-Water-Tours/d50-g3?sortType=price_desc</ViatorURL>
+		<showViator>1</showViator>
+		<showGetYourGuide>1</showGetYourGuide>
 	</location>
 </countries>

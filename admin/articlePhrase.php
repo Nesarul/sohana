@@ -54,21 +54,4 @@
         protected function getArray(){
             return $this->_arr;
         }
-        protected function setAddress($address){
-            if(substr($address,-4) != ".php"){
-                echo "Invalid Address.";
-                die();
-            }
-            
-            $this->_arr = explode("/",$address);
-            $this->setSection();
-            $this->setFile();
-            try{
-                $this->_xml = simplexml_load_file($this->getFile());
-            }
-            catch (Exception $e) {
-                print "Error!: " . $e->getMessage() . "<br/>";
-                die();
-            }
-        }
     };

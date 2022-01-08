@@ -16,6 +16,16 @@
 		<image></image>
 	</item>
 	<item>
+		<caption>Yacht Rental Deals</caption>
+		<link>/deals.php</link>
+		<image></image>
+	</item>
+	<item>
+		<caption>Yacht NFTs</caption>
+		<link>/nft.php</link>
+		<image></image>
+	</item>
+	<item>
 		<caption>Contact Us</caption>
 		<link>/contact-us.php</link>
 		<image></image>

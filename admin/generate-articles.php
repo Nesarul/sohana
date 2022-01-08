@@ -1,11 +1,9 @@
 <?php
-    // require_once("./articlePhrase.php");
-    require_once("./tripsPhrase.php");
-    // $articles = artNode::getInstance("/articles/boat-jokes.php")->getXml();
-    $ar = new getTrip();
-    $ar->setUrl('localhost/articles/all-you-need-to-know-about-getting-married-on-a-yacht.php');
-    $articles = $ar->getAll();
-
+    require_once("./xmlDecode.php");
+    
+    $xmlData = new xmlDecode($_SERVER['DOCUMENT_ROOT']."/admin/assets/articles.xml",'dest');
+    $articles = $xmlData->getResults();
+  
     $xml = new DOMDocument();
     $xml->formatOutput = true;
 
@@ -16,14 +14,14 @@
     $root = $xml->createElement("urlset_xmlns");
     $root = $xml->appendChild($root);
 
-    foreach($articles as $art => $recArt){
+    foreach($articles as $art){
         $parent = $xml->createElement("url");
         $parent = $root->appendChild($parent);
 
         $link = $xml->createElement("loc");
         $link = $parent->appendChild($link);
 
-        $text = $xml->createTextNode('https://yachts.com/articles'.'/'.$recArt->link.'.php');
+        $text = $xml->createTextNode('https://yachts.com/articles'.'/'.$art->getElementsByTagName('link')->item(0)->nodeValue.'.php');
         $text = $link->appendChild($text);
     }
     
