@@ -1,42 +1,32 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT']."/".'/inc/header.php');
-    $address = $_GET['url'];
-    if(substr($address,-4) != ".php"){
-        echo "Invalid Address.";
-        die();
-    }
-        
-    $add = substr($address,0,-4);
-    $ar = explode('/',$add);
-    $link = $ar[0];
-    $xml = simplexml_load_file($_SERVER['DOCUMENT_ROOT']."/".'/admin/assets/articles.xml');
-    $records = $xml->xpath("//dest/link[contains(text(), '$link')]/parent::*");  
+<?php 
+    require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');
+    require_once($_SERVER['DOCUMENT_ROOT'].'/admin/articlePhrase.php');
+    
+    $art = new getArticle();
+    $articles = $art->getResults();
 ?>
 <div class="container">
     <div class="row py-5">
         <div class="col-12">
             <div class="card mb-3 w-100">
                 <div class="card-body">
-                    <div class="caption-image" <?php if($records[0]->image == "none")echo 'style="padding-top:85px";'?>>
-                        <?php if($records[0]->image != "none") : ?>
-                            <img src="/images/pages/<?php echo $records[0]->image; ?>.webp" alt="<?php echo $records[0]->image; ?>" class="img-fluid w-100 mb-3"> 
+                    <div class="caption-image" <?php if($articles[0]->getElementsByTagName('image')->item(0)->nodeValue == "none")echo 'style="padding-top:85px";'?>>
+                        <?php if($articles[0]->getElementsByTagName('image')->item(0)->nodeValue != "none") : ?>
+                            <img src="/images/pages/<?php echo $articles[0]->getElementsByTagName('image')->item(0)->nodeValue; ?>.webp" alt="<?php echo $articles[0]->getElementsByTagName('image')->item(0)->nodeValue; ?>" class="img-fluid w-100 mb-3"> 
                         <?php endif; ?>
                         <div class="caption-screen">
-                            <h2><?php echo $records[0]->title; ?></h2>
+                            <h2><?php echo $articles[0]->getElementsByTagName('title')->item(0)->nodeValue; ?></h2>
                         </div>
                     </div>
                     <?php 
-                        foreach($records[0]->text as $p => $tx){
-                            foreach($tx as $k => $p){
-                                echo $p;
-                            }
-                        }
+                        $i = $articles[0]->getElementsByTagName('text')->item(0)->childElementCount;
+                        if($i > 0)
+                            for($j = 0; $j < $i ; $j++)
+                                echo $articles[0]->getElementsByTagName('text')->item(0)->getElementsByTagName('p')->item($j)->nodeValue;
                     ?>
-
                 </div>
             </div>
-
-            
         </div>
     </div>
 </div>
-<?php require_once($_SERVER['DOCUMENT_ROOT']."/".'/inc/footer.php'); ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>

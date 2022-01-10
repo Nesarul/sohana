@@ -3,20 +3,20 @@
     require_once $_SERVER['DOCUMENT_ROOT']."/"."admin/functions.php";  
     $p = explode('/',$_SERVER['REQUEST_URI']);
     if($p[1] == 'articles' || $p[1] == 'trips')
-        $rec = getTitle();
+        $rec = getTitle($p[1]);
     $title = null;
     $desc = null;
 
     if($p[1] == 'articles'){
         if(!isset($rec) || count($rec) <= 0) die();
-        $title = $rec[0]->title;
-        $desc = $rec[0]->desc;
-        $key = $rec[0]->title;
+        $title = $rec[0]->getElementsByTagName('title')->item(0)->nodeValue;
+        $desc = $rec[0]->getElementsByTagName('desc')->item(0)->nodeValue;
+        $key = $rec[0]->getElementsByTagName('title')->item(0)->nodeValue;
     }elseif($p[1] == 'trips'){
         if(!isset($rec) || count($rec) <= 0) die();
-        $title = $rec[0]->place." Yacht Rentals.";
-        $desc = "Rent a yacht in ".$rec[0]->place." by the hour or day to spice up your vacation. All ".$rec[0]->place." boat trips, cruises, and charters include a captain.";
-        $key = $rec[0]->place;
+        $title = $rec[0]->getElementsByTagName('place')->item(0)->nodeValue." Yacht Rentals.";
+        $desc = "Rent a yacht in ".$rec[0]->getElementsByTagName('place')->item(0)->nodeValue." by the hour or day to spice up your vacation. All ".$rec[0]->getElementsByTagName('place')->item(0)->nodeValue." boat trips, cruises, and charters include a captain.";
+        $key = $rec[0]->getElementsByTagName('place')->item(0)->nodeValue;
     }else{
         $title = "Yachts.com";
         $desc = "Yachts.com";

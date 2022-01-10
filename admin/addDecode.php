@@ -7,7 +7,7 @@
                 $this->_error = "Invalid Address.";
                 die();
             }
-            $this->_path = explode('/',$address);
+            $this->_path = explode('/',substr($address,0,-4));
 
             // Delete the first item as it is reference the trip / article.
             array_splice($this->_path,0,2);
