@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1>Bismillahir Rahim</h1>
+                <h1>Bismillahir Rahmanir Rahim</h1>
             </div>
         </div>
     </div>
