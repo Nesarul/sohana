@@ -23,7 +23,9 @@
     "predict_time": 4.484541
   }
 */
+echo "<h1>Test here</h1>";
 if(isset($_POST['status'])){
 print_r($_POST);
+echo("Love is a feelings");
 }
 ?>
