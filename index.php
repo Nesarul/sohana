@@ -4,55 +4,71 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Capture Web camera image using WebcamJS and PHP</title>
-    <style type="text/css">
-        body { font-family: Helvetica, sans-serif; }
-        h2, h3 { margin-top:0; }
-        form { margin-top: 15px; }
-        form > input { margin-right: 15px; }
-        #results { float:right; margin:20px; padding:20px; border:1px solid; background:#ccc; }
-    </style>
-    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.26/webcam.js"></script>
+    
+    <!-- Required library for webcam -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" ></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.24/webcam.js"></script>
+    <!-- Bootstrap theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <div id="results">Your captured image will appear here...</div>
-    
-    <h1>Capture Web camera image using WebcamJS and PHP</h1>
-    <h3>Demonstrates simple 600x460 capture &amp; display</h3>
-    
-    <div id="my_camera"></div>
-    
-    <script language="JavaScript">
-        Webcam.set({
-            width: 600,
-            height: 460,
-            image_format: 'jpeg',
-            jpeg_quality: 90
-        });
-        Webcam.attach( '#my_camera' );
-    </script>
-    
-    <!-- A button for taking snaps -->
-    <form>
-        <input type=button value="Take Snapshot" onClick="take_snapshot()">
-    </form>
-    
-    <!-- Code to handle taking the snapshot and displaying it locally -->
-    <script language="JavaScript">
-        function take_snapshot() {
-            // take snapshot and get image data
-            Webcam.snap( function(data_uri) {
-                // display results in page
-                
-                    
-                Webcam.upload( data_uri, 'saveimage.php', function(code, text) {
-                    document.getElementById('results').innerHTML = 
-                    '<h2>Here is your image:</h2>' + 
-                    '<img src="'+text+'"/>';
-                } );    
-            } );
-        }
-    </script>
-    
+<div class="container">	
+  <div class="row">
+	<div class="col-lg-6" align="center">
+		<label>Capture live photo</label>
+		<div id="my_camera" class="pre_capture_frame" ></div>
+		<input type="hidden" name="captured_image_data" id="captured_image_data">
+		<br>
+		<input type="button" class="btn btn-info btn-round btn-file" value="Take Snapshot" onClick="take_snapshot()">	
+	</div>
+	<div class="col-lg-6" align="center">
+		<label>Result</label>
+		<div id="results" >
+			<img style="width: 350px;" class="after_capture_frame" src="image_placeholder.jpg" />
+		</div>
+		<br>
+		<button type="button" class="btn btn-success" onclick="saveSnap()">Save Picture</button>
+	</div>	
+  </div><!--  end row -->
+</div><!-- end container -->
+
+
+<script language="JavaScript">
+	 // Configure a few settings and attach camera 250x187
+	 Webcam.set({
+	  width: 350,
+	  height: 287,
+	  image_format: 'jpeg',
+	  jpeg_quality: 90
+	 });	 
+	 Webcam.attach( '#my_camera' );
+	
+	function take_snapshot() {
+	 // play sound effect
+	 //shutter.play();
+	 // take snapshot and get image data
+	 Webcam.snap( function(data_uri) {
+	 // display results in page
+	 document.getElementById('results').innerHTML = 
+	  '<img class="after_capture_frame" src="'+data_uri+'"/>';
+	 $("#captured_image_data").val(data_uri);
+	 });	 
+	}
+
+	function saveSnap(){
+	var base64data = $("#captured_image_data").val();
+	 $.ajax({
+			type: "POST",
+			dataType: "json",
+			url: "capture_image_upload.php",
+			data: {image: base64data},
+			success: function(data) { 
+				alert(data);
+			}
+		});
+	}
+</script>
+
 </body>
 </html>
