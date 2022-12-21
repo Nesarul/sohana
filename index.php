@@ -11,6 +11,8 @@
         form > input { margin-right: 15px; }
         #results { float:right; margin:20px; padding:20px; border:1px solid; background:#ccc; }
     </style>
+<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/webcamjs/1.0.26/webcam.js"></script>
 </head>
 <body>
     <div id="results">Your captured image will appear here...</div>
@@ -20,8 +22,8 @@
     
     <div id="my_camera"></div>
     
-    <!-- First, include the Webcam.js JavaScript Library -->
-    <script type="text/javascript" src="webcam.js"></script>
+    <!-- First, include the Webcam.js JavaScript Library
+    <script type="text/javascript" src="webcam.js"></script> -->
     
     <!-- Configure a few settings and attach camera -->
     <script language="JavaScript">
