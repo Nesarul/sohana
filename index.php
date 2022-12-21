@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Capture Web camera image using WebcamJS and PHP - Theonlytutorials.com</title>
+    <title>Capture Web camera image using WebcamJS and PHP</title>
     <style type="text/css">
         body { font-family: Helvetica, sans-serif; }
         h2, h3 { margin-top:0; }
@@ -17,7 +17,7 @@
 <body>
     <div id="results">Your captured image will appear here...</div>
     
-    <h1>Capture Web camera image using WebcamJS and PHP - Theonlytutorials.com</h1>
+    <h1>Capture Web camera image using WebcamJS and PHP</h1>
     <h3>Demonstrates simple 600x460 capture &amp; display</h3>
     
     <div id="my_camera"></div>
