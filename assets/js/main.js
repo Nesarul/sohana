@@ -17,21 +17,21 @@
     const canvas = document.querySelector("#canvas");
     const devicesSelect = document.querySelector("#devicesSelect");
   
-    video constraints
+    // video constraints
     const constraints = {
         video: {
             width: {
-                min: 150,
+                min: 180,
                 ideal: 320,
-                max: 560,
+                max: 400,
             },
             height: {
-                min:70,
+                min: 70,
                 ideal: 180,
                 max: 200,
             },
         },
-    // video constraints
+    };
     // const constraints = {
     //     video: {
     //         width: {
@@ -47,7 +47,6 @@
     //     },
     // };
   
-
     // use front face camera
     let useFrontCamera = false;
   
