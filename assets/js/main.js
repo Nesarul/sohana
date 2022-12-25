@@ -87,7 +87,7 @@
     // switch camera
     // btnChangeCamera.addEventListener("click", function () {
     //   useFrontCamera = !useFrontCamera;
-    $('#btnChangeCamera').on("click", function () {
+    btnChangeCamera.addEventListener("click", function () {
         useFrontCamera = !useFrontCamera;
         initializeCamera();
     });
