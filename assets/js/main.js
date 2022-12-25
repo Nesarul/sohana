@@ -17,22 +17,37 @@
     const canvas = document.querySelector("#canvas");
     const devicesSelect = document.querySelector("#devicesSelect");
   
-    // video constraints
+    video constraints
     const constraints = {
         video: {
             width: {
-                min: 1280,
-                ideal: 1920,
-                max: 2560,
+                min: 150,
+                ideal: 320,
+                max: 560,
             },
             height: {
-                min: 720,
-                ideal: 1080,
-                max: 1440,
+                min:70,
+                ideal: 180,
+                max: 200,
             },
         },
-    };
+    // video constraints
+    // const constraints = {
+    //     video: {
+    //         width: {
+    //             min: 1280,
+    //             ideal: 1920,
+    //             max: 2560,
+    //         },
+    //         height: {
+    //             min: 720,
+    //             ideal: 1080,
+    //             max: 1440,
+    //         },
+    //     },
+    // };
   
+
     // use front face camera
     let useFrontCamera = false;
   
