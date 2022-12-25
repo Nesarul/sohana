@@ -39,6 +39,33 @@
     // current video stream
     let videoStream;
   
+    // handle events
+    // play
+    btnPlay.addEventListener("click", function () {
+        video.play();
+        btnPlay.classList.add("is-hidden");
+        btnPause.classList.remove("is-hidden");
+    });
+  
+    // $('#btnPlay').on('click',function(){
+    //     video.play();
+    //     btnPlay.classList.add("is-hidden");
+    //     btnPause.classList.remove("is-hidden");
+    // });
+
+    // pause
+    btnPause.addEventListener("click", function () {
+      video.pause();
+      btnPause.classList.add("is-hidden");
+      btnPlay.classList.remove("is-hidden");
+    });
+  
+    // $('#btnPause').on('click', function () {
+    //     video.pause();
+    //     btnPause.classList.add("is-hidden");
+    //     btnPlay.classList.remove("is-hidden");
+    // });
+  
     // take screenshot
     btnScreenshot.addEventListener("click", function () {
       const img = document.createElement("img");
@@ -47,6 +74,22 @@
       canvas.getContext("2d").drawImage(video, 0, 0);
       img.src = canvas.toDataURL("image/png");
       screenshotsContainer.prepend(img);
+    });
+    // $('#btnScreenshot').on("click", function () {
+    //     const img = document.createElement("img");
+    //     canvas.width = video.videoWidth;
+    //     canvas.height = video.videoHeight;
+    //     canvas.getContext("2d").drawImage(video, 0, 0);
+    //     img.src = canvas.toDataURL("image/png");
+    //     screenshotsContainer.prepend(img);
+    // });
+  
+    // switch camera
+    // btnChangeCamera.addEventListener("click", function () {
+    //   useFrontCamera = !useFrontCamera;
+    btnChangeCamera.addEventListener("click", function () {
+        useFrontCamera = !useFrontCamera;
+        initializeCamera();
     });
   
     // stop video stream
