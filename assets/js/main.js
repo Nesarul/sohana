@@ -9,47 +9,26 @@
   
     // get page elements
     const video = document.querySelector("#video");
-    const btnPlay = document.querySelector("#btnPlay");
-    const btnPause = document.querySelector("#btnPause");
     const btnScreenshot = document.querySelector("#btnScreenshot");
-    const btnChangeCamera = document.querySelector("#btnChangeCamera");
     const screenshotsContainer = document.querySelector("#screenshots");
     const canvas = document.querySelector("#canvas");
-    const devicesSelect = document.querySelector("#devicesSelect");
   
     // video constraints
     const constraints = {
         video: {
             width: {
-                min: 300,
-                ideal: 300,
-                max: 300,
+                min: 200,
+                ideal: 200,
+                max: 200,
             },
             height: {
-                min: 300,
-                ideal: 300,
-                max: 3500,
+                min: 200,
+                ideal: 200,
+                max: 200,
             },
         },
     };
-    // const constraints = {
-    //     video: {
-    //         width: {
-    //             min: 1280,
-    //             ideal: 1920,
-    //             max: 2560,
-    //         },
-    //         height: {
-    //             min: 720,
-    //             ideal: 1080,
-    //             max: 1440,
-    //         },
-    //     },
-    // };
-  
-    // use front face camera
-    let useFrontCamera = false;
-  
+    
     // current video stream
     let videoStream;
   
@@ -75,7 +54,7 @@
     // initialize
     async function initializeCamera() {
         stopVideoStream();
-        constraints.video.facingMode = useFrontCamera ? "user" : "environment";
+        constraints.video.facingMode = "environment";
     
         try {
             videoStream = await navigator.mediaDevices.getUserMedia(constraints);
@@ -83,7 +62,7 @@
         } catch (err) {
             alert("Could not access the camera");
         }
-        }
+    }
     
         initializeCamera();
   })();
